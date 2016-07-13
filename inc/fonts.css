@@ -1,0 +1,50 @@
+
+/* @import must be at top of file, otherwise CSS will not work */
+/*@import url("//hello.myfonts.net/count/2f2374");*/
+
+  
+@font-face {
+    font-family: 'Clinica Pro Regular';
+    src: url('/inc/fonts/clinica-pro/2F2374_0_0.eot');
+    src: url('/inc/fonts/clinica-pro/2F2374_0_0.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/clinica-pro/2F2374_0_0.woff2') format('woff2'),
+         url('/inc/fonts/clinica-pro/2F2374_0_0.woff') format('woff'),
+         url('/inc/fonts/clinica-pro/2F2374_0_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ropa Sans Italic';
+    src: url('/inc/fonts/ropa-sans/2ED6E7_0_0.eot');
+    src: url('/inc/fonts/ropa-sans/2ED6E7_0_0.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/ropa-sans/2ED6E7_0_0.woff2') format('woff2'),
+         url('/inc/fonts/ropa-sans/2ED6E7_0_0.woff') format('woff'),
+         url('/inc/fonts/ropa-sans/2ED6E7_0_0.ttf') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Ropa Sans Regular';
+    src: url('/inc/fonts/ropa-sans/2ED6E7_1_0.eot');
+    src: url('/inc/fonts/ropa-sans/2ED6E7_1_0.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/ropa-sans/2ED6E7_1_0.woff2') format('woff2'),
+         url('/inc/fonts/ropa-sans/2ED6E7_1_0.woff') format('woff'),
+         url('/inc/fonts/ropa-sans/2ED6E7_1_0.ttf') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Ropa Sans SC Italic';
+    src: url('/inc/fonts/ropa-sans/2ED6E7_2_0.eot');
+    src: url('/inc/fonts/ropa-sans/2ED6E7_2_0.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/ropa-sans/2ED6E7_2_0.woff2') format('woff2'),
+         url('/inc/fonts/ropa-sans/2ED6E7_2_0.woff') format('woff'),
+         url('/inc/fonts/ropa-sans/2ED6E7_2_0.ttf') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Ropa Sans SC Regular';
+    src: url('/inc/fonts/ropa-sans/2ED6E7_3_0.eot');
+    src: url('/inc/fonts/ropa-sans/2ED6E7_3_0.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/ropa-sans/2ED6E7_3_0.woff2') format('woff2'),
+         url('/inc/fonts/ropa-sans/2ED6E7_3_0.woff') format('woff'),
+         url('/inc/fonts/ropa-sans/2ED6E7_3_0.ttf') format('truetype');
+}
+ 

@@ -1,0 +1,17 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /i/
+Disallow: /inc/
+Disallow: /files/
+
+Disallow: */panorama/
+Disallow: */panorama.asp
+Disallow: */banner/
+Disallow: */photo-s/
+Disallow: */photo-l/
+
+Host: hillpark.ru
+
+Sitemap: http://hillpark.ru/sitemap.xml

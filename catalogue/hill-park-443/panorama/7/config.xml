@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="" hideabout="1">
+  <view fovmode="3" pannorth="0">
+    <start pan="-0.3" fov="105.9854944871655" tilt="0.5"/>
+    <min pan="-115" fov="5" tilt="-39.69674153796478"/>
+    <max pan="115" fov="120" tilt="39.69674153796478"/>
+  </view>
+  <userdata title="" datetime="2015:09:30 16:20:06" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+    <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <input tile0url="images/12_IMG_7971_Panorama1_o_0.jpg" prev5url="images/12_IMG_7971_Panorama1_o_preview_5.jpg" prev4url="images/12_IMG_7971_Panorama1_o_preview_4.jpg" prev3url="images/12_IMG_7971_Panorama1_o_preview_3.jpg" prev2url="images/12_IMG_7971_Panorama1_o_preview_2.jpg" prev1url="images/12_IMG_7971_Panorama1_o_preview_1.jpg" prev0url="images/12_IMG_7971_Panorama1_o_preview_0.jpg" tile5url="images/12_IMG_7971_Panorama1_o_5.jpg" tilesize="2000" tile4url="images/12_IMG_7971_Panorama1_o_4.jpg" tile3url="images/12_IMG_7971_Panorama1_o_3.jpg" tilescale="1.005" tile2url="images/12_IMG_7971_Panorama1_o_2.jpg" tile1url="images/12_IMG_7971_Panorama1_o_1.jpg">
+    <preview color="0x808080"/>
+  </input>
+  <autorotate speed="0.010" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+  <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+</panorama>

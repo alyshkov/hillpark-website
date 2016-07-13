@@ -1,0 +1,500 @@
+﻿html, body {
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+    border: 0px;
+}
+
+sup {
+    font-size: 0.6em;
+}
+
+ul {
+    margin-top: 0px;
+}
+
+.site-banner {
+    margin: 10px auto 0px auto;
+	width: 934px;
+	height: 90px;
+}
+
+.page-banner {
+    overflow: hidden;
+    margin: 0px auto;
+    width: 934px;
+    height: 286px;
+}
+
+.page-banner .left {
+    width: 486px;
+    max-width: 486px;
+    float: left;
+}
+
+.page-banner .right {
+    width: 446px;
+    max-width: 446px;
+    float: right;
+}
+
+.banner-slider, .banner-slider li {
+    padding: 0;
+    margin: 0;
+}
+
+.bx-wrapper .bx-viewport {
+    -moz-box-shadow: 0 0 0px !important;
+    -webkit-box-shadow: 0 0 0px !important;
+    box-shadow: 0 0 0px !important;
+    border: 0px !important;
+    left: 0px !important;
+}
+
+.ribbon {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.ribbon-content {
+    height: 254px;
+    width: 10000px;
+}
+
+.ribbon img {
+    float: left;
+    margin-right: 2px;
+}
+
+.page-menu {
+	width: 934px;
+	background: #006938;
+	padding-top: 5px;
+    margin: 0px auto;
+    height: 30px;
+}
+
+.page-menu-background {
+    width: 100%;
+    background: white;
+    margin-bottom: 2px;
+}
+
+.page-menu a {
+	color: white;
+	font-family: 'Ropa Sans SC Regular', sans-serif;
+	font-size: 17px;
+	margin-left: 13px;
+    padding: 4px 15px 5px 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+    display: inline-block;
+}
+
+.page-menu a:hover, .page-menu a.selected {
+    background-color: white;
+    color: #7d4707;
+}
+
+.page-content {
+	width: 894px; 
+	display: block;
+	position: relative;
+	clear: both;
+    margin: auto;
+}
+
+.site-logo {
+	float: left;
+    padding-top: 0px;
+    padding-left: 21px;
+}
+
+.k-footer {
+	clear: both;
+	width: 894px;
+    margin: 0px 0px 10px 0px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	font-family: 'Ropa Sans SC Regular', sans-serif;
+	vertical-align: bottom;
+}
+
+.k-footer .copyright {
+    padding-left: 150px;
+    font-size: 0.9em;
+    color: #555555;
+    position: relative;
+    float: right;
+    padding-right: 25px;
+    padding-top: 3px;
+}
+
+.k-phone {
+	color: #3d69a8;
+	background: url('/i/footer-links-phone.png') left 1px no-repeat;
+	padding: 0 0 0 28px;
+	text-transform: uppercase;
+	/*font-size : 1.4em;*/
+	/*margin-top: 40px;*/
+	height: 30px;
+	vertical-align:top;
+	font-size:18px;
+    margin-right: 10px;
+}
+
+.k-email {
+	color: #3d69a8;
+	margin-left: 40px;
+	background: url('/i/footer-links-email.png') left 1px no-repeat;
+	padding: 0 0 0 28px;
+	/*padding: 2px 0 2px 24px;*/
+	text-transform: uppercase;
+	height: 30px;
+	vertical-align:top;
+	font-size:18px;
+}
+
+.k-email a {
+	color: #3d69a8;
+	text-decoration: none;
+	font-size:100%;
+}
+
+h1, h2, h3 {
+    font-family: 'Ropa Sans SC Regular', sans-serif;
+}
+
+h1 {
+	margin: 30px 0 30px 0;
+	font-size: 2.12em;
+    font-weight: normal;
+	text-transform: uppercase;
+	color: #3d69a8;
+}
+
+.house h1 {
+    margin: 20px 0 10px 10px;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 1.37em;
+    font-weight: normal;
+	color: #3d69a8;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+h3 {
+	text-transform: uppercase;
+	font-size: 1.11em;
+    font-weight: bold;
+	color: #236929;
+	margin-top: 1.2em;
+	margin-bottom: 0.5em;
+}
+
+.back {
+   	font-family: 'Ropa Sans SC Regular', sans-serif;
+	text-transform: uppercase;
+    font-weight: normal;
+    font-size: 1.5em;
+    color: #F0F0F0;
+    position: fixed;
+    right: 20px;
+    bottom: 0px;
+    cursor: pointer;
+    padding: 0px 8px 0px 35px;
+    background: #111111 url("/i/back.png") no-repeat 5px 6px;
+}
+
+.back:hover {
+    text-decoration: underline;
+}
+
+img {
+    border: none;
+}
+
+img.inline {
+    width: 400px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    clear: both;
+}
+
+img.inline.left {
+    float: left;
+    margin-right: 20px;
+}
+
+img.inline.right {
+    float: right;
+    margin-left: 20px;
+}
+
+.catalogue-item {
+    font-family: 'Ropa Sans SC Regular', sans-serif;
+    white-space: nowrap;
+    margin-bottom: 26px;
+}
+
+.catalogue-item:hover {
+    background-color: #eaf6e8;
+    cursor: pointer;
+}
+
+.catalogue-item table, .catalogue-item tr, .catalogue-item td {
+    border: 0;
+    border-spacing: 0;
+    padding: 0;
+}
+
+.catalogue-item .photo {
+    width: 313px;
+}
+
+.catalogue-item .td-info {
+    width: 100%;
+}
+
+.catalogue-item .td-price {
+    vertical-align: bottom;
+    text-align: center;
+    width: 250px;
+    min-width: 250px;
+}
+
+.catalogue-item .title {
+    text-align: center;
+    color: #006938;
+    font-size: 2em;
+    padding-bottom: 3px;
+}
+
+.catalogue-item .info {
+    text-align: center;
+    padding: 0px 20px 0px 12px;
+}
+
+.catalogue-item .info table {
+    width: 100%;
+}
+
+.catalogue-item .info .prop {
+    font-size: 1.3em;
+    color: black;
+}
+
+.catalogue-item .info td.prop, .catalogue-item .info td.value {
+    width: 50%;
+}
+
+.catalogue-item  .info td.prop {
+    position: relative;
+    top: 7px;
+}
+
+.catalogue-item .info .value {
+    font-size: 2.85em;
+    color: #006938;
+}
+
+.catalogue-item .info .plus {
+    font-size: 2em;
+    color: #006938;
+}
+
+.catalogue-item .price {
+    color: white;
+    text-align: center;
+    background-color: #006938;
+    font-size: 1.3em;
+    white-space: nowrap;
+}
+
+.catalogue-item .price .line2 {
+    position: relative;
+    top: -10px;
+}
+
+.catalogue-item .price-value {
+    font-size: 2.5em;
+}
+
+.text p {
+    text-align: justify;
+}
+
+a img {
+	border: 0;
+}
+
+.stub {
+	width: 1024px;
+	height: 430px;
+	background-color: gray;
+}
+div.clicker {
+	border: 10px solid silver;
+	width: 120px;
+	height: 120px;
+}
+
+.clicker a:hover {
+	color: white;
+}
+
+.option {
+    float: right;
+    margin-right: -15px;
+    background: url('/i/green_label.png') right top no-repeat;
+    color: white;
+	font-family: 'Ropa Sans SC Regular', sans-serif;
+    font-size: 1.2em;
+    padding: 42px 0 10px 105px;
+    height: 165px;
+    width: 240px;
+    margin-top: -60px;
+    text-transform: uppercase;
+    line-height: 1.3em;
+}
+
+.price-range {
+    padding-top: 7px;
+    padding-bottom: 8px;
+    line-height: 1.1em;
+}
+
+.price-range .price {
+    line-height: 1em;
+}
+
+.k-price-label {
+	margin: -64px 0 0 -20px;
+	float: left;
+	background: url('/i/white_label_220.png') left top no-repeat;
+    color: #5a6870;
+	font-family: 'Ropa Sans SC Regular', sans-serif;
+	font-weight: bold;
+	font-size: 0.9em;
+	text-transform: uppercase;
+	padding: 65px 25px 20px 20px;
+	height: 180px;
+	width: 180px;
+    /*line-height: 4em;*/
+    text-align: center;
+}
+
+.k-price-label span.price, .k-price-label span.currency {
+    color: #1b71b2;
+    padding-left: 3px;
+}
+
+.k-price-label span.price {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+.k-price-label span.currency {
+	font-weight: bold;
+}
+
+.sold-label {
+    font-weight: bold;
+    color: #C51A1A;
+    padding: 4px 8px;
+    border: 3px solid #C51A1A;
+    display: inline-block;
+    -ms-transform: rotate(-10deg); /* IE 9 */
+    -webkit-transform: rotate(-10deg); /* Safari */
+    transform: rotate(-10deg);
+}
+
+.k-price-label .sold-label {
+    font-size: 1.7em;
+    margin-top: 60px;
+}
+
+.catalogue-item .sold-label {
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.house-images img {
+    width: 894px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.photo-gallery img {
+    width: 296px;
+    height: 197px;
+    margin: 1px;
+}
+
+.panoramas img {
+    width: 894px;
+    height: 230px;
+    margin-bottom: 10px;
+}
+
+.panoramas .title {
+    float: right;
+    font-family: 'Ropa Sans SC Regular', sans-serif;
+    position: relative;
+    top: 3px;
+}
+
+.pbHide .pbWrapper > .prepare {
+    opacity: 0;
+    transform: scale(0.9); 
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+}
+
+.pbWrapper > img {
+    transition: .4s ease-out;
+}
+
+a.k-pdf {
+    font-family: 'Ropa Sans SC Regular', sans-serif;
+	background: url('/i/pdf.png') left top no-repeat;
+	padding: 5px 0 5px 40px;
+	display: inline-block;
+	color: blue;
+    font-size: 1.2em;
+}
+
+.spacer {
+	clear: both;
+	height: 4px;
+	margin: 40px 0 20px 0px;
+    background-color: #006938;
+}
+
+.spacer-white {
+	clear: both;
+	height: 18px;
+	margin: 0;
+}
+
+.emphasize {
+    font-weight: bold;
+    /*font-size: 1.0em;*/
+}
+
+.page-content p, 
+.page-content li {
+	font-family: 'Clinica Pro Regular', sans-serif;
+	font-size: 1em;
+    line-height: 1.4em;
+    color: #414042;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
