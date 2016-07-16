@@ -36,7 +36,8 @@
 
         <div class="spacer-white"></div>
 
-		<div><a class="k-pdf" href="/files/Booklet_HillPark.pdf">Скачать полный каталог</a></div>
+        <div class="kk-link-placeholder"><a class="external-link kk-link" href="http://kaptenens-klubb.ru/catalogue/">Больше домов в проекте <strong>«Kaptenens Klubb»</strong></a></div>
+		<div class="k-pdf-placeholder"><a class="external-link k-pdf" href="/files/Booklet_HillPark.pdf">Скачать полный каталог</a></div>
 
 		<!--#include virtual="/inc/footer.inc"-->
 	</div>
