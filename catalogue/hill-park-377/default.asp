@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <!--#include virtual="/inc/head.inc"-->
-<title>HILL PARK 372/404</title>
+<title>HILL PARK 377/404</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.inc"-->
@@ -15,17 +15,16 @@
                 <li><img src="banner/left_3.jpg"/></li>
                 <li><img src="banner/left_4.jpg"/></li>
                 <li><img src="banner/left_5.jpg"/></li>
-                <li><img src="banner/left_6.jpg"/></li>
             </ul>
         </div>
         <div class="right">
             <ul class="banner-slider">
-                <li><img src="banner/right_1.jpg"/></li>
-                <li><img src="banner/right_2.jpg"/></li>
-                <li><img src="banner/right_3.jpg"/></li>
-                <li><img src="banner/right_4.jpg"/></li>
-                <li><img src="banner/right_5.jpg"/></li>
                 <li><img src="banner/right_6.jpg"/></li>
+                <li><img src="banner/right_5.jpg"/></li>
+                <li><img src="banner/right_4.jpg"/></li>
+                <li><img src="banner/right_3.jpg"/></li>
+                <li><img src="banner/right_2.jpg"/></li>
+                <li><img src="banner/right_1.jpg"/></li>             
             </ul>
         </div>
 	</div>
@@ -43,20 +42,20 @@
 	            <div><span class="price">24,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
-		<h1>HILL PARK 372/404</h1>
+		<h1>HILL PARK 377/404</h1>
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />
             &nbsp;&nbsp; + парк на крыше<br />
-            дом: <span class="emphasize">372 м<sup>2</sup></span><br />
+            дом: <span class="emphasize">377 м<sup>2</sup></span><br />
             парк на крыше: <span class="emphasize">404 м<sup>2</sup></span><br />
 		</div>
-		<p>Дом площадью 372 кв. м. (внутренние отапливаемые помещения - 220 кв. м., террасы и хозяйственные помещения - 151 кв. м.) с парком на крыше площадью 404 кв. м.</p>
+		<p>Дом площадью 377 кв. м. (внутренние отапливаемые помещения - 196 кв. м., террасы и хозяйственные помещения - 181 кв. м.) с парком на крыше площадью 404 кв. м.</p>
         <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №126.</p>
 		<div class="spacer"></div>
         <div class="house-images">
-	        <img src="plan-1.png"/>
-	        <img src="plan-2.png"/>
+	        <!--<img src="plan-1.png"/>
+	        <img src="plan-2.png"/>-->
         </div>
 		<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
