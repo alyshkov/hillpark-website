@@ -30,7 +30,23 @@
         <% title="«HILL PARK 290/440»" %>
         <% house="290" %>
         <% roof="440" %>
-        <% price="17,42" %>
+        <% price="21,9" %>
+        <% sold=false %>
+        <!--#include virtual="/catalogue/_thumb.inc"-->
+        
+        <% href="/catalogue/hill-park-361/" %>
+        <% title="«HILL PARK 361/446»" %>
+        <% house="361" %>
+        <% roof="446" %>
+        <% price="19,9" %>
+        <% sold=false %>
+        <!--#include virtual="/catalogue/_thumb.inc"-->
+        
+        <% href="/catalogue/hill-park-377/" %>
+        <% title="«HILL PARK 377/404»" %>
+        <% house="377" %>
+        <% roof="404" %>
+        <% price="19,9" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 

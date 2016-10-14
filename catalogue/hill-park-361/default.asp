@@ -35,12 +35,8 @@
 		<!-- #BeginEditable "content" -->
 		<div class="k-price-label">
             <div class="price-range">
-                ДОМ БЕЗ ОТДЕЛКИ<br>+ УЧАСТОК
-	            <div><span class="price">19,9</span><span class="currency"> МЛН. РУБ.</span></div>
-            </div>
-            <div class="price-range">
                 Дом с полной отделкой<br>+ УЧАСТОК
-	            <div><span class="price">24,9</span><span class="currency"> МЛН. РУБ.</span></div>
+	            <div><span class="price">19,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
 		<h1>HILL PARK 361/446</h1>

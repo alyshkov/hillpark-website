@@ -366,13 +366,13 @@ div.clicker {
 }
 
 .price-range {
-    padding-top: 7px;
+    padding-top: 60px;
     padding-bottom: 8px;
     line-height: 1.1em;
 }
 
 .price-range .price {
-    line-height: 1em;
+    line-height: 1.2em;
 }
 
 .k-price-label {
@@ -397,7 +397,7 @@ div.clicker {
 }
 
 .k-price-label span.price {
-	font-size: 3em;
+	font-size: 3.7em;
 	font-weight: bold;
 }
 
@@ -418,7 +418,7 @@ div.clicker {
 
 .k-price-label .sold-label {
     font-size: 1.7em;
-    margin-top: 60px;
+    margin-top: 80px;
 }
 
 .catalogue-item .sold-label {
