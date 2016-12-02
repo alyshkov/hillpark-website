@@ -9,7 +9,8 @@
   "IMG_3139.JPG",
   "IMG_3140.JPG",
   "07.jpg",
-  "IMG_5966.JPG"
+  "IMG_5966.JPG",
+  "IMG_9904.JPG"
   ]
 
   if(!window.photos) window.photos = [];
