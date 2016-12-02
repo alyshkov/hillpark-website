@@ -13,6 +13,9 @@
   "IMG_8043_HDR.jpg",
   "IMG_8089_.jpg",
   "IMG_8099.jpg",
+  "IMG_9894.JPG",
+  "IMG_9887.JPG",
+  "IMG_9881.JPG"
   ]
 
   if(!window.photos) window.photos = [];
