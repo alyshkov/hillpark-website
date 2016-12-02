@@ -55,11 +55,10 @@
         </div>
 		<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
-        <div class="photo-gallery">
-            <img src="photo-s/03.jpg" /><img src="photo-s/04.jpg" /><img src="photo-s/05.jpg" /><img src="photo-s/06.jpg" /><img src="photo-s/08.jpg" /><img src="photo-s/09.jpg" /><img src="photo-s/10.jpg" /><img src="photo-s/11.jpg" /><img src="photo-s/164_IMG_0115_Panorama1.jpg" /><img src="photo-s/164_IMG_9334_Panorama1.jpg" /><img src="photo-s/IMG_0463_Panorama1.jpg" /><img src="photo-s/IMG_7717.jpg" /><img src="photo-s/IMG_7723.jpg" /><img src="photo-s/IMG_7756.jpg" /><img src="photo-s/IMG_8055_HDR.jpg" /><img src="photo-s/IMG_8062.jpg" /><img src="photo-s/IMG_8070.jpg" /><img src="photo-s/IMG_8071.jpg" /><img src="photo-s/IMG_8073.jpg" /><img src="photo-s/IMG_8075.jpg" /><img src="photo-s/IMG_8079.jpg" /><img src="photo-s/IMG_8082.jpg" /><img src="photo-s/IMG_8083.jpg" />
-        </div>
-
+        <div class="photo-gallery"></div>
         <div class="back">ВЕРНУТЬСЯ</div>
-	<!--#include virtual="/inc/footer.inc"--></div>
+        <!--#include file="photos.inc"-->
+	    <!--#include virtual="/inc/footer.inc"-->
+	</div>
 </body>
 </html>

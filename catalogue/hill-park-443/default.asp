@@ -55,11 +55,10 @@
         </div>
 		<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
-        <div class="photo-gallery">
-            <img src="photo-s/01.jpg" /><img src="photo-s/02.jpg" /><img src="photo-s/03.jpg" /><img src="photo-s/04.jpg" /><img src="photo-s/07.jpg" /><img src="photo-s/08.jpg" /><img src="photo-s/09.jpg" /><img src="photo-s/10.jpg" /><img src="photo-s/109_IMG_9304_Panorama2.jpg" /><img src="photo-s/109_IMG_9307_Panorama1.jpg" /><img src="photo-s/109_IMG_9317_Panorama1.jpg" /><img src="photo-s/109_IMG_9426_Panorama3.jpg" /><img src="photo-s/109_Untitled_Panorama1.jpg" /><img src="photo-s/109_Untitled_Panorama3.jpg" /><img src="photo-s/IMG_0208_Panorama1.jpg" /><img src="photo-s/IMG_7581.jpg" /><img src="photo-s/IMG_7588_.jpg" /><img src="photo-s/IMG_7593.jpg" /><img src="photo-s/IMG_7764.jpg" /><img src="photo-s/IMG_8019_HDR.jpg" /><img src="photo-s/IMG_8022_HDR.jpg" /><img src="photo-s/IMG_8030_.jpg" /><img src="photo-s/IMG_8033.jpg" /><img src="photo-s/IMG_8043_HDR.jpg" /><img src="photo-s/IMG_8089_.jpg" /><img src="photo-s/IMG_8099.jpg" /><img src="photo-s/pan_8.jpg" />
-        </div>
-
+        <div class="photo-gallery"></div>
         <div class="back">ВЕРНУТЬСЯ</div>
-	<!--#include virtual="/inc/footer.inc"--></div>
+        <!--#include file="photos.inc"-->
+	    <!--#include virtual="/inc/footer.inc"-->
+	</div>
 </body>
 </html>

@@ -35,8 +35,6 @@
 	</div>
 
 	<div class="page-content house">
-		<!--content-->
-		<!-- #BeginEditable "content" -->
 		<div class="k-price-label">
             <div class="price-range">
                 Дом с полной отделкой<br>+ УЧАСТОК
@@ -59,12 +57,11 @@
 	        <img src="plan-2.png"/>
         </div>
 		<div class="spacer-white"></div>
-        <h3>Нажмите на фото для увеличения:</h3>
-        <div class="photo-gallery">
-            <img src="photo-s/03.jpg" /><img src="photo-s/04.jpg" /><img src="photo-s/05.jpg" /><img src="photo-s/06.jpg" /><img src="photo-s/07.jpg" /><img src="photo-s/08.jpg" /><img src="photo-s/09.jpg" /><img src="photo-s/IMG_0565_Panorama2.jpg" /><img src="photo-s/IMG_7794.jpg" /><img src="photo-s/IMG_7802.jpg" /><img src="photo-s/IMG_7806.jpg" /><img src="photo-s/IMG_7878.jpg" /><img src="photo-s/IMG_7882.jpg" /><img src="photo-s/IMG_7895.jpg" /><img src="photo-s/IMG_7903.jpg" /><img src="photo-s/IMG_7915.jpg" />
-        </div>
-
+        <h3>Нажмите на фото для увеличения:</h3>       
+        <div class="photo-gallery"></div>
         <div class="back">ВЕРНУТЬСЯ</div>
-	<!--#include virtual="/inc/footer.inc"--></div>
+        <!--#include file="photos.inc"-->
+	    <!--#include virtual="/inc/footer.inc"-->
+	</div>
 </body>
 </html>

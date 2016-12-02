@@ -28,10 +28,17 @@
         document.location = $(this).attr("href");
     });
 
-    $(".photo-gallery img").each(function () {
-        var href = $(this).attr("src").replace("photo-s", "photo-l");
-        $(this).wrap("<a href='" + href + "'></a>");
-    });
+    if (window.photos) {
+        var gallery = $('.photo-gallery');
+        window.photos.forEach(function (pack) {
+            var path = pack.path;
+            pack.photos.forEach(function(photo) {
+                var href = path + 'photo-l/' + photo;
+                var src = path + 'photo-s/' + photo;
+                gallery.append('<a href="' + href + '"><img src="' + src + '"></a>');
+            });
+        });
+    }
     
     $(".panoramas img").each(function () {
         var cfg = $(this).attr("src").replace("preview.jpg", "config.xml");

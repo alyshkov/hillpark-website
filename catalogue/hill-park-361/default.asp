@@ -56,11 +56,10 @@
         </div>
 		<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
-        <div class="photo-gallery">
-            <img src="photo-s/09.jpg" /><img src="photo-s/10.jpg" /><img src="photo-s/08.jpg" /><img src="photo-s/27.jpg" /><img src="photo-s/28.jpg" /><img src="photo-s/29.jpg" /><img src="photo-s/06.jpg" /><img src="photo-s/07.jpg" /><img src="photo-s/11.jpg" /><img src="photo-s/18.jpg" /><img src="photo-s/19.jpg" /><img src="photo-s/20.jpg" />
-        </div>
-
+        <div class="photo-gallery"></div>
         <div class="back">ВЕРНУТЬСЯ</div>
-	<!--#include virtual="/inc/footer.inc"--></div>
+        <!--#include file="photos.inc"-->
+	    <!--#include virtual="/inc/footer.inc"-->
+	</div>
 </body>
 </html>
