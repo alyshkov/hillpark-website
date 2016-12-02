@@ -1,5 +1,11 @@
 ﻿<script type="text/javascript">
   var p = [
+  "IMG_3825.JPG",
+  "IMG_3826.JPG",
+  "IMG_3827.JPG",
+  "IMG_3828.JPG",
+  "IMG_3829.JPG",
+  "IMG_4422.JPG",
   "01.jpg",
   "02.jpg",
   "03.jpg",
