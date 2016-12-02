@@ -38,14 +38,10 @@
 
     <div class="ribbon"><div class="ribbon-content">
         <img src="/i/ribbon/photo_1.jpg<%=b%>" />
-        <img src="/i/ribbon/photo_8.jpg<%=b%>" />
-        <img src="/i/ribbon/photo_4.jpg<%=b%>" />
-        <img src="/i/ribbon/photo_6.jpg<%=b%>" />
-        <img src="/i/ribbon/photo_5.jpg<%=b%>" />
-        <img src="/i/ribbon/photo_3.jpg<%=b%>" />
-        <img src="/i/ribbon/photo_9.jpg<%=b%>" />
-        <img src="/i/ribbon/photo_7.jpg<%=b%>" />
         <img src="/i/ribbon/photo_2.jpg<%=b%>" />
+        <img src="/i/ribbon/photo_3.jpg<%=b%>" />
+        <img src="/i/ribbon/photo_4.jpg<%=b%>" />
+        <img src="/i/ribbon/photo_5.jpg<%=b%>" />
     </div></div>
 
 	<div class="page-content">
