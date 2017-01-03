@@ -24,7 +24,7 @@
   "img_7934.jpg",
   "img_7935.jpg",
   "img_7936.jpg",
-  "img_7937.jpg",
+  "img_7937.jpg"
   ]
 
   if(!window.photos) window.photos = [];
