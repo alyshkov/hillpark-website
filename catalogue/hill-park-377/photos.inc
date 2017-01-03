@@ -1,18 +1,30 @@
 ﻿<script type="text/javascript">
   var p = [
-  "IMG_3825.JPG",
-  "IMG_3826.JPG",
-  "IMG_3827.JPG",
-  "IMG_3828.JPG",
-  "IMG_3829.JPG",
-  "IMG_4422.JPG",
+  "img_3825.jpg",
+  "img_3826.jpg",
+  "img_3827.jpg",
+  "img_3828.jpg",
+  "img_3829.jpg",
+  "img_4422.jpg",
   "01.jpg",
   "02.jpg",
   "03.jpg",
   "04.jpg",
   "05.jpg",
   "06.jpg",
-  "07.jpg"
+  "07.jpg",
+  "img_7926.jpg",
+  "img_7927.jpg",
+  "img_7928.jpg",
+  "img_7929.jpg",
+  "img_7930.jpg",
+  "img_7931.jpg",
+  "img_7932.jpg",
+  "img_7933.jpg",
+  "img_7934.jpg",
+  "img_7935.jpg",
+  "img_7936.jpg",
+  "img_7937.jpg",
   ]
 
   if(!window.photos) window.photos = [];
