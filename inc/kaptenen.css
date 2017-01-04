@@ -427,18 +427,19 @@ div.clicker {
 }
 
 .house .plans table {
+    border-spacing: 1px;
     position: absolute;
-	font-family: 'Clinica Pro Regular', sans-serif;
-	font-size: 0.75em;
+	font-family: "Ropa Sans SC Regular", sans-serif;
+	font-size: 0.8em;
     background-color: white;
 }
 
 .house .plans td {
-    padding: 2px 5px;
+    padding: 1px 5px;
 }
 
 .house .plans .total  {
-    background-color: #a481a1;
+    background-color: #a381a0;
     color: white;
     font-weight: bold;
     text-transform: uppercase;
@@ -446,7 +447,7 @@ div.clicker {
 }
 
 .house .plans .warm.title  {
-    background-color: #bd945a;
+    background-color: #4ba0c7;
     color: white;
     font-weight: bold;
     text-transform: uppercase;
@@ -454,27 +455,47 @@ div.clicker {
 }
 
 .house .plans .warm.room  {
-    background-color: #d8c7ae;
+    background-color: #d6c6ab;
+}
+
+.house .plans .warm.bedroom  {
+    background-color: #cdabb7;
+}
+
+.house .plans .warm.utility  {
+    background-color: #a7d5d8;
+}
+
+.house .plans .warm.storage  {
+    background-color: #c8e1ee;
 }
 
 .house .plans .cold.title  {
-    background-color: #4ba1c8;
+    background-color: #4ba0c7;
     color: white;
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
 }
 
-.house .plans .cold.room  {
-    background-color: #c9e2ef;
+.house .plans .cold.utility  {
+    background-color: #bc935b;
+    color: white;
+}
+
+.house .plans .cold.terasse  {
+    background-color: #4e5047;
+    color: white;
 }
 
 .house .plans .number  {
-    text-align: right;
+    text-align: center;
     width: 0px;
 }
 
 .house .plans .surface  {
+    text-transform: lowercase;
+    white-space: nowrap;
     text-align: right;
     width: 0px;
 }
