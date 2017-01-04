@@ -426,6 +426,63 @@ div.clicker {
     margin-bottom: 30px;
 }
 
+.house .plans table {
+    position: absolute;
+	font-family: 'Clinica Pro Regular', sans-serif;
+	font-size: 0.75em;
+    background-color: white;
+}
+
+.house .plans td {
+    padding: 2px 5px;
+}
+
+.house .plans .total  {
+    background-color: #a481a1;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.house .plans .warm.title  {
+    background-color: #bd945a;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.house .plans .warm.room  {
+    background-color: #d8c7ae;
+}
+
+.house .plans .cold.title  {
+    background-color: #4ba1c8;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.house .plans .cold.room  {
+    background-color: #c9e2ef;
+}
+
+.house .plans .number  {
+    text-align: right;
+    width: 0px;
+}
+
+.house .plans .surface  {
+    text-align: right;
+    width: 0px;
+}
+
+.house .plans img {
+    float: right;
+}
+
 .house-images img {
     width: 894px;
     padding-top: 20px;
