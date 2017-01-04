@@ -426,12 +426,25 @@ div.clicker {
     margin-bottom: 30px;
 }
 
+
+.house .plans {
+    position: relative;
+}
+
 .house .plans table {
     border-spacing: 1px;
     position: absolute;
 	font-family: "Ropa Sans SC Regular", sans-serif;
 	font-size: 0.8em;
     background-color: white;
+}
+
+.house .plans.left table {
+    left: 0;
+}
+
+.house .plans.right table {
+    right: 0;
 }
 
 .house .plans td {
@@ -500,8 +513,12 @@ div.clicker {
     width: 0px;
 }
 
-.house .plans img {
+.house .plans.left img {
     float: right;
+}
+
+.house .plans.right img {
+    float: left;
 }
 
 .house-images img {
