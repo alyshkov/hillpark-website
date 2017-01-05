@@ -36,7 +36,7 @@
         
         <% href="/catalogue/hill-park-361/" %>
         <% title="«HILL PARK 361/446»" %>
-        <% house="361" %>
+        <% house="384" %>
         <% roof="446" %>
         <% price="19,9" %>
         <% sold=false %>
@@ -44,7 +44,7 @@
         
         <% href="/catalogue/hill-park-377/" %>
         <% title="«HILL PARK 377/404»" %>
-        <% house="377" %>
+        <% house="386" %>
         <% roof="404" %>
         <% price="19,9" %>
         <% sold=false %>
