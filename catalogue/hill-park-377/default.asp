@@ -61,13 +61,13 @@
                 <tr class="warm utility"><td class="number">6</td><td class="name">Санузел 1</td><td class="surface">4,6</td></tr>
                 <tr class="warm utility"><td class="number">7</td><td class="name">Сауна</td><td class="surface">2,9</td></tr>
                 <tr class="warm utility"><td class="number">8</td><td class="name">Санузел 2</td><td class="surface">1,6</td></tr>
-                <tr class="warm utility"><td class="number">9</td><td class="name">Санузел 3</td><td class="surface">5,1</td></tr>
+                <tr class="warm utility"><td class="number">9</td><td class="name">Санузел и котельная</td><td class="surface">5,1</td></tr>
                 <tr class="warm bedroom"><td class="number">10</td><td class="name">Спальня 3</td><td class="surface">20,4</td></tr>
                 <tr class="warm utility"><td class="number">11</td><td class="name">Санузел 4</td><td class="surface">5,4</td></tr>
                 <tr class="warm storage"><td class="number">12</td><td class="name">Гардеробная</td><td class="surface">2,5</td></tr>
                 <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">189,7</td></tr>
                 <tr class="cold utility"><td class="number">13</td><td class="name">Гараж</td><td class="surface">42,7</td></tr>
-                <tr class="cold utility"><td class="number">14</td><td class="name">Котельная</td><td class="surface">10,6</td></tr>
+                <tr class="cold utility"><td class="number">14</td><td class="name">Хозблок</td><td class="surface">10,6</td></tr>
                 <tr class="cold terasse"><td class="number">15</td><td class="name">Терасса крытая 1</td><td class="surface">133,0</td></tr>
                 <tr class="cold terasse"><td class="number">16</td><td class="name">Терасса крытая 2</td><td class="surface">3,4</td></tr>
                 <tr></tr>

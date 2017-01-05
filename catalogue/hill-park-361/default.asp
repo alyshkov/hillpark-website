@@ -44,16 +44,16 @@
             участок 15 соток<br />
 			1 этаж<br />
             &nbsp;&nbsp; + парк на крыше<br />
-            дом: <span class="emphasize">385 м<sup>2</sup></span><br />
+            дом: <span class="emphasize">384 м<sup>2</sup></span><br />
             парк на крыше: <span class="emphasize">446 м<sup>2</sup></span><br />
 		</div>
-		<p>Дом площадью 385 кв. м. (внутренние отапливаемые помещения - 211 кв. м., террасы и хозяйственные помещения - 174 кв. м.) с парком на крыше площадью 446 кв. м.</p>
+		<p>Дом площадью 384 кв. м. (внутренние отапливаемые помещения - 215 кв. м., террасы и хозяйственные помещения - 169 кв. м.) с парком на крыше площадью 446 кв. м.</p>
         <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №108.</p>
 		<div class="spacer"></div>
         <div class="plans right">
             <table style="top: 180px">
                 <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">384,8</td></tr>
-                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">210,9</td></tr>
+                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">215,4</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">6,6</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Гостиная</td><td class="surface">67,0</td></tr>
                 <tr class="warm room"><td class="number">3</td><td class="name">Кухня</td><td class="surface">18,7</td></tr>
@@ -68,8 +68,8 @@
                 <tr class="warm storage"><td class="number">12</td><td class="name">Гардеробная 2</td><td class="surface">3,8</td></tr>
                 <tr class="warm utility"><td class="number">13</td><td class="name">Санузел 3</td><td class="surface">10,7</td></tr>
                 <tr class="warm utility"><td class="number">14</td><td class="name">Сауна</td><td class="surface">3,5</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">173,9</td></tr>
-                <tr class="cold utility"><td class="number">15</td><td class="name">Котельная</td><td class="surface">4,5</td></tr>
+                <tr class="warm utility"><td class="number">15</td><td class="name">Котельная</td><td class="surface">4,5</td></tr>
+                <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">169,4</td></tr>
                 <tr class="cold terasse"><td class="number">16</td><td class="name">Терасса крытая</td><td class="surface">116,0</td></tr>
                 <tr class="cold utility"><td class="number">17</td><td class="name">Гараж</td><td class="surface">48,0</td></tr>
                 <tr class="cold utility"><td class="number">18</td><td class="name">Хозблок</td><td class="surface">5,4</td></tr>
