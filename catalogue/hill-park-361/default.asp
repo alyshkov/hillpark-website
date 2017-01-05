@@ -76,7 +76,6 @@
                 <tr></tr>
             </table>
 	        <img style="width:830px; padding-bottom:120px" src="plan-1.jpg"/>
-            <img style="width:894px" src="plan-2.png"/>
         </div>
 		<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
