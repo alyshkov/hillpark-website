@@ -75,7 +75,8 @@
                 <tr class="cold utility"><td class="number">18</td><td class="name">Хозблок</td><td class="surface">5,4</td></tr>
                 <tr></tr>
             </table>
-	        <img style="width:830px; padding-bottom:120px" src="plan-1.jpg"/>
+	        <img style="width:830px;" src="plan-1.jpg"/>
+	        <img style="width:800px; padding: 30px 0px 20px 0px" src="plan-2.png"/>
         </div>
 		<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
