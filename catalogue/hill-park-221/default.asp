@@ -41,7 +41,7 @@
 	            <div><span class="price">21,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
-		<h1>HILL PARK 290/440</h1>
+		<h1>HILL PARK 108</h1>
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />
