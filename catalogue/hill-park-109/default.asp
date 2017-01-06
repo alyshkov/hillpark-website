@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <!--#include virtual="/inc/head.inc"-->
-<title>HILL PARK 108</title>
+<title>HILL PARK 109</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.inc"-->
@@ -38,7 +38,7 @@
 		<div class="k-price-label">
             <div class="sold-label">ДОМ ПРОДАН</div>
 		</div>
-		<h1>HILL PARK 108</h1>
+		<h1>HILL PARK 109</h1>
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />

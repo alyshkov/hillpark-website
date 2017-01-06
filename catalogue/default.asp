@@ -10,8 +10,8 @@
 	<div class="page-content">
 		<h1>Каталог домов</h1>
         
-        <% href="/catalogue/hill-park-108/" %>
-        <% title="«HILL PARK 108»" %>
+        <% href="/catalogue/hill-park-109/" %>
+        <% title="«HILL PARK 109»" %>
         <% house="443" %>
         <% roof="580" %>
         <% price="19,66" %>
