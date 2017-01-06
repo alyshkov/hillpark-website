@@ -46,30 +46,30 @@
             дом: <span class="emphasize">386 м<sup>2</sup></span><br />
             парк на крыше: <span class="emphasize">404 м<sup>2</sup></span><br />
 		</div>
-		<p>Дом площадью 386 кв. м. (внутренние отапливаемые помещения - 197 кв. м., террасы и хозяйственные помещения - 190 кв. м.) с парком на крыше площадью 404 кв. м.</p>
+		<p>Дом площадью 386 кв. м. (внутренние отапливаемые помещения - 239 кв. м., террасы и хозяйственные помещения - 147 кв. м.) с парком на крыше площадью 404 кв. м.</p>
         <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №126.</p>
 		<div class="spacer"></div>
         <div class="plans left">
             <table style="top: 220px">
                 <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">386,4</td></tr>
-                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">196,7</td></tr>
+                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">239,4</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">14,0</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Гостиная-кухня</td><td class="surface">78,4</td></tr>
-                <tr class="warm room"><td class="number">3</td><td class="name">Кабинет</td><td class="surface">20,4</td></tr>
+                <tr class="warm room"><td class="number">3</td><td class="name">Кабинет / гостевая</td><td class="surface">20,4</td></tr>
                 <tr class="warm bedroom"><td class="number">4</td><td class="name">Спальня 1</td><td class="surface">22,3</td></tr>
                 <tr class="warm bedroom"><td class="number">5</td><td class="name">Спальня 2</td><td class="surface">19,1</td></tr>
-                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел 1</td><td class="surface">4,6</td></tr>
+                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел общий</td><td class="surface">4,6</td></tr>
                 <tr class="warm utility"><td class="number">7</td><td class="name">Сауна</td><td class="surface">2,9</td></tr>
-                <tr class="warm utility"><td class="number">8</td><td class="name">Санузел 2</td><td class="surface">1,6</td></tr>
-                <tr class="warm utility"><td class="number">9</td><td class="name">Санузел и котельная</td><td class="surface">5,1</td></tr>
-                <tr class="warm bedroom"><td class="number">10</td><td class="name">Спальня 3</td><td class="surface">20,4</td></tr>
-                <tr class="warm utility"><td class="number">11</td><td class="name">Санузел 4</td><td class="surface">5,4</td></tr>
+                <tr class="warm utility"><td class="number">8</td><td class="name">Санузел гостевой</td><td class="surface">1,6</td></tr>
+                <tr class="warm utility"><td class="number">9</td><td class="name">Котельная и хоз. санузел</td><td class="surface">5,1</td></tr>
+                <tr class="warm bedroom"><td class="number">10</td><td class="name">Главная спальня</td><td class="surface">20,4</td></tr>
+                <tr class="warm utility"><td class="number">11</td><td class="name">Санузел главной спальни</td><td class="surface">5,4</td></tr>
                 <tr class="warm storage"><td class="number">12</td><td class="name">Гардеробная</td><td class="surface">2,5</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">189,7</td></tr>
-                <tr class="cold utility"><td class="number">13</td><td class="name">Гараж</td><td class="surface">42,7</td></tr>
+                <tr class="warm utility"><td class="number">13</td><td class="name">Гараж</td><td class="surface">42,7</td></tr>
+                <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">147,0</td></tr>
                 <tr class="cold utility"><td class="number">14</td><td class="name">Хозблок</td><td class="surface">10,6</td></tr>
-                <tr class="cold terasse"><td class="number">15</td><td class="name">Терасса крытая 1</td><td class="surface">133,0</td></tr>
-                <tr class="cold terasse"><td class="number">16</td><td class="name">Терасса крытая 2</td><td class="surface">3,4</td></tr>
+                <tr class="cold terasse"><td class="number">15</td><td class="name">Терасса с бассейном</td><td class="surface">133,0</td></tr>
+                <tr class="cold terasse"><td class="number">16</td><td class="name">Крыльцо</td><td class="surface">3,4</td></tr>
                 <tr></tr>
             </table>
 	        <img style="width:800px" src="plan-1.jpg"/>
