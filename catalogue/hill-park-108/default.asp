@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <!--#include virtual="/inc/head.inc"-->
-<title>HILL PARK 361/446</title>
+<title>HILL PARK 108</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.inc"-->
@@ -39,7 +39,7 @@
 	            <div><span class="price">19,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
-		<h1>HILL PARK 361/446</h1>
+		<h1>HILL PARK 108</h1>
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />
@@ -73,7 +73,6 @@
                 <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">121,4</td></tr>
                 <tr class="cold terasse"><td class="number">16</td><td class="name">Терасса с бассейном</td><td class="surface">116,0</td></tr>
                 <tr class="cold utility"><td class="number">18</td><td class="name">Хозблок</td><td class="surface">5,4</td></tr>
-                <tr></tr>
             </table>
 	        <img style="width:830px;" src="plan-1.jpg"/>
 	        <img style="width:800px; padding: 30px 0px 20px 0px" src="plan-2.png"/>

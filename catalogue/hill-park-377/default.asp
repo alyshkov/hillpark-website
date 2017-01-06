@@ -70,7 +70,6 @@
                 <tr class="cold utility"><td class="number">14</td><td class="name">Хозблок</td><td class="surface">10,6</td></tr>
                 <tr class="cold terasse"><td class="number">15</td><td class="name">Терасса с бассейном</td><td class="surface">133,0</td></tr>
                 <tr class="cold terasse"><td class="number">16</td><td class="name">Крыльцо</td><td class="surface">3,4</td></tr>
-                <tr></tr>
             </table>
 	        <img style="width:800px" src="plan-1.jpg"/>
 	        <img style="width:700px" src="plan-2.png"/>

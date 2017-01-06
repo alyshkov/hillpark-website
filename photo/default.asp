@@ -31,7 +31,7 @@
         <h3>Нажмите на фото для увеличения:</h3>
         <div class="photo-gallery"></div>
 		<!--#include virtual="/catalogue/hill-park-221/photos.inc"-->
-		<!--#include virtual="/catalogue/hill-park-361/photos.inc"-->
+		<!--#include virtual="/catalogue/hill-park-108/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-377/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-109/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-164/photos.inc"-->
