@@ -13,7 +13,7 @@
         
         <h3>Нажмите на фото для просмотра виртуальной панорамы:</h3>
         <div class="panoramas">
-            <img src="/catalogue/hill-park-447/panorama/1/preview.jpg" title="«HILL PARK 447/600»" href="/catalogue/hill-park-447/" />
+            <img src="/catalogue/hill-park-164/panorama/1/preview.jpg" title="«HILL PARK 164»" href="/catalogue/hill-park-164/" />
             <img src="/catalogue/hill-park-108/panorama/1/preview.jpg" title="«HILL PARK 108»" href="/catalogue/hill-park-108/" />
             <img src="/catalogue/hill-park-108/panorama/2/preview.jpg" title="«HILL PARK 108»" href="/catalogue/hill-park-108/" />
             <img src="/catalogue/hill-park-108/panorama/3/preview.jpg" title="«HILL PARK 108»" href="/catalogue/hill-park-108/" />
@@ -34,7 +34,7 @@
 		<!--#include virtual="/catalogue/hill-park-361/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-377/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-108/photos.inc"-->
-		<!--#include virtual="/catalogue/hill-park-447/photos.inc"-->
+		<!--#include virtual="/catalogue/hill-park-164/photos.inc"-->
         <!--#include virtual="/inc/footer.inc"--></div>
 </body>
 </html>
