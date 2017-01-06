@@ -21,8 +21,8 @@
             <img src="/catalogue/hill-park-443/panorama/5/preview.jpg" title="«HILL PARK 443/580»" href="/catalogue/hill-park-443/" />
             <img src="/catalogue/hill-park-443/panorama/6/preview.jpg" title="«HILL PARK 443/580»" href="/catalogue/hill-park-443/" />
             <img src="/catalogue/hill-park-443/panorama/7/preview.jpg" title="«HILL PARK 443/580»" href="/catalogue/hill-park-443/" />
-            <img src="/catalogue/hill-park-290/panorama/1/preview.jpg" title="«HILL PARK 290/440»" href="/catalogue/hill-park-290/" />
-            <img src="/catalogue/hill-park-290/panorama/2/preview.jpg" title="«HILL PARK 290/440»" href="/catalogue/hill-park-290/" />
+            <img src="/catalogue/hill-park-221/panorama/1/preview.jpg" title="«HILL PARK 221»" href="/catalogue/hill-park-221/" />
+            <img src="/catalogue/hill-park-221/panorama/2/preview.jpg" title="«HILL PARK 221»" href="/catalogue/hill-park-221/" />
         </div>
 
         <div class="spacer-white"></div>
@@ -30,7 +30,7 @@
         
         <h3>Нажмите на фото для увеличения:</h3>
         <div class="photo-gallery"></div>
-		<!--#include virtual="/catalogue/hill-park-290/photos.inc"-->
+		<!--#include virtual="/catalogue/hill-park-221/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-361/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-377/photos.inc"-->
 		<!--#include virtual="/catalogue/hill-park-443/photos.inc"-->

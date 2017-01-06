@@ -26,8 +26,8 @@
         <% sold=true %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
         
-        <% href="/catalogue/hill-park-290/" %>
-        <% title="«HILL PARK 290/440»" %>
+        <% href="/catalogue/hill-park-221/" %>
+        <% title="«HILL PARK 221»" %>
         <% house="290" %>
         <% roof="440" %>
         <% price="21,9" %>
