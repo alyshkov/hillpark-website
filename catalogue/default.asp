@@ -9,31 +9,7 @@
 	<div class="page-banner"><img src="_narrow.jpg" /></div>
 	<div class="page-content">
 		<h1>Каталог домов</h1>
-        
-        <% href="/catalogue/hill-park-109/" %>
-        <% title="«HILL PARK 109»" %>
-        <% house="443" %>
-        <% roof="580" %>
-        <% price="19,66" %>
-        <% sold=true %>
-        <!--#include virtual="/catalogue/_thumb.inc"-->
-        
-        <% href="/catalogue/hill-park-164/" %>
-        <% title="«HILL PARK 164»" %>
-        <% house="447" %>
-        <% roof="600" %>
-        <% price="22,9" %>
-        <% sold=true %>
-        <!--#include virtual="/catalogue/_thumb.inc"-->
-        
-        <% href="/catalogue/hill-park-221/" %>
-        <% title="«HILL PARK 221»" %>
-        <% house="290" %>
-        <% roof="440" %>
-        <% price="21,9" %>
-        <% sold=false %>
-        <!--#include virtual="/catalogue/_thumb.inc"-->
-        
+
         <% href="/catalogue/hill-park-108/" %>
         <% title="«HILL PARK 108»" %>
         <% house="384" %>
@@ -42,12 +18,36 @@
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
         
-        <% href="/catalogue/hill-park-377/" %>
-        <% title="«HILL PARK 377/404»" %>
+        <% href="/catalogue/hill-park-126/" %>
+        <% title="«HILL PARK 126»" %>
         <% house="386" %>
         <% roof="404" %>
         <% price="19,9" %>
         <% sold=false %>
+        <!--#include virtual="/catalogue/_thumb.inc"-->
+                      
+        <% href="/catalogue/hill-park-221/" %>
+        <% title="«HILL PARK 221»" %>
+        <% house="290" %>
+        <% roof="440" %>
+        <% price="21,9" %>
+        <% sold=false %>
+        <!--#include virtual="/catalogue/_thumb.inc"-->
+
+        <% href="/catalogue/hill-park-109/" %>
+        <% title="«HILL PARK 109»" %>
+        <% house="443" %>
+        <% roof="580" %>
+        <% price="19,66" %>
+        <% sold=true %>
+        <!--#include virtual="/catalogue/_thumb.inc"-->
+
+        <% href="/catalogue/hill-park-164/" %>
+        <% title="«HILL PARK 164»" %>
+        <% house="447" %>
+        <% roof="600" %>
+        <% price="22,9" %>
+        <% sold=true %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 
         <div class="spacer-white"></div>

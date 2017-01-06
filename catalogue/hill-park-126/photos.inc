@@ -28,5 +28,5 @@
   ]
 
   if(!window.photos) window.photos = [];
-  window.photos.push({path : '/catalogue/hill-park-377/', photos: p});
+  window.photos.push({path : '/catalogue/hill-park-126/', photos: p});
 </script>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <!--#include virtual="/inc/head.inc"-->
-<title>HILL PARK 377/404</title>
+<title>HILL PARK 126</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.inc"-->
@@ -38,7 +38,7 @@
 	            <div><span class="price">19,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
-		<h1>HILL PARK 377/404</h1>
+		<h1>HILL PARK 126</h1>
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />
