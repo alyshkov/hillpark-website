@@ -19,12 +19,12 @@
         </div>
         <div class="right">
             <ul class="banner-slider">
-                <li><img src="banner/right_6.jpg"/></li>
-                <li><img src="banner/right_5.jpg"/></li>
-                <li><img src="banner/right_4.jpg"/></li>
-                <li><img src="banner/right_3.jpg"/></li>
+                <li><img src="banner/right_1.jpg"/></li>
                 <li><img src="banner/right_2.jpg"/></li>
-                <li><img src="banner/right_1.jpg"/></li>             
+                <li><img src="banner/right_3.jpg"/></li>
+                <li><img src="banner/right_4.jpg"/></li>
+                <li><img src="banner/right_5.jpg"/></li>
+                <li><img src="banner/right_6.jpg"/></li>             
             </ul>
         </div>
 	</div>
