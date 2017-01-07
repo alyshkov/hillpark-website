@@ -14,7 +14,7 @@
         <% title="«HILL PARK 108»" %>
         <% house="384" %>
         <% roof="446" %>
-        <% price="19,9" %>
+        <% price="21,9" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
         
@@ -22,7 +22,7 @@
         <% title="«HILL PARK 126»" %>
         <% house="386" %>
         <% roof="404" %>
-        <% price="19,9" %>
+        <% price="21,9" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
                       

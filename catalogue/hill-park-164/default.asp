@@ -22,14 +22,14 @@
         </div>
         <div class="right">
             <ul class="banner-slider">
-                <li><img src="banner/10_narrow_right_02_1.jpg"/></li>
-                <li><img src="banner/10_narrow_right_02_2.jpg"/></li>
-                <li><img src="banner/10_narrow_right_02_3.jpg"/></li>
                 <li><img src="banner/10_narrow_right_02_4.jpg"/></li>
-                <li><img src="banner/10_narrow_right_04_1.jpg"/></li>
-                <li><img src="banner/10_narrow_right_04_2.jpg"/></li>
-                <li><img src="banner/10_narrow_right_04_3.jpg"/></li>
+                <li><img src="banner/10_narrow_right_02_3.jpg"/></li>
+                <li><img src="banner/10_narrow_right_02_2.jpg"/></li>
+                <li><img src="banner/10_narrow_right_02_1.jpg"/></li>
                 <li><img src="banner/10_narrow_right_04_4.jpg"/></li>
+                <li><img src="banner/10_narrow_right_04_3.jpg"/></li>
+                <li><img src="banner/10_narrow_right_04_2.jpg"/></li>
+                <li><img src="banner/10_narrow_right_04_1.jpg"/></li>
             </ul>
         </div>
 	</div>
