@@ -15,7 +15,15 @@
   "IMG_8099.jpg",
   "IMG_9894.JPG",
   "IMG_9887.JPG",
-  "IMG_9881.JPG"
+  "img_6844.jpg",
+  "IMG_9881.JPG",
+  "img_6843.jpg",
+  "img_6831.jpg",
+  "img_6828.jpg",
+  "img_6862.jpg",
+  "img_8400.jpg",
+  "img_8401.jpg",
+  "img_8402.jpg",
   ]
 
   if(!window.photos) window.photos = [];
