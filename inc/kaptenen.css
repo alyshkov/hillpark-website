@@ -278,12 +278,18 @@ img.inline.right {
 }
 
 .catalogue-item .info {
-    text-align: center;
     padding: 0px 20px 0px 12px;
 }
 
-.catalogue-item .info table {
-    width: 100%;
+.catalogue-item .info ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.catalogue-item .info li {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    line-height: 1em;
 }
 
 .catalogue-item .info .prop {
@@ -291,22 +297,9 @@ img.inline.right {
     color: black;
 }
 
-.catalogue-item .info td.prop, .catalogue-item .info td.value {
-    width: 50%;
-}
-
-.catalogue-item  .info td.prop {
-    position: relative;
-    top: 7px;
-}
-
 .catalogue-item .info .value {
-    font-size: 2.85em;
-    color: #006938;
-}
-
-.catalogue-item .info .plus {
-    font-size: 2em;
+    margin-left: 5px;
+    font-size: 1.5em;
     color: #006938;
 }
 

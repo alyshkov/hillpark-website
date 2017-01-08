@@ -12,6 +12,7 @@
 
         <% href="/catalogue/hill-park-108/" %>
         <% title="«HILL PARK 108»" %>
+        <% warm="263" %>
         <% house="384" %>
         <% roof="446" %>
         <% price="21,9" %>
@@ -20,6 +21,7 @@
         
         <% href="/catalogue/hill-park-126/" %>
         <% title="«HILL PARK 126»" %>
+        <% warm="239" %>
         <% house="386" %>
         <% roof="404" %>
         <% price="21,9" %>
@@ -28,6 +30,7 @@
                       
         <% href="/catalogue/hill-park-221/" %>
         <% title="«HILL PARK 221»" %>
+        <% warm="249" %>
         <% house="290" %>
         <% roof="440" %>
         <% price="21,9" %>
@@ -36,6 +39,7 @@
 
         <% href="/catalogue/hill-park-109/" %>
         <% title="«HILL PARK 109»" %>
+        <% warm="300" %>
         <% house="443" %>
         <% roof="580" %>
         <% price="19,66" %>
@@ -44,6 +48,7 @@
 
         <% href="/catalogue/hill-park-164/" %>
         <% title="«HILL PARK 164»" %>
+        <% warm="296" %>
         <% house="447" %>
         <% roof="600" %>
         <% price="22,9" %>
