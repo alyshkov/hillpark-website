@@ -15,6 +15,7 @@
         <% warm="263" %>
         <% house="384" %>
         <% roof="446" %>
+        <% annex="0" %>
         <% price="21,9" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
@@ -24,6 +25,7 @@
         <% warm="239" %>
         <% house="386" %>
         <% roof="404" %>
+        <% annex="0" %>
         <% price="21,9" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
@@ -33,6 +35,7 @@
         <% warm="249" %>
         <% house="290" %>
         <% roof="440" %>
+        <% annex="0" %>
         <% price="21,9" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
@@ -42,6 +45,7 @@
         <% warm="300" %>
         <% house="443" %>
         <% roof="580" %>
+        <% annex="0" %>
         <% price="19,66" %>
         <% sold=true %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
@@ -51,7 +55,18 @@
         <% warm="296" %>
         <% house="447" %>
         <% roof="600" %>
+        <% annex="0" %>
         <% price="22,9" %>
+        <% sold=true %>
+        <!--#include virtual="/catalogue/_thumb.inc"-->
+
+        <% href="/catalogue/hill-park-222/" %>
+        <% title="«HILL PARK 222»" %>
+        <% warm="231" %>
+        <% house="267" %>
+        <% roof="0" %>
+        <% annex="90" %>
+        <% price="21,9" %>
         <% sold=true %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 

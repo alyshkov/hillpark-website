@@ -6,7 +6,12 @@
     <div class="info"><ul>
 		<li><span class="prop">площадь дома:</span><span class="value"><%=house%> м<sup>2</sup></span></li>
 		<li><span class="prop">отапливаемая:</span><span class="value"><%=warm%> м<sup>2</sup></span></li>
-		<li><span class="prop">парк на крыше:</span><span class="value"><%=roof%> м<sup>2</sup></span></li>
+		<%If roof Then%>
+			<li><span class="prop">парк на крыше:</span><span class="value"><%=roof%> м<sup>2</sup></span></li>
+		<%End If%>
+		<%If annex Then%>
+			<li><span class="prop">пристройка:</span><span class="value"><%=annex%> м<sup>2</sup></span></li>
+		<%End If%>
 	</ul></div>
   </td>
   <td class="td-price">
