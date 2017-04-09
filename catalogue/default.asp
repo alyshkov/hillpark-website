@@ -50,7 +50,18 @@
         <% roof="0" %>
         <% annex="0" %>
         <% price="27,9" %>
-        <% allotment="11,2 сотки" %>
+        <% allotment="9,4 сотки" %>
+        <% sold=false %>
+        <!--#include virtual="/catalogue/_thumb.inc"-->
+                
+        <% href="/catalogue/hill-park-256-2/" %>
+        <% title="«HILL PARK 256 / 2»" %>
+        <% warm="373" %>
+        <% house="373" %>
+        <% roof="0" %>
+        <% annex="169" %>
+        <% price="23,9" %>
+        <% allotment="10,8 сотки" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 

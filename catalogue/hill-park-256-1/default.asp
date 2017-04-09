@@ -20,7 +20,7 @@
 		</div>
 		<h1>HILL PARK 256 / 1</h1>
 		<div class="option"><br />
-            участок 11,2 сотки<br />
+            участок 9,4 сотки<br />
 			2 этажа &nbsp;&nbsp; + гараж<br />
             дом: <span class="emphasize">382 м<sup>2</sup></span><br />
 		</div>
