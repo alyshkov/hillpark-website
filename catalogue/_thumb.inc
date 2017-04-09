@@ -20,7 +20,7 @@
 	<%Else%>
     <div class="price">
       <div class="line1"><span class="price-value"><%=price%></span> млн. руб.</div>
-      <div class="line2">цена с участком 15 соток</div>
+      <div class="line2">цена с участком <%=allotment%></div>
     </div>
 	<%End If%>
   </td>

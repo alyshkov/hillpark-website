@@ -17,6 +17,7 @@
         <% roof="446" %>
         <% annex="0" %>
         <% price="21,9" %>
+        <% allotment="15 соток" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
         
@@ -27,6 +28,7 @@
         <% roof="404" %>
         <% annex="0" %>
         <% price="21,9" %>
+        <% allotment="15 соток" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
                       
@@ -37,6 +39,7 @@
         <% roof="440" %>
         <% annex="0" %>
         <% price="24,9" %>
+        <% allotment="23 сотки" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 
@@ -47,6 +50,7 @@
         <% roof="580" %>
         <% annex="0" %>
         <% price="19,66" %>
+        <% allotment="15 соток" %>
         <% sold=true %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 
@@ -57,6 +61,7 @@
         <% roof="600" %>
         <% annex="0" %>
         <% price="22,9" %>
+        <% allotment="15 соток" %>
         <% sold=true %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 
@@ -67,6 +72,7 @@
         <% roof="0" %>
         <% annex="90" %>
         <% price="21,9" %>
+        <% allotment="15 соток" %>
         <% sold=true %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 
