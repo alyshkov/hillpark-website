@@ -38,12 +38,12 @@
 		<div class="k-price-label">
             <div class="price-range">
                 Дом с полной отделкой<br>+ УЧАСТОК
-	            <div><span class="price">21,9</span><span class="currency"> МЛН. РУБ.</span></div>
+	            <div><span class="price">24,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
 		<h1>HILL PARK 221</h1>
 		<div class="option">
-            участок 15 соток<br />
+            участок 23 сотки<br />
 			1 этаж<br />
             &nbsp;&nbsp; + парк на крыше<br />
             дом: <span class="emphasize">301 м<sup>2</sup></span><br />

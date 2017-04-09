@@ -32,11 +32,11 @@
                       
         <% href="/catalogue/hill-park-221/" %>
         <% title="«HILL PARK 221»" %>
-        <% warm="249" %>
-        <% house="290" %>
+        <% warm="260" %>
+        <% house="301" %>
         <% roof="440" %>
         <% annex="0" %>
-        <% price="21,9" %>
+        <% price="24,9" %>
         <% sold=false %>
         <!--#include virtual="/catalogue/_thumb.inc"-->
 
