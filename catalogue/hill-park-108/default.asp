@@ -51,7 +51,7 @@
         <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №108.</p>
 		<div class="spacer"></div>
         <div class="plans right">
-            <table style="top: 180px">
+            <table style="top: 210px">
                 <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">384,8</td></tr>
                 <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">263,4</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">6,6</td></tr>
