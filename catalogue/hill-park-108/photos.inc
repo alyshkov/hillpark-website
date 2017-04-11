@@ -10,6 +10,7 @@
   "IMG_3619.JPG",
   "IMG_2814.JPG",
   "IMG_2821.JPG",
+  "IMG_3620.JPG",
   "IMG_3542.JPG",
   "IMG_2816.JPG",
   "IMG_3535.JPG",
@@ -23,6 +24,8 @@
   "IMG_3352.JPG",
   "IMG_3355.JPG",
   "IMG_3537.JPG",
+  "IMG_3538.JPG",
+  "IMG_3541.JPG",
   "IMG_3539.JPG"
   ]
 
