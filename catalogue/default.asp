@@ -59,7 +59,7 @@
         <% warm="373" %>
         <% house="373" %>
         <% roof="0" %>
-        <% annex="169" %>
+        <% annex="0" %>
         <% price="23,9" %>
         <% allotment="10,8 сотки" %>
         <% sold=false %>
