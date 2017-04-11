@@ -56,9 +56,9 @@
                 <tr class="warm utility"><td class="number">2</td><td class="name">Санузел спальни 3</td><td class="surface">10,1</td></tr>
                 <tr class="warm room"><td class="number">3</td><td class="name">Холл</td><td class="surface">7,5</td></tr>
                 <tr class="warm storage"><td class="number">4</td><td class="name">Гардеробная спальни 3</td><td class="surface">6,8</td></tr>
-                <tr class="warm bedroom"><td class="number">5</td><td class="name">Спальня 4</td><td class="surface">33,4</td></tr>
-                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел спальни 4</td><td class="surface">11,0</td></tr>
-                <tr class="warm room"><td class="number">7</td><td class="name">Кабинет</td><td class="surface">18,3</td></tr>
+                <tr class="warm bedroom"><td class="number">5</td><td class="name">Гостевая / детская 1</td><td class="surface">33,4</td></tr>
+                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел</td><td class="surface">11,0</td></tr>
+                <tr class="warm bedroom"><td class="number">7</td><td class="name">Гостевая / детская 2</td><td class="surface">18,3</td></tr>
                 <tr class="warm room"><td class="number">8</td><td class="name">Холл</td><td class="surface">9,0</td></tr>
             </table>
 	        <img style="width:800px;" src="plan-1.jpg"/>
