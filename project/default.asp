@@ -6,12 +6,12 @@
 </head>
 <body>
 	<!--#include virtual="/inc/menu.inc"-->	
-	<div class="page-banner"><img src="_narrow.png" /></div>
+	<div class="page-banner"><img src="_narrow.JPG" /></div>
 
 	<div class="page-content">
     <h1>ПРОЕКТ «HILL PARK» - дома с парком на крыше</h1>
         <div class="text">
-        <img class="inline left" src="1.png"/><img class="inline left" src="2.png"/>     
+        <img class="inline left" src="img_3827.jpg"/><img class="inline left" src="IMG_3617.JPG"/>     
         <p>Строительство домов с парком на крыше ведется в
 Скандинавии еще с 18 века. Такая кровля имеет ряд
 замечательных особенностей.</p>
@@ -97,9 +97,9 @@ University).</p>
 каток</strong>. Оборудование фонтана съемное (легко убирается на
 осенне-зимний период).</p>
 
-        <img class="inline right" src="9.png"/><img class="inline right" src="10.png"/> 
-        <img class="inline right" src="7.png"/><img class="inline right" src="8.png"/> 
-        <img class="inline right" src="11.png"/><img class="inline right" src="12.png"/> 
+        <img class="inline right" src="img_8062.jpg"/><img class="inline right" src="IMG_8099.jpg"/> 
+        <img class="inline right" src="img_0764.jpg"/><img class="inline right" src="IMG_2821.JPG"/> 
+        <img class="inline right" src="IMG_3059.JPG"/><img class="inline right" src="IMG_9894.JPG"/> 
 
         <h2>Каркас и кровля</h2>
         <p>Специальная <strong>усиленная стропильная система</strong> домов с парком на крыше способна нести повышенные нагрузки порядка 500 кг на кв.м. Снеговая нагрузка в этом районе ЛО
