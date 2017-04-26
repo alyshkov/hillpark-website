@@ -1,6 +1,6 @@
 ﻿<%
 Dim b
-b = "?b=16"
+b = "?b=17"
 %>
 
 <link rel="shortcut icon" href="/favicon.ico" />
