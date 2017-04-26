@@ -8,25 +8,7 @@
 	<!--#include virtual="/inc/menu.inc"-->
 
 	<div class="page-banner">
-        <div class="left">
-            <ul class="banner-slider">
-                <li><img src="banner/left_1.jpg"/></li>
-                <li><img src="banner/left_2.jpg"/></li>
-                <li><img src="banner/left_3.jpg"/></li>
-                <li><img src="banner/left_4.jpg"/></li>
-                <li><img src="banner/left_5.jpg"/></li>
-            </ul>
-        </div>
-        <div class="right">
-            <ul class="banner-slider">
-                <li><img src="banner/right_1.jpg"/></li>
-                <li><img src="banner/right_2.jpg"/></li>
-                <li><img src="banner/right_3.jpg"/></li>
-                <li><img src="banner/right_4.jpg"/></li>
-                <li><img src="banner/right_5.jpg"/></li>
-                <li><img src="banner/right_6.jpg"/></li>             
-            </ul>
-        </div>
+        <img src="banner.jpg" />
 	</div>
 
 	<div class="page-content house">
