@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<!--#include virtual="/inc/head.inc"-->
+	<!--#include virtual="/inc/head.html"-->
 <title>Дома на заказ</title>
 </head>
 <body>
-	<!--#include virtual="/inc/menu.inc"-->	
-	<div class="page-banner"><img src="_narrow.png" /></div>	
+	<!--#include virtual="/inc/menu.html"-->
+	<div class="page-banner"><img src="_narrow.png" /></div>
 	<div class="page-content">
 		<!--content-->
 		<h1>Дома на заказ</h1>
@@ -26,12 +26,12 @@
             </ul>
         </p>
         <p>Работы по изготовлению домокомплекта, возведению здания и устройству парка на крыше занимают около 4 месяцев в зависимости от трудоемкости проекта.
-            Но следует иметь ввиду, что по техническим причинам забивка свай не производится в зимний период, а озеленение крыши возможно только с мая по октябрь. 
+            Но следует иметь ввиду, что по техническим причинам забивка свай не производится в зимний период, а озеленение крыши возможно только с мая по октябрь.
         </p>
         <p>За дополнительными подробностями и по вопросам заказа обращайтесь по телефону <strong>+7 (812) 922-54-84</strong>
             или электронной почте <a href="mailto:sales@hillpark.ru">sales@hillpark.ru</a></p>
         <div class="spacer-white"></div>
         </div>
-		<!--#include virtual="/inc/footer.inc"--></div>
+		<!--#include virtual="/inc/footer.html"--></div>
 </body>
 </html>

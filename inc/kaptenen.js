@@ -10,15 +10,15 @@ $(function () {
         auto: true
     };
 
-    $(".main-page-banner .banner-slider").bxSlider(jQuery.extend(defaultSliderOptions, {          
+    $(".main-page-banner .banner-slider").bxSlider(jQuery.extend(defaultSliderOptions, {
         })
     );
-    
+
     $(".page-banner .left .banner-slider").bxSlider( jQuery.extend(defaultSliderOptions, {
         pause: 7000
         })
     );
-    
+
     $(".page-banner .right .banner-slider").bxSlider(jQuery.extend(defaultSliderOptions, {
         pause: 14000
         })
@@ -39,13 +39,13 @@ $(function () {
             });
         });
     }
-    
+
     $(".panoramas img").each(function () {
         var cfg = $(this).attr("src").replace("preview.jpg", "config.xml");
         var name = $(this).attr("title");
         var href = $(this).attr("href");
         $(this).before("<a target='blanc' class='title' href='" + href + "'>" + name + "</a>");
-        $(this).wrap("<a target='blanc' href='/photo/panorama.asp?name=" + name + "&cfg=" + cfg + "'></a>");
+        $(this).wrap("<a target='blanc' href='/photo/panorama.html?name=" + name + "&cfg=" + cfg + "'></a>");
     });
 
     $(".photo-gallery").photobox('a', {
@@ -60,7 +60,7 @@ $(function () {
         if (location == href)
             $(this).addClass("selected");
     });
-    
+
     //Back button
     var back = $(".back");
     if (document.referrer == "" || history.length <= 1)
