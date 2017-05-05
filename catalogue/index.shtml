@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--#include virtual="/inc/head.html"-->
+<title>Каталог домов</title>
+</head>
+<body>
+	<!--#include virtual="/inc/menu.html"-->
+	<div class="page-banner"><img src="_narrow.jpg" /></div>
+	<div class="page-content">
+		<h1>Каталог домов</h1>
+
+        <!--#set var='href' value='/catalogue/hill-park-108/' -->
+				<!--#set var='title' value='«HILL PARK 108»' -->
+        <!--#set var='warm' value='263' -->
+        <!--#set var='house' value='384' -->
+        <!--#set var='roof' value='446' -->
+        <!--#set var='annex' value='0' -->
+        <!--#set var='price' value='21,9' -->
+        <!--#set var='allotment' value='15 соток' -->
+        <!--#set var='sold' value='false' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <!--#set var='href' value='/catalogue/hill-park-126/' -->
+        <!--#set var='title' value='«HILL PARK 126»' -->
+        <!--#set var='warm' value='239' -->
+        <!--#set var='house' value='386' -->
+        <!--#set var='roof' value='404' -->
+        <!--#set var='annex' value='0' -->
+        <!--#set var='price' value='21,9' -->
+        <!--#set var='allotment' value='15 соток' -->
+        <!--#set var="sold" value='false' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <!--#set var='href' value='/catalogue/hill-park-221/' -->
+        <!--#set var='title' value='«HILL PARK 221»' -->
+        <!--#set var='warm' value='260' -->
+        <!--#set var='house' value='301' -->
+        <!--#set var='roof' value='440' -->
+        <!--#set var='annex' value='0' -->
+        <!--#set var='price' value='24,9' -->
+        <!--#set var='allotment' value='23 сотки' -->
+        <!--#set var="sold" value='false' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <!--#set var='href' value='/catalogue/hill-park-256-1/' -->
+        <!--#set var='title' value='«HILL PARK 256 / 1»' -->
+        <!--#set var='warm' value='382' -->
+        <!--#set var='house' value='382' -->
+        <!--#set var='roof' value='0' -->
+        <!--#set var='annex' value='0' -->
+        <!--#set var='price' value='27,9' -->
+        <!--#set var='allotment' value='9,4 сотки' -->
+        <!--#set var="sold" value='false' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <!--#set var='href' value='/catalogue/hill-park-256-2/' -->
+        <!--#set var='title' value='«HILL PARK 256 / 2»' -->
+        <!--#set var='warm' value='373' -->
+        <!--#set var='house' value='373' -->
+        <!--#set var='roof' value='0' -->
+        <!--#set var='annex' value='0' -->
+        <!--#set var='price' value='23,9' -->
+        <!--#set var='allotment' value='10,8 сотки' -->
+        <!--#set var='sold' value='false' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <!--#set var='href' value='/catalogue/hill-park-109/' -->
+        <!--#set var='title' value='«HILL PARK 109»' -->
+        <!--#set var='warm' value='300' -->
+        <!--#set var='house' value='443' -->
+        <!--#set var='roof' value='580' -->
+        <!--#set var='annex' value='0' -->
+        <!--#set var='price' value='19,66' -->
+        <!--#set var='allotment' value='15 соток' -->
+        <!--#set var='sold' value='true' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <!--#set var='href' value='/catalogue/hill-park-164/' -->
+        <!--#set var='title' value='«HILL PARK 164»' -->
+        <!--#set var='warm' value='296' -->
+        <!--#set var='house' value='447' -->
+        <!--#set var='roof' value='600' -->
+        <!--#set var='annex' value='0' -->
+        <!--#set var='price' value='22,9' -->
+        <!--#set var='allotment' value='15 соток' -->
+        <!--#set var='sold' value='true' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <!--#set var='href' value='/catalogue/hill-park-222/' -->
+        <!--#set var='title' value='«HILL PARK 222»' -->
+        <!--#set var='warm' value='231' -->
+        <!--#set var='house' value='267' -->
+        <!--#set var='roof' value='0' -->
+        <!--#set var='annex' value='90' -->
+        <!--#set var='price' value='21,9' -->
+        <!--#set var='allotment' value='15 соток' -->
+        <!--#set var='sold' value='true' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+        <div class="spacer-white"></div>
+
+        <div class="kk-link-placeholder"><a class="external-link kk-link" href="http://kaptenens-klubb.ru/catalogue/">Больше домов в проекте <strong>«Kaptenens Klubb»</strong></a></div>
+		<div class="k-pdf-placeholder"><a class="external-link k-pdf" href="/files/Booklet_HillPark.pdf">Скачать полный каталог</a></div>
+
+		<!--#include virtual="/inc/footer.html"-->
+	</div>
+</body>
+</html>
