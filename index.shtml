@@ -1,12 +1,12 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <!--#include virtual="/inc/head.inc"-->
+    <!--#include virtual="/inc/head.html"-->
     <title>HILL PARK. Строительство загородных домов под ключ по шведской технологии фахверковых домов с зеленой кровлей</title>
     <style type="text/css">.page-menu-background { background: #006938;}</style>
 </head>
 <body>
-    <!--#include virtual="/inc/menu.inc"-->
+    <!--#include virtual="/inc/menu.html"-->
 
 	<div class="main-page-banner">
         <ul class="banner-slider">
@@ -77,6 +77,6 @@
 
 		<p>&nbsp;</p>
         </div>
-		<!--#include virtual="/inc/footer.inc"--></div>
+		<!--#include virtual="/inc/footer.html"--></div>
 </body>
 </html>
