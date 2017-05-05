@@ -1,15 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<!--#include virtual="/inc/head.inc"-->
+	<!--#include virtual="/inc/head.html"-->
 <title>HILL PARK 256 / 1</title>
 </head>
 <body>
-	<!--#include virtual="/inc/menu.inc"-->
+	<!--#include virtual="/inc/menu.html"-->
 
-	<div class="page-banner">
-        <img src="banner.jpg" />
-	</div>
+	<div class="page-banner"><img src="banner.jpg" /></div>
 
 	<div class="page-content house">
 		<div class="k-price-label">
@@ -56,11 +54,11 @@
 	        <img style="width:800px; padding: 5px 0px 20px 0px" src="plan-2.jpg"/>
         </div>
 		<div class="spacer-white"></div>
-        <h3>Нажмите на фото для увеличения:</h3>       
+        <h3>Нажмите на фото для увеличения:</h3>
         <div class="photo-gallery"></div>
         <div class="back">ВЕРНУТЬСЯ</div>
-        <!--#include file="photos.inc"-->
-	    <!--#include virtual="/inc/footer.inc"-->
+        <!--#include file="photos.html"-->
+	    <!--#include virtual="/inc/footer.html"-->
 	</div>
 </body>
 </html>
