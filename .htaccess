@@ -16,5 +16,7 @@ RewriteRule  ^catalogue/slim-house-375/?$  /catalogue/hill-park-256-2  [R=perman
 
 DirectoryIndex index.html index.shtml
 
-AddType text/html .shtml
+AddType "text/html; charset=UTF-8" .html
+AddType "text/html; charset=UTF-8" .shtml
+
 AddOutputFilter INCLUDES .shtml
