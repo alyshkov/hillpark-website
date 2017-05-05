@@ -1,11 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<!--#include virtual="/inc/head.inc"-->
+	<!--#include virtual="/inc/head.html"-->
 <title>О поселке</title>
 </head>
 <body>
-	<!--#include virtual="/inc/menu.inc"-->	
+	<!--#include virtual="/inc/menu.html"-->
 	<div class="page-banner"><img src="_narrow.png" /></div>
 	<div class="page-content">
 
@@ -34,7 +34,7 @@
     <li>освещение дорог поселка</li>
     <li>асфальтирование дорог</li>
 </ul>
-            
+
 <h3>Коммуникации</h3>
 <ul>
     <li>электричество 14.5 кВт на участок</li>
@@ -49,7 +49,7 @@
     <div class="spacer-white"></div>
 
     <img src="1.png" />
-        		
-	<!--#include virtual="/inc/footer.inc"--></div>
+
+	<!--#include virtual="/inc/footer.html"--></div>
 </body>
 </html>

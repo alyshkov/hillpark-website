@@ -1,17 +1,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<!--#include virtual="/inc/head.inc"-->
-<title>О проекте</title>
+	<!--#include virtual="/inc/head.html"-->
+	<title>О проекте</title>
 </head>
 <body>
-	<!--#include virtual="/inc/menu.inc"-->	
+	<!--#include virtual="/inc/menu.html"-->
 	<div class="page-banner"><img src="_narrow.JPG" /></div>
 
 	<div class="page-content">
     <h1>ПРОЕКТ «HILL PARK» - дома с парком на крыше</h1>
         <div class="text">
-        <img class="inline left" src="img_3827.jpg"/><img class="inline left" src="IMG_3617.JPG"/>     
+        <img class="inline left" src="img_3827.jpg"/><img class="inline left" src="IMG_3617.JPG"/>
         <p>Строительство домов с парком на крыше ведется в
 Скандинавии еще с 18 века. Такая кровля имеет ряд
 замечательных особенностей.</p>
@@ -40,7 +40,7 @@
 дренажные системы под грунтом с накопителями влаги
 сокращают расход воды и облегчают уход за садом.</p>
 
-        <img class="inline right" src="3.png"/><img class="inline right" src="4.png"/> 
+        <img class="inline right" src="3.png"/><img class="inline right" src="4.png"/>
 <h3>ТЕРМОРЕГУЛЯЦИЯ</h3>
         <p>Летом защищает дом
 от перегрева, а зимой служит в качестве
@@ -73,7 +73,7 @@ University).</p>
 площадью 18 м2, до земли доходит только
 15 литров. Остальное впитывается грунтом и
 растениями.</p>
-                    <img class="inline left" src="5.png"/><img class="inline left" src="6.png"/> 
+                    <img class="inline left" src="5.png"/><img class="inline left" src="6.png"/>
         <p>Дома <strong>HILL PARK</strong> построены по технологии <strong>Фахверк</strong>
 (несущий каркас и большая площадь остекления), имеют свой
 исключительный стиль, оригинальный дизайн и уникальную
@@ -97,9 +97,9 @@ University).</p>
 каток</strong>. Оборудование фонтана съемное (легко убирается на
 осенне-зимний период).</p>
 
-        <img class="inline right" src="img_8062.jpg"/><img class="inline right" src="IMG_8099.jpg"/> 
-        <img class="inline right" src="img_0764.jpg"/><img class="inline right" src="IMG_2821.JPG"/> 
-        <img class="inline right" src="IMG_3059.JPG"/><img class="inline right" src="IMG_9894.JPG"/> 
+        <img class="inline right" src="img_8062.jpg"/><img class="inline right" src="IMG_8099.jpg"/>
+        <img class="inline right" src="img_0764.jpg"/><img class="inline right" src="IMG_2821.JPG"/>
+        <img class="inline right" src="IMG_3059.JPG"/><img class="inline right" src="IMG_9894.JPG"/>
 
         <h2>Каркас и кровля</h2>
         <p>Специальная <strong>усиленная стропильная система</strong> домов с парком на крыше способна нести повышенные нагрузки порядка 500 кг на кв.м. Снеговая нагрузка в этом районе ЛО
@@ -111,9 +111,9 @@ University).</p>
 
         <h2>Остекление</h2>
         <p>Все дома остеклены панорамными окнами - <strong>стеклопакеты двухкамерные 46 мм</strong> (6-14-6-14-6) с <strong>теплоудерживающим покрытием</strong>, размером 3х1,5м. Коэффициент
-            теплопроводности около 0,9. Стеклопакеты установлены в разборные деревянные рамы (обеспечивает возможность легкой замены стеклопакета). Рамы не входят в 
+            теплопроводности около 0,9. Стеклопакеты установлены в разборные деревянные рамы (обеспечивает возможность легкой замены стеклопакета). Рамы не входят в
             несущий каркас дома (как в конструктиве традиционного Фахверка) и, тем самым, не подвержены действию нагрузок.</p>
-        
+
         <h2>Облицовка</h2>
         <p>В облицовке фасадов использованы только экологически чистые и долговечные материалы: качественная обработанная защитой древесина и фасадные панели
             WANDSTEIN, которые обладают высокой прочностью, не гниют, не подвергаются коррозии, легко моются и практически не требуют ухода. Панели сохраняются в
@@ -126,7 +126,7 @@ University).</p>
 решений. Декоративное освещение фасадов домов и садово-
 парковой зоны с настраиваемыми датчиками автоматического
 включения/выключения.</p>
-            
+
         <h2>ВНУТРЕННИЕ ПЛАНИРОВКИ</h2>
         <p>Дома спроектированы с очень просторными гостиными и большими спальнями
 с индивидуальными ванными комнатами и гардеробными. Имеется большое
@@ -159,6 +159,6 @@ University).</p>
 
 
             </div>
-	<!--#include virtual="/inc/footer.inc"--></div>
+	<!--#include virtual="/inc/footer.html"--></div>
 </body>
 </html>
