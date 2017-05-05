@@ -1,3 +1,6 @@
+Options FollowSymLinks Includes
+Require all granted
+
 RewriteEngine on
 
 RewriteCond  %{HTTP_HOST}  ^hill-park\.ru$ [OR]
