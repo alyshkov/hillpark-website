@@ -1,4 +1,4 @@
-﻿$(function () {
+$(function () {
     var defaultSliderOptions = {
         mode: 'fade',
         speed: 3000,

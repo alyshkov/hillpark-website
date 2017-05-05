@@ -1,4 +1,4 @@
-﻿<script type="text/javascript">
+<script type="text/javascript">
   var p = [
   "img_4885.jpg",
   "img_4936.jpg",
