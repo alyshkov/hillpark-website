@@ -1,0 +1,28 @@
+<div class="catalogue-item" href="<!--#echo var='href' -->">
+  <table cellspacing="0" borderspacing="0"><tr>
+  <td class="td-photo"><img class="photo" src="<!--#echo var='href' -->/_small.jpg" /></td>
+  <td class="td-info">
+    <div class="title"><!--#echo var='title' --></div>
+    <div class="info"><ul>
+		<li><span class="prop">площадь дома:</span><span class="value"><!--#echo var='house' --> м<sup>2</sup></span></li>
+		<li><span class="prop">отапливаемая:</span><span class="value"><!--#echo var='warm' --> м<sup>2</sup></span></li>
+		<!--#if expr="v('roof') > 0" -->
+			<li><span class="prop">парк на крыше:</span><span class="value"><!--#echo var='roof' --> м<sup>2</sup></span></li>
+		<!--#endif -->
+		<!--#if expr="v('annex') > 0" -->
+			<li><span class="prop">пристройка:</span><span class="value"><!--#echo var='annex' --> м<sup>2</sup></span></li>
+		<!--#endif -->
+	</ul></div>
+  </td>
+  <td class="td-price">
+	<!--#if expr="v('sold') = 'true'" -->
+	<div class="sold-label">ДОМ ПРОДАН</div>
+	<!--#else -->
+    <div class="price">
+      <div class="line1"><span class="price-value"><!--#echo var='price' --></span> млн. руб.</div>
+      <div class="line2">цена с участком <!--#echo var='allotment' --></div>
+    </div>
+	<!--#endif -->
+  </td>
+  </tr></table>
+</div>
