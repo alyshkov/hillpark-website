@@ -1,7 +1,8 @@
 <div class="spacer">
 </div>
 <div class="k-footer">
-  <span class="copyright">Copyright © 2015, HILL PARK</span>
+  <!--#config timefmt="%Y" -->
+  <span class="copyright">Copyright © <!--#echo var="DATE_LOCAL" -->, HILL PARK</span>
   <span class="k-phone">+7 (812) 922-54-84</span>
   <span class="k-email">
     <a href="mailto:sales@hillpark.ru">sales@hillpark.ru</a>

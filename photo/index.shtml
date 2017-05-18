@@ -39,6 +39,6 @@
 				<!--#include virtual="/catalogue/hill-park-256-1/photos.html"-->
 				<!--#include virtual="/catalogue/hill-park-256-2/photos.html"-->
 
-        <!--#include virtual="/inc/footer.html"--></div>
+        <!--#include virtual="/inc/footer.shtml"--></div>
 </body>
 </html>

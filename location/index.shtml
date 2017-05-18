@@ -31,6 +31,6 @@
 		доехать за 40 минут.</p-->
 		<!-- #EndEditable -->
 		<!--/content-->
-		<!--#include virtual="/inc/footer.html"--></div>
+		<!--#include virtual="/inc/footer.shtml"--></div>
 </body>
 </html>

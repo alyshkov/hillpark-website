@@ -32,6 +32,6 @@
             или электронной почте <a href="mailto:sales@hillpark.ru">sales@hillpark.ru</a></p>
         <div class="spacer-white"></div>
         </div>
-		<!--#include virtual="/inc/footer.html"--></div>
+		<!--#include virtual="/inc/footer.shtml"--></div>
 </body>
 </html>

@@ -33,7 +33,7 @@
         <div class="photo-gallery"></div>
         <div class="back">ВЕРНУТЬСЯ</div>
         <!--#include file="photos.html"-->
-	    <!--#include virtual="/inc/footer.html"-->
+	    <!--#include virtual="/inc/footer.shtml"-->
 	</div>
 </body>
 </html>

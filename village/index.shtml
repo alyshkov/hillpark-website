@@ -50,6 +50,6 @@
 
     <img src="1.png" />
 
-	<!--#include virtual="/inc/footer.html"--></div>
+	<!--#include virtual="/inc/footer.shtml"--></div>
 </body>
 </html>
