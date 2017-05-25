@@ -98,6 +98,17 @@
         <!--#set var='sold' value='true' -->
         <!--#include virtual="/catalogue/_thumb.shtml"-->
 
+        <!--#set var='href' value='/catalogue/hill-park-257-2/' -->
+        <!--#set var='title' value='«HILL PARK 257 / 2' -->
+        <!--#set var='warm' value='178' -->
+        <!--#set var='house' value='178' -->
+        <!--#set var='roof' value='0' -->
+        <!--#set var='annex' value='41' -->
+        <!--#set var='price' value='15,0' -->
+        <!--#set var='allotment' value='8 соток' -->
+        <!--#set var='sold' value='true' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
         <div class="spacer-white"></div>
 
         <div class="kk-link-placeholder"><a class="external-link kk-link" href="http://kaptenens-klubb.ru/catalogue/">Больше домов в проекте <strong>«Kaptenens Klubb»</strong></a></div>
