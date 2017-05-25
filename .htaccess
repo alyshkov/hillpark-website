@@ -24,3 +24,15 @@ AddOutputFilter INCLUDES .shtml
 DirectoryIndex index.html index.shtml
 
 AddDefaultCharset utf-8
+
+<FilesMatch ".+\.(html|shtml)$">
+    Header set Cache-Control "no-cache"
+</FilesMatch>
+
+<FilesMatch "^(fonts\.css|kaptenen\.css|kaptenen\.js)$">
+    Header set Cache-Control "no-cache"
+</FilesMatch>
+
+<FilesMatch ".+\.(gif|jpg|jpeg|png)$">
+    Header set Cache-Control "must-revalidate, max-age=3600"
+</FilesMatch>
