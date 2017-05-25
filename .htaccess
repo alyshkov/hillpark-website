@@ -18,9 +18,9 @@ RewriteRule  ^catalogue/tropical-garden-408/?$  /catalogue/hill-park-256-1  [R=p
 RewriteRule  ^catalogue/slim-house-375/?$  /catalogue/hill-park-256-2  [R=permanent]
 RewriteRule  ^catalogue/slim-house-168/?$  /catalogue/hill-park-257-2  [R=permanent]
 
+AddType "text/html" .shtml
+AddOutputFilter INCLUDES .shtml
+
 DirectoryIndex index.html index.shtml
 
-AddType "text/html; charset=UTF-8" .html
-AddType "text/html; charset=UTF-8" .shtml
-
-AddOutputFilter INCLUDES .shtml
+AddDefaultCharset utf-8
