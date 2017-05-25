@@ -21,6 +21,7 @@ RewriteRule  ^catalogue/slim-house-168/?$  /catalogue/hill-park-257-2  [R=perman
 AddType "text/html" .shtml
 AddOutputFilter INCLUDES .shtml
 
+# Apache mod_deflate bug workaround: remove trailing "-gzip" from Etag to allow server-side Etag match
 Header edit "ETag" "^\"(.*)-gzip\"$" "\"$1\""
 
 AddOutputFilterByType DEFLATE text/html text/css application/javascript
