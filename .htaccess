@@ -21,6 +21,8 @@ RewriteRule  ^catalogue/slim-house-168/?$  /catalogue/hill-park-257-2  [R=perman
 AddType "text/html" .shtml
 AddOutputFilter INCLUDES .shtml
 
+Header edit "ETag" "^\"(.*)-gzip\"$" "\"$1\""
+
 AddOutputFilterByType DEFLATE text/html text/css application/javascript
 
 DirectoryIndex index.html index.shtml
