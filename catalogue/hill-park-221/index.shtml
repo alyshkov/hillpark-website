@@ -6,33 +6,7 @@
 </head>
 <body>
 	<!--#include virtual="/inc/menu.html"-->
-
-	<div class="page-banner">
-        <div class="left">
-            <ul class="banner-slider">
-                <li><img src="banner/9_narrow_left_01_1.jpg"/></li>
-                <li><img src="banner/9_narrow_left_01_2.jpg"/></li>
-                <li><img src="banner/9_narrow_left_01_3.jpg"/></li>
-                <li><img src="banner/9_narrow_left_01_4.jpg"/></li>
-                <li><img src="banner/9_narrow_left_02_1.jpg"/></li>
-                <li><img src="banner/9_narrow_left_02_2.jpg"/></li>
-                <li><img src="banner/9_narrow_left_02_3.jpg"/></li>
-                <li><img src="banner/9_narrow_left_02_4.jpg"/></li>
-            </ul>
-        </div>
-        <div class="right">
-            <ul class="banner-slider">
-                <li><img src="banner/9_narrow_right_03_1.jpg"/></li>
-                <li><img src="banner/9_narrow_right_03_2.jpg"/></li>
-                <li><img src="banner/9_narrow_right_03_3.jpg"/></li>
-                <li><img src="banner/9_narrow_right_03_4.jpg"/></li>
-                <li><img src="banner/9_narrow_right_04_1.jpg"/></li>
-                <li><img src="banner/9_narrow_right_04_2.jpg"/></li>
-                <li><img src="banner/9_narrow_right_04_3.jpg"/></li>
-                <li><img src="banner/9_narrow_right_04_4.jpg"/></li>
-            </ul>
-        </div>
-	</div>
+	<div class="page-banner"><img src="banner.jpg" /></div>
 
 	<div class="page-content house">
 		<div class="k-price-label">
@@ -75,8 +49,7 @@
                 <tr class="cold terasse"><td class="number">16</td><td class="name">Терасса крытая</td><td class="surface">26,0</td></tr>
                 <tr class="cold utility"><td class="number">17</td><td class="name">Хозблок</td><td class="surface">15,0</td></tr>
             </table>
-	        <img style="width:830px;" src="plan-1.jpg"/>
-	        <img style="width:830px; padding: 30px 0px 20px 0px" src="plan-2.png"/>
+	        <img style="width:830px; padding-bottom: 50px" src="plan.jpg"/>
         </div>
 		<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
