@@ -9,8 +9,8 @@ Disallow: /files/
 Disallow: */panorama/
 Disallow: */panorama.asp
 Disallow: */banner/
-Disallow: */photo-s/
-Disallow: */photo-l/
+Disallow: */thumbs/
+Disallow: */photos/
 
 Host: hillpark.ru
 

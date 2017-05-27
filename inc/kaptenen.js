@@ -33,8 +33,8 @@ $(function () {
         window.photos.forEach(function (pack) {
             var path = pack.path;
             pack.photos.forEach(function(photo) {
-                var href = path + 'photo-l/' + photo;
-                var src = path + 'photo-s/' + photo;
+                var href = path + 'photos/' + photo;
+                var src = path + 'thumbs/' + photo;
                 gallery.append('<a href="' + href + '"><img src="' + src + '"></a>');
             });
         });
