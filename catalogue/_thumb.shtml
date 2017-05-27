@@ -1,6 +1,6 @@
 <div class="catalogue-item" href="<!--#echo var='href' -->">
   <table cellspacing="0" borderspacing="0"><tr>
-  <td class="td-photo"><img class="photo" src="<!--#echo var='href' -->/_small.jpg" /></td>
+  <td class="td-photo"><img class="photo" src="<!--#echo var='href' -->/_thumb.jpg" /></td>
   <td class="td-info">
     <div class="title"><!--#echo var='title' --></div>
     <div class="info"><ul>

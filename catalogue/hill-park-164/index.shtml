@@ -6,8 +6,7 @@
 </head>
 <body>
   	<!--#include virtual="/inc/menu.html"-->
-
-	<div class="page-banner"><img src="banner.jpg" /></div>
+	<div class="page-banner"><img src="_banner.jpg" /></div>
 
 	<div class="page-content house">
 		<div class="k-price-label">

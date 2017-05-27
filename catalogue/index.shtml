@@ -6,7 +6,7 @@
 </head>
 <body>
 	<!--#include virtual="/inc/menu.html"-->
-	<div class="page-banner"><img src="_narrow.jpg" /></div>
+	<div class="page-banner"><img src="_banner.jpg" /></div>
 	<div class="page-content">
 		<h1>Каталог домов</h1>
 
