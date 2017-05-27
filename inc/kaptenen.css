@@ -22,6 +22,33 @@ ul {
 	height: 90px;
 }
 
+
+.site-banner .site-logo {
+	float: left;
+    padding-top: 0px;
+    padding-left: 21px;
+}
+
+.site-banner .site-name {
+    padding-top: 32px;
+    padding-left: 326px;
+	font-family: 'Ropa Sans SC Regular', sans-serif;
+	font-size: 40px;
+	letter-spacing: 8px;
+	line-height: 0px;
+	color: #7B4A1E
+}
+
+.site-banner .site-description {
+    padding-top: 30px;
+    padding-left: 428px;
+	font-family: 'Ropa Sans SC Regular', sans-serif;
+	font-size: 21px;
+	letter-spacing: 5px;
+	line-height: 0px;
+	color: #4B9C50
+}
+
 .page-banner {
 	overflow: hidden;
 	margin: 0px auto;
@@ -111,12 +138,6 @@ ul {
 	position: relative;
 	clear: both;
     margin: auto;
-}
-
-.site-logo {
-	float: left;
-    padding-top: 0px;
-    padding-left: 21px;
 }
 
 .k-footer {
