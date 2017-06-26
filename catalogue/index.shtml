@@ -65,6 +65,17 @@
         <!--#set var='sold' value='false' -->
         <!--#include virtual="/catalogue/_thumb.shtml"-->
 
+		<!--#set var='href' value='/catalogue/hill-park-257-1/' -->
+        <!--#set var='title' value='«HILL PARK 257 / 1»' -->
+        <!--#set var='warm' value='512' -->
+        <!--#set var='house' value='635' -->
+        <!--#set var='roof' value='0' -->
+        <!--#set var='annex' value='120' -->
+        <!--#set var='price' value='34,9' -->
+        <!--#set var='allotment' value='11,2 сотки' -->
+        <!--#set var="sold" value='false' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
         <!--#set var='href' value='/catalogue/hill-park-109/' -->
         <!--#set var='title' value='«HILL PARK 109»' -->
         <!--#set var='warm' value='300' -->

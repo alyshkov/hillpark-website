@@ -16,6 +16,7 @@ RewriteRule  ^catalogue/hill-park-377/?$  /catalogue/hill-park-126  [R=permanent
 RewriteRule  ^catalogue/tropical-garden-267/?$  /catalogue/hill-park-222  [R=permanent]
 RewriteRule  ^catalogue/tropical-garden-408/?$  /catalogue/hill-park-256-1  [R=permanent]
 RewriteRule  ^catalogue/slim-house-375/?$  /catalogue/hill-park-256-2  [R=permanent]
+RewriteRule  ^catalogue/tropical-garden-550/?$  /catalogue/hill-park-257-1  [R=permanent]
 RewriteRule  ^catalogue/slim-house-168/?$  /catalogue/hill-park-257-2  [R=permanent]
 
 AddType "text/html" .shtml

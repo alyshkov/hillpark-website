@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--#include virtual="/inc/head.html"-->
+<title>HILL PARK 257 / 1</title>
+</head>
+<body>
+	<!--#include virtual="/inc/menu.html"-->
+	<div class="page-banner"><img src="_banner.jpg" /></div>
+
+	<div class="page-content house">
+		<div class="k-price-label">
+            <div class="price-range">
+                Дом с полной отделкой<br>+ УЧАСТОК
+	            <div><span class="price">34,9</span><span class="currency"> МЛН. РУБ.</span></div>
+            </div>
+		</div>
+		<h1>HILL PARK 257 / 1</h1>
+		<div class="option with-5-lines">
+            участок 11,2 сотки<br />
+			3 этажа<br />
+             &nbsp;&nbsp; + терраса<br />
+            дом: <span class="emphasize">635 м<sup>2</sup></span><br />
+            пристройка: <span class="emphasize">120 м<sup>2</sup></span><br />
+		</div>
+		<p>Трехэтажный дом со вторым светом площадью 635 кв.м., включая крытую террасу на третьем этаже площадью 123 кв.м.<br />
+			Две из трех спален на втором этаже имеют дополнительные окна внутрь дома на гостиную и тропический сад площадью 55 кв.м.
+			На третьем этажа расположены еще две спальни и большая уличная крытая терраса с зоной барбекю, спортивной зоной и зоной отдыха.
+			В пристройке площадью 120 кв.м. располагаются гараж на несколько машин и хозяйственные помещения.</p>
+        <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №257/1.</p>
+		<div class="spacer"></div>
+        <div class="plans right">
+            <table class="bigger" style="top: 370px">
+                <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">635,3</td></tr>
+                <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">241,4</td></tr>
+                <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">7,7</td></tr>
+                <tr class="warm room"><td class="number">2</td><td class="name">Гостинная и кухня</td><td class="surface">149,0</td></tr>
+                <tr class="warm room"><td class="number">3</td><td class="name">Тропический сад</td><td class="surface">54,8</td></tr>
+                <tr class="warm storage"><td class="number">4</td><td class="name">Хозяйственная кладовая</td><td class="surface">6,8</td></tr>
+                <tr class="warm utility"><td class="number">5</td><td class="name">Туалет гостевой</td><td class="surface">2,1</td></tr>
+                <tr class="warm utility"><td class="number">6</td><td class="name">Сауна</td><td class="surface">4,7</td></tr>
+                <tr class="warm utility"><td class="number">7</td><td class="name">Душевая</td><td class="surface">6,4</td></tr>
+                <tr class="warm utility"><td class="number">8</td><td class="name">Туалет гостевой</td><td class="surface">2,1</td></tr>
+                <tr class="warm utility"><td class="number">9</td><td class="name">Котельная и парачечная</td><td class="surface">7,8</td></tr>
+                <tr class="warm title"><td colspan="2">ВТОРОЙ ЭТАЖ</td><td class="surface">164,1</td></tr>
+                <tr class="warm bedroom"><td class="number">1</td><td class="name">Спальня 1</td><td class="surface">34,1</td></tr>
+                <tr class="warm room"><td class="number">2</td><td class="name">Кабинет</td><td class="surface">17,5</td></tr>
+                <tr class="warm utility"><td class="number">3</td><td class="name">Санузел спальни 1</td><td class="surface">13,7</td></tr>
+                <tr class="warm storage"><td class="number">4</td><td class="name">Стенной шкаф</td><td class="surface">2,4</td></tr>
+                <tr class="warm storage"><td class="number">5</td><td class="name">Гардеробная спальни 1</td><td class="surface">5,8</td></tr>
+                <tr class="warm bedroom"><td class="number">6</td><td class="name">Спальня 2</td><td class="surface">32,8</td></tr>
+                <tr class="warm utility"><td class="number">7</td><td class="name">Санузел спальни 2</td><td class="surface">6,2</td></tr>
+				<tr class="warm bedroom"><td class="number">8</td><td class="name">Спальня 3</td><td class="surface">22,4</td></tr>
+                <tr class="warm utility"><td class="number">9</td><td class="name">Санузел спальни 3</td><td class="surface">8,8</td></tr>
+                <tr class="warm room"><td class="number">10</td><td class="name">Холл</td><td class="surface">20,4</td></tr>
+                <tr class="warm title"><td colspan="2">ТРЕТИЙ ЭТАЖ</td><td class="surface">229,8</td></tr>
+                <tr class="warm bedroom"><td class="number">1</td><td class="name">Спальня 4 с кабинетом</td><td class="surface">35,5</td></tr>
+                <tr class="warm storage"><td class="number">2</td><td class="name">Гардеробная спальни 4</td><td class="surface">4,6</td></tr>
+                <tr class="warm utility"><td class="number">3</td><td class="name">Санузел спальни 4</td><td class="surface">4,6</td></tr>
+				<tr class="warm bedroom"><td class="number">4</td><td class="name">Спальня 5 с кабинетом</td><td class="surface">24,7</td></tr>
+                <tr class="warm utility"><td class="number">5</td><td class="name">Санузел спальни 5</td><td class="surface">12,7</td></tr>
+				<tr class="warm storage"><td class="number">6</td><td class="name">Гардеробная спальни 5</td><td class="surface">5,3</td></tr>
+				<tr class="warm room"><td class="number">7</td><td class="name">Холл</td><td class="surface">7,4</td></tr>
+				<tr class="cold terrace"><td class="number">8</td><td class="name">Терраса крытая</td><td class="surface">123,0</td></tr>
+				<tr class="warm storage"><td class="number">9</td><td class="name">Кладовая</td><td class="surface">12,0</td></tr>
+                </table>
+	        <img style="width:800px;" src="plan-1.jpg"/>
+	        <img style="width:800px; padding: 5px 0px 0px 0px" src="plan-2.jpg"/>
+	        <img style="width:800px; padding: 5px 0px 20px 0px" src="plan-3.jpg"/>
+        </div>
+		<div class="spacer-white"></div>
+        <h3>Нажмите на фото для увеличения:</h3>
+        <div class="photo-gallery"></div>
+        <div class="back">ВЕРНУТЬСЯ</div>
+        <!--#include file="photos.html"-->
+	    <!--#include virtual="/inc/footer.shtml"-->
+	</div>
+</body>
+</html>
