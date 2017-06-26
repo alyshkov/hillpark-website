@@ -46,7 +46,7 @@
                 <tr class="warm bedroom"><td class="number">14</td><td class="name">Спальня 4</td><td class="surface">19,3</td></tr>
                 <tr class="warm storage"><td class="number">15</td><td class="name">Гардеробная спальни 4</td><td class="surface">3,5</td></tr>
                 <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">41,0</td></tr>
-                <tr class="cold terasse"><td class="number">16</td><td class="name">Терасса крытая</td><td class="surface">26,0</td></tr>
+                <tr class="cold terrace"><td class="number">16</td><td class="name">Терраса крытая</td><td class="surface">26,0</td></tr>
                 <tr class="cold utility"><td class="number">17</td><td class="name">Хозблок</td><td class="surface">15,0</td></tr>
             </table>
 	        <img style="width:830px; padding-bottom: 50px" src="plan.jpg"/>
