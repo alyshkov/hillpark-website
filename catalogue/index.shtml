@@ -70,7 +70,7 @@
         <!--#set var='warm' value='513' -->
         <!--#set var='house' value='636' -->
         <!--#set var='roof' value='0' -->
-        <!--#set var='annex' value='118' -->
+        <!--#set var='garage' value='118' -->
         <!--#set var='price' value='39,0' -->
         <!--#set var='allotment' value='11,2 сотки' -->
         <!--#set var="sold" value='false' -->

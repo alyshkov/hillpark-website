@@ -12,6 +12,9 @@
 		<!--#if expr="v('annex') > 0" -->
 			<li><span class="prop">пристройка:</span><span class="value"><!--#echo var='annex' --> м<sup>2</sup></span></li>
 		<!--#endif -->
+		<!--#if expr="v('garage') > 0" -->
+			<li><span class="prop">гараж:</span><span class="value"><!--#echo var='garage' --> м<sup>2</sup></span></li>
+		<!--#endif -->
 	</ul></div>
   </td>
   <td class="td-price">
