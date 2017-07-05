@@ -16,6 +16,7 @@
         <!--#set var='house' value='384' -->
         <!--#set var='roof' value='446' -->
         <!--#set var='annex' value='0' -->
+		<!--#set var='garage' value='0' -->
         <!--#set var='price' value='21,9' -->
         <!--#set var='allotment' value='15 соток' -->
         <!--#set var='sold' value='false' -->
@@ -27,6 +28,7 @@
         <!--#set var='house' value='386' -->
         <!--#set var='roof' value='404' -->
         <!--#set var='annex' value='0' -->
+		<!--#set var='garage' value='0' -->
         <!--#set var='price' value='21,9' -->
         <!--#set var='allotment' value='15 соток' -->
         <!--#set var="sold" value='false' -->
@@ -38,6 +40,7 @@
         <!--#set var='house' value='301' -->
         <!--#set var='roof' value='440' -->
         <!--#set var='annex' value='0' -->
+		<!--#set var='garage' value='0' -->
         <!--#set var='price' value='24,9' -->
         <!--#set var='allotment' value='23 сотки' -->
         <!--#set var="sold" value='false' -->
@@ -60,6 +63,7 @@
         <!--#set var='house' value='373' -->
         <!--#set var='roof' value='0' -->
         <!--#set var='annex' value='0' -->
+		<!--#set var='garage' value='0' -->
         <!--#set var='price' value='23,9' -->
         <!--#set var='allotment' value='10,8 сотки' -->
         <!--#set var='sold' value='false' -->
@@ -70,6 +74,7 @@
         <!--#set var='warm' value='513' -->
         <!--#set var='house' value='636' -->
         <!--#set var='roof' value='0' -->
+		<!--#set var='annex' value='0' -->
         <!--#set var='garage' value='118' -->
         <!--#set var='price' value='39,0' -->
         <!--#set var='allotment' value='11,2 сотки' -->
@@ -82,6 +87,7 @@
         <!--#set var='house' value='443' -->
         <!--#set var='roof' value='580' -->
         <!--#set var='annex' value='0' -->
+		<!--#set var='garage' value='0' -->
         <!--#set var='price' value='19,66' -->
         <!--#set var='allotment' value='15 соток' -->
         <!--#set var='sold' value='true' -->
@@ -93,6 +99,7 @@
         <!--#set var='house' value='447' -->
         <!--#set var='roof' value='600' -->
         <!--#set var='annex' value='0' -->
+		<!--#set var='garage' value='0' -->
         <!--#set var='price' value='22,9' -->
         <!--#set var='allotment' value='15 соток' -->
         <!--#set var='sold' value='true' -->
@@ -115,6 +122,7 @@
         <!--#set var='house' value='178' -->
         <!--#set var='roof' value='0' -->
         <!--#set var='annex' value='41' -->
+		<!--#set var='garage' value='0' -->
         <!--#set var='price' value='15,0' -->
         <!--#set var='allotment' value='8 соток' -->
         <!--#set var='sold' value='true' -->

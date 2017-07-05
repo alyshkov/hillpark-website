@@ -389,6 +389,12 @@ div.clicker {
     padding-top: 54px;
 }
 
+.option.with-3-lines {
+	font-size: 1.4em;
+    padding-top: 54px;
+	line-height: 1.5em;
+}
+
 .price-range {
     padding-top: 60px;
     padding-bottom: 8px;
