@@ -592,31 +592,6 @@ div.clicker {
     transition: .4s ease-out;
 }
 
-.kk-link-placeholder {
-    float: right;
-}
-
-.k-pdf-placeholder {
-    padding-top: 15px;
-}
-
-a.k-pdf {
-    background: url('/i/pdf.png') left top no-repeat;
-	padding: 5px 0 5px 40px;
-}
-
-a.kk-link {
-    background: url('/i/kk-logo.png') left top no-repeat;
-	padding: 20px 0 20px 140px;
-}
-
-a.external-link {
-    font-family: 'Ropa Sans SC Regular', sans-serif;
-	display: inline-block;
-	color: blue;
-    font-size: 1.2em;
-}
-
 .spacer {
 	clear: both;
 	height: 4px;
