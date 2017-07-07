@@ -19,7 +19,7 @@
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />
-            &nbsp;&nbsp; + парк на крыше<br />
+            <span class="padded">+ парк на крыше<br /></span>
             дом: <span class="emphasize">384 м<sup>2</sup></span><br />
             парк на крыше: <span class="emphasize">446 м<sup>2</sup></span><br />
 		</div>
@@ -28,7 +28,7 @@
 		<div class="spacer"></div>
         <div class="plans right">
             <table style="top: 210px">
-                <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">384,8</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">384,8</td></tr>
                 <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">263,4</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">6,6</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Гостиная</td><td class="surface">67,0</td></tr>
@@ -46,7 +46,7 @@
                 <tr class="warm utility"><td class="number">14</td><td class="name">Сауна</td><td class="surface">3,5</td></tr>
                 <tr class="warm utility"><td class="number">15</td><td class="name">Котельная</td><td class="surface">4,5</td></tr>
                 <tr class="warm utility"><td class="number">17</td><td class="name">Гараж</td><td class="surface">48,0</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">121,4</td></tr>
+                <tr class="cold title"><td colspan="2">Неотапливаемая площадь</td><td class="surface">121,4</td></tr>
                 <tr class="cold terrace"><td class="number">16</td><td class="name">Терраса с бассейном</td><td class="surface">116,0</td></tr>
                 <tr class="cold utility"><td class="number">18</td><td class="name">Хозблок</td><td class="surface">5,4</td></tr>
             </table>

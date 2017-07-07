@@ -19,7 +19,7 @@
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />
-            &nbsp;&nbsp; + парк на крыше<br />
+            <span class="padded">+ парк на крыше<br /></span>
             дом: <span class="emphasize">386 м<sup>2</sup></span><br />
             парк на крыше: <span class="emphasize">404 м<sup>2</sup></span><br />
 		</div>
@@ -28,7 +28,7 @@
 		<div class="spacer"></div>
         <div class="plans left">
             <table style="top: 220px">
-                <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">386,4</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">386,4</td></tr>
                 <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">239,4</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">14,0</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Гостиная-кухня</td><td class="surface">78,4</td></tr>
@@ -43,7 +43,7 @@
                 <tr class="warm utility"><td class="number">11</td><td class="name">Санузел главной спальни</td><td class="surface">5,4</td></tr>
                 <tr class="warm storage"><td class="number">12</td><td class="name">Гардеробная</td><td class="surface">2,5</td></tr>
                 <tr class="warm utility"><td class="number">13</td><td class="name">Гараж</td><td class="surface">42,7</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">147,0</td></tr>
+                <tr class="cold title"><td colspan="2">Неотапливаемая площадь</td><td class="surface">147,0</td></tr>
                 <tr class="cold utility"><td class="number">14</td><td class="name">Хозблок</td><td class="surface">10,6</td></tr>
                 <tr class="cold terrace"><td class="number">15</td><td class="name">Терраса с бассейном</td><td class="surface">133,0</td></tr>
                 <tr class="cold terrace"><td class="number">16</td><td class="name">Крыльцо</td><td class="surface">3,4</td></tr>

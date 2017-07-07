@@ -13,20 +13,18 @@
             <div class="sold-label">ДОМ ПРОДАН</div>
 		</div>
 		<h1>HILL PARK 257 / 2</h1>
-		<div class="option">
+		<div class="option with-4-lines">
             участок 8,3 сотки<br />
 			3 этажа<br />
-             &nbsp;&nbsp; + пристройка<br />
-            дом: <span class="emphasize">178 м<sup>2</sup></span><br />
-            пристройка: <span class="emphasize">41 м<sup>2</sup></span><br />
+            дом: <span class="emphasize">219 м<sup>2</sup></span>, включая<br />
+            <span class="padded">пристройку: <span class="emphasize">41 м<sup>2</sup></span></span><br />
 		</div>
-		<p>Дом с внутренней площадью 178 кв. м.<br />
-На участке располагается пристройка площадью 41 кв. м. с хоз. блоком и навесом под зону отдыха.</p>
+		<p>Дом площадью 219 кв. м., включая пристройку площадью 41 кв. м. с хозяйственным блоком и навесом под зону отдыха.</p>
         <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №257/2.</p>
 		<div class="spacer"></div>
         <div class="plans right">
             <table class="bigger" style="top: 320px">
-                <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">178,1</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">219,1</td></tr>
                 <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">65,7</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">4,8</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Гостинная и кухня</td><td class="surface">56,0</td></tr>
@@ -39,11 +37,12 @@
                 <tr class="warm utility"><td class="number">5</td><td class="name">Санузел</td><td class="surface">4,9</td></tr>
                 <tr class="warm title"><td colspan="2">ТРЕТИЙ ЭТАЖ</td><td class="surface">53,3</td></tr>
                 <tr class="warm bedroom"><td class="number">1</td><td class="name">Спальня</td><td class="surface">20,8</td></tr>
-								<tr class="warm storage"><td class="number">2</td><td class="name">Гардеробная</td><td class="surface">6,1</td></tr>
-								<tr class="warm storage"><td class="number">3</td><td class="name">Кладовая</td><td class="surface">7,1</td></tr>
+				<tr class="warm storage"><td class="number">2</td><td class="name">Гардеробная</td><td class="surface">6,1</td></tr>
+				<tr class="warm storage"><td class="number">3</td><td class="name">Кладовая</td><td class="surface">7,1</td></tr>
                 <tr class="warm utility"><td class="number">4</td><td class="name">Санузел</td><td class="surface">5,9</td></tr>
                 <tr class="warm utility"><td class="number">5</td><td class="name">Сауна</td><td class="surface">1,7</td></tr>
                 <tr class="warm storage"><td class="number">6</td><td class="name">Чердак</td><td class="surface">11,7</td></tr>
+				<tr class="cold title"><td colspan="2">ПРИСТРОЙКА</td><td class="surface">41,0</td></tr>
             </table>
 	        <img style="width:800px;" src="plan-1.jpg"/>
 	        <img style="width:800px; padding: 5px 0px 0px 0px" src="plan-2.jpg"/>

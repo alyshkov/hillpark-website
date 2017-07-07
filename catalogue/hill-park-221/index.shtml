@@ -19,7 +19,7 @@
 		<div class="option">
             участок 23 сотки<br />
 			1 этаж<br />
-            &nbsp;&nbsp; + парк на крыше<br />
+            <span class="padded">+ парк на крыше</span><br />
             дом: <span class="emphasize">301 м<sup>2</sup></span><br />
             парк на крыше: <span class="emphasize">440 м<sup>2</sup></span><br />
 		</div>
@@ -28,7 +28,7 @@
 		<div class="spacer"></div>
         <div class="plans right">
             <table style="top: 170px">
-                <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">301,2</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">301,2</td></tr>
                 <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">260,2</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">18,0</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Гостиная-кухня</td><td class="surface">96,7</td></tr>
@@ -45,7 +45,7 @@
                 <tr class="warm storage"><td class="number">13</td><td class="name">Гардеробная спальни 3</td><td class="surface">4,2</td></tr>
                 <tr class="warm bedroom"><td class="number">14</td><td class="name">Спальня 4</td><td class="surface">19,3</td></tr>
                 <tr class="warm storage"><td class="number">15</td><td class="name">Гардеробная спальни 4</td><td class="surface">3,5</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемые площади</td><td class="surface">41,0</td></tr>
+                <tr class="cold title"><td colspan="2">Неотапливаемая площадь</td><td class="surface">41,0</td></tr>
                 <tr class="cold terrace"><td class="number">16</td><td class="name">Терраса крытая</td><td class="surface">26,0</td></tr>
                 <tr class="cold utility"><td class="number">17</td><td class="name">Хозблок</td><td class="surface">15,0</td></tr>
             </table>

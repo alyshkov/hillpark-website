@@ -16,7 +16,7 @@
 		<div class="option">
             участок 15 соток<br />
 			1 этаж<br />
-            &nbsp;&nbsp; + парк на крыше<br />
+            <span class="padded">+ парк на крыше</span><br />
             дом: <span class="emphasize">447 м<sup>2</sup></span><br />
             парк на крыше: <span class="emphasize">600 м<sup>2</sup></span><br />
 		</div>

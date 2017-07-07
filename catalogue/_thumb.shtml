@@ -4,7 +4,7 @@
   <td class="td-info">
     <div class="title"><!--#echo var='title' --></div>
     <div class="info"><ul>
-		<li><span class="prop">площадь дома:</span><span class="value"><!--#echo var='house' --> м<sup>2</sup></span></li>
+		<li><span class="prop">общая площадь:</span><span class="value"><!--#echo var='house' --> м<sup>2</sup></span></li>
 		<li><span class="prop">отапливаемая:</span><span class="value"><!--#echo var='warm' --> м<sup>2</sup></span></li>
 		<!--#if expr="v('roof') > 0" -->
 			<li><span class="prop">парк на крыше:</span><span class="value"><!--#echo var='roof' --> м<sup>2</sup></span></li>

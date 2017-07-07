@@ -19,7 +19,7 @@
 		<div class="option with-4-lines">
             участок 10,8 сотки<br />
 			3 этажа<br />
-             &nbsp;&nbsp; + терраса с бассейном<br />
+            <span class="padded">+ терраса</span><br />
             дом: <span class="emphasize">373 м<sup>2</sup></span><br />
 		</div>
 		<p>Дом с внутренней площадью 373 кв. м. и террасой с бассейном.<br />
@@ -28,7 +28,7 @@
 		<div class="spacer"></div>
         <div class="plans right">
             <table style="top: 205px">
-                <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">372,9</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">372,9</td></tr>
                 <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">131,1</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">6,1</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Гостинная</td><td class="surface">32,3</td></tr>

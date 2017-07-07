@@ -27,7 +27,7 @@
 		<div class="spacer"></div>
         <div class="plans right">
             <table style="top: 205px">
-                <tr class="total"><td colspan="2">Общая площадь дома</td><td class="surface">382,3</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">382,3</td></tr>
                 <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">214,9</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">17,6</td></tr>
                 <tr class="warm utility"><td class="number">2</td><td class="name">Котельная и парачечная</td><td class="surface">6,1</td></tr>

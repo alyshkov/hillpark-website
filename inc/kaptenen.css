@@ -385,13 +385,19 @@ div.clicker {
     line-height: 1.3em;
 }
 
+.option .padded {
+	margin-left: 20px;
+}
+
 .option.with-4-lines {
     padding-top: 54px;
+	height: 153px;
 }
 
 .option.with-3-lines {
 	font-size: 1.4em;
     padding-top: 54px;
+	height: 153px;
 	line-height: 1.5em;
 }
 
@@ -488,7 +494,8 @@ div.clicker {
 }
 
 .house .plans .total  {
-    background-color: #a381a0;
+    background-color: #871d24;
+	font-size: 1.1em;
     color: white;
     font-weight: bold;
     text-transform: uppercase;
@@ -496,7 +503,7 @@ div.clicker {
 }
 
 .house .plans .warm.title  {
-    background-color: #4ba0c7;
+    background-color: #a4603d;
     color: white;
     font-weight: bold;
     text-transform: uppercase;

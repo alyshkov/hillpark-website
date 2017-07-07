@@ -72,7 +72,7 @@
 		<!--#set var='href' value='/catalogue/hill-park-257-1/' -->
         <!--#set var='title' value='«HILL PARK 257 / 1»' -->
         <!--#set var='warm' value='513' -->
-        <!--#set var='house' value='636' -->
+        <!--#set var='house' value='754' -->
         <!--#set var='roof' value='0' -->
 		<!--#set var='annex' value='0' -->
         <!--#set var='garage' value='118' -->
@@ -108,7 +108,7 @@
         <!--#set var='href' value='/catalogue/hill-park-222/' -->
         <!--#set var='title' value='«HILL PARK 222»' -->
         <!--#set var='warm' value='231' -->
-        <!--#set var='house' value='267' -->
+        <!--#set var='house' value='357' -->
         <!--#set var='roof' value='0' -->
         <!--#set var='annex' value='90' -->
         <!--#set var='price' value='21,9' -->
@@ -119,7 +119,7 @@
         <!--#set var='href' value='/catalogue/hill-park-257-2/' -->
         <!--#set var='title' value='«HILL PARK 257 / 2' -->
         <!--#set var='warm' value='178' -->
-        <!--#set var='house' value='178' -->
+        <!--#set var='house' value='219' -->
         <!--#set var='roof' value='0' -->
         <!--#set var='annex' value='41' -->
 		<!--#set var='garage' value='0' -->
