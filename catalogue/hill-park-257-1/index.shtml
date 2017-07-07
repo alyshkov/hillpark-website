@@ -56,12 +56,12 @@
                 <tr class="warm room"><td class="number">1</td><td class="name">Проходная гостинная</td><td class="surface">14,9</td></tr>
 				<tr class="warm bedroom"><td class="number">2</td><td class="name">Детские апартаменты 1</td><td class="surface">28,4</td></tr>
                 <tr class="warm utility"><td class="number">3</td><td class="name">Санузел</td><td class="surface">8,5</td></tr>
-				<tr class="warm bedroom"><td class="number">4</td><td class="name">Детские апартаменты 2</td><td class="surface">32,0</td></tr>
-                <tr class="warm utility"><td class="number">5</td><td class="name">Санузел</td><td class="surface">7,6</td></tr>
-				<tr class="warm storage"><td class="number">6</td><td class="name">Гардеробная</td><td class="surface">3,2</td></tr>
-				<tr class="warm room"><td class="number">7</td><td class="name">Холл</td><td class="surface">7,6</td></tr>
-				<tr class="cold terrace"><td class="number">8</td><td class="name">Терраса крытая</td><td class="surface">123,0</td></tr>
-				<tr class="warm storage"><td class="number">9</td><td class="name">Гардеробная</td><td class="surface">6,0</td></tr>
+				<tr class="warm storage"><td class="number">4</td><td class="name">Гардеробная</td><td class="surface">6,0</td></tr>
+				<tr class="warm bedroom"><td class="number">5</td><td class="name">Детские апартаменты 2</td><td class="surface">32,0</td></tr>
+                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел</td><td class="surface">7,6</td></tr>
+				<tr class="warm storage"><td class="number">7</td><td class="name">Гардеробная</td><td class="surface">3,2</td></tr>
+				<tr class="warm room"><td class="number">8</td><td class="name">Холл</td><td class="surface">7,6</td></tr>
+				<tr class="cold terrace"><td class="number">9</td><td class="name">Терраса крытая</td><td class="surface">123,0</td></tr>
 				<tr class="cold title"><td colspan="2">ОТДЕЛЬНЫЙ ГАРАЖ</td><td class="surface">118,0</td></tr>
                 </table>
 	        <img style="width:800px;" src="plan-1.jpg"/>
