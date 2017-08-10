@@ -19,28 +19,26 @@
 		<div class="option with-5-lines">
             участок 11,2 сотки<br />
 			3 этажа<br />
-            дом: <span class="emphasize">754 м<sup>2</sup></span>, ВКЛЮЧАЯ:<br />
+            дом: <span class="emphasize">755 м<sup>2</sup></span>, ВКЛЮЧАЯ:<br />
             <span class="padded">террасу: <span class="emphasize">123 м<sup>2</sup></span></span><br />
             <span class="padded">гараж: <span class="emphasize">118 м<sup>2</sup></span></span><br />
 		</div>
-		<p>Трехэтажный дом со вторым светом площадью 754 кв.м., включая крытую террасу на третьем этаже площадью 123 кв.м. и гараж на несколько машин площадью 118 кв.м.<br />
+		<p>Трехэтажный дом со вторым светом площадью 755 кв.м., включая крытую террасу на третьем этаже площадью 123 кв.м. и гараж на несколько машин площадью 118 кв.м.<br />
 			Две из трех спален на втором этаже имеют дополнительные окна внутрь дома на гостиную и тропический сад площадью 54 кв.м.
 			На третьем этажа расположены еще две спальни и большая уличная крытая терраса с зоной барбекю, спортивной зоной и зоной отдыха.<br />
         <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №257/1.</p>
 		<div class="spacer"></div>
         <div class="plans right">
             <table class="bigger" style="top: 370px">
-                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">754,0</td></tr>
-                <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">240,7</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">755,6</td></tr>
+                <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">242,3</td></tr>
                 <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">8,6</td></tr>
-                <tr class="warm room"><td class="number">2</td><td class="name">Гостинная и кухня</td><td class="surface">152,0</td></tr>
+                <tr class="warm room"><td class="number">2</td><td class="name">Гостинная и кухня</td><td class="surface">157,7</td></tr>
                 <tr class="warm room"><td class="number">3</td><td class="name">Тропический сад</td><td class="surface">54,4</td></tr>
-                <tr class="warm storage"><td class="number">4</td><td class="name">Хозяйственная кладовая</td><td class="surface">2,6</td></tr>
-                <tr class="warm utility"><td class="number">5</td><td class="name">Туалет гостевой</td><td class="surface">2,1</td></tr>
+                <tr class="warm utility"><td class="number">4</td><td class="name">Туалет гостевой</td><td class="surface">2,1</td></tr>
+				<tr class="warm utility"><td class="number">5</td><td class="name">Душевая</td><td class="surface">6,7</td></tr>
                 <tr class="warm utility"><td class="number">6</td><td class="name">Сауна</td><td class="surface">4,7</td></tr>
-                <tr class="warm utility"><td class="number">7</td><td class="name">Душевая</td><td class="surface">6,4</td></tr>
-                <tr class="warm utility"><td class="number">8</td><td class="name">Туалет гостевой</td><td class="surface">2,1</td></tr>
-                <tr class="warm utility"><td class="number">9</td><td class="name">Котельная и парачечная</td><td class="surface">7,8</td></tr>
+                <tr class="warm utility"><td class="number">7</td><td class="name">Котельная и парачечная</td><td class="surface">8,1</td></tr>
                 <tr class="warm title"><td colspan="2">ВТОРОЙ ЭТАЖ</td><td class="surface">164,1</td></tr>
                 <tr class="warm bedroom"><td class="number">1</td><td class="name">Хозяйская спальня</td><td class="surface">34,1</td></tr>
                 <tr class="warm room"><td class="number">2</td><td class="name">Кабинет</td><td class="surface">17,5</td></tr>
