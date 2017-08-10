@@ -55,7 +55,6 @@
 				<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
         <div class="photo-gallery"></div>
-        <div class="back">ВЕРНУТЬСЯ</div>
         <!--#include file="photos.html"-->
 	    	<!--#include virtual="/inc/footer.shtml"-->
 		</div>

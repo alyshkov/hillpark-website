@@ -1,4 +1,4 @@
-<div class="catalogue-item" href="<!--#echo var='href' -->">
+<div class="catalogue-item"><a href="<!--#echo var='href' -->">
   <table cellspacing="0" borderspacing="0"><tr>
   <td class="td-photo"><img class="photo" src="<!--#echo var='href' -->/_thumb.jpg" /></td>
   <td class="td-info">
@@ -28,4 +28,4 @@
 	<!--#endif -->
   </td>
   </tr></table>
-</div>
+</a></div>

@@ -24,10 +24,6 @@ $(function () {
         })
     );
 
-    $(".catalogue-item").click(function() {
-        document.location = $(this).attr("href");
-    });
-
     if (window.photos) {
         var gallery = $('.photo-gallery');
         window.photos.forEach(function (pack) {
@@ -60,15 +56,4 @@ $(function () {
         if (location == href)
             $(this).addClass("selected");
     });
-
-    //Back button
-    var back = $(".back");
-    if (document.referrer == "" || history.length <= 1)
-        back.hide();
-    else {
-        back.css("opacity", 0.6);
-        back.click(function() {
-            history.back();
-        });
-    }
 });
