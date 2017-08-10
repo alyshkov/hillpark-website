@@ -59,8 +59,8 @@
 
         <!--#set var='href' value='/catalogue/hill-park-256-2/' -->
         <!--#set var='title' value='«HILL PARK 256 / 2»' -->
-        <!--#set var='warm' value='373' -->
-        <!--#set var='house' value='373' -->
+        <!--#set var='warm' value='371' -->
+        <!--#set var='house' value='371' -->
         <!--#set var='roof' value='0' -->
         <!--#set var='annex' value='0' -->
 		<!--#set var='garage' value='0' -->
