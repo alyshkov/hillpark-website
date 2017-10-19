@@ -57,18 +57,6 @@
         <!--#set var="sold" value='false' -->
         <!--#include virtual="/catalogue/_thumb.shtml"-->
 
-        <!--#set var='href' value='/catalogue/hill-park-256-2/' -->
-        <!--#set var='title' value='«HILL PARK 256 / 2»' -->
-        <!--#set var='warm' value='371' -->
-        <!--#set var='house' value='371' -->
-        <!--#set var='roof' value='0' -->
-        <!--#set var='annex' value='0' -->
-		<!--#set var='garage' value='0' -->
-        <!--#set var='price' value='23,9' -->
-        <!--#set var='allotment' value='10,8 сотки' -->
-        <!--#set var='sold' value='false' -->
-        <!--#include virtual="/catalogue/_thumb.shtml"-->
-
 		<!--#set var='href' value='/catalogue/hill-park-257-1/' -->
         <!--#set var='title' value='«HILL PARK 257 / 1»' -->
         <!--#set var='warm' value='514' -->
@@ -113,6 +101,18 @@
         <!--#set var='annex' value='90' -->
         <!--#set var='price' value='21,9' -->
         <!--#set var='allotment' value='15 соток' -->
+        <!--#set var='sold' value='true' -->
+        <!--#include virtual="/catalogue/_thumb.shtml"-->
+
+		<!--#set var='href' value='/catalogue/hill-park-256-2/' -->
+        <!--#set var='title' value='«HILL PARK 256 / 2»' -->
+        <!--#set var='warm' value='371' -->
+        <!--#set var='house' value='371' -->
+        <!--#set var='roof' value='0' -->
+        <!--#set var='annex' value='0' -->
+		<!--#set var='garage' value='0' -->
+        <!--#set var='price' value='23,9' -->
+        <!--#set var='allotment' value='10,8 сотки' -->
         <!--#set var='sold' value='true' -->
         <!--#include virtual="/catalogue/_thumb.shtml"-->
 

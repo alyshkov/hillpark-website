@@ -10,10 +10,7 @@
 
 	<div class="page-content house">
 		<div class="k-price-label">
-            <div class="price-range">
-                Дом с полной отделкой<br>+ УЧАСТОК
-	            <div><span class="price">23,9</span><span class="currency"> МЛН. РУБ.</span></div>
-            </div>
+            <div class="sold-label">ДОМ ПРОДАН</div>
 		</div>
 		<h1>HILL PARK 256 / 2</h1>
 		<div class="option with-4-lines">
