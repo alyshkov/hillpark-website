@@ -24,12 +24,12 @@
 
         <!--#set var='href' value='/catalogue/hill-park-126/' -->
         <!--#set var='title' value='«HILL PARK 126»' -->
-        <!--#set var='warm' value='197' -->
+        <!--#set var='warm' value='237' -->
         <!--#set var='house' value='408' -->
         <!--#set var='roof' value='404' -->
         <!--#set var='annex' value='0' -->
 		<!--#set var='garage' value='0' -->
-        <!--#set var='price' value='22,9' -->
+        <!--#set var='price' value='23,9' -->
         <!--#set var='allotment' value='15 соток' -->
         <!--#set var="sold" value='false' -->
         <!--#include virtual="/catalogue/_thumb.shtml"-->
