@@ -53,7 +53,7 @@
 		</div>
 		
 			<div class='parent'>
-			<img class="map" style="padding-bottom: 30px" src="plan.jpg"/>
+			<img class="map" style="width:830px; padding-bottom: 30px " src="plan.jpg"/>
 			
 			<div id='gallery' >
 	<a class="image-popup-no-margins" href="/catalogue/hill-park-108/photos/108_14.JPG"><img class="image14" src="/i/camera.png" title="plan"/>
