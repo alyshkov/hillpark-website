@@ -50,8 +50,65 @@
                 <tr class="cold terrace"><td class="number">16</td><td class="name">Терраса с бассейном</td><td class="surface">116,0</td></tr>
                 <tr class="cold utility"><td class="number">18</td><td class="name">Хозблок</td><td class="surface">5,4</td></tr>
             </table>
-	        <img style="width:830px; padding-bottom: 30px" src="plan.jpg"/>
-        </div>
+		</div>
+		
+			<div class='parent'>
+			<img class="map" style="padding-bottom: 30px" src="plan.jpg"/>
+			
+			<div id='gallery' >
+	<a class="image-popup-no-margins" href="/catalogue/hill-park-108/photos/108_14.JPG"><img class="image14" src="/i/camera.png" title="plan"/>
+	<a class="image-popup-no-margins" href="/catalogue/hill-park-108/photos/108_13.JPG"><img class="image13" src="/i/camera.png" title="plan"/>
+	<a class="image-popup-no-margins" href="/catalogue/hill-park-108/photos/108_07.JPG"><img class="image07" src="/i/camera.png" title="plan"/>
+			</a>
+	        </div>
+	        
+			</div>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+	$('.image-popup-vertical-fit').magnificPopup({
+		type: 'image',
+		closeOnContentClick: true,
+		mainClass: 'mfp-img-mobile',
+		image: {
+			verticalFit: true
+		}
+		
+	});
+
+	$('.image-popup-fit-width').magnificPopup({
+		type: 'image',
+		closeOnContentClick: true,
+		image: {
+			verticalFit: false
+		}
+	});
+
+	$('.image-popup-no-margins').magnificPopup({
+		type: 'image',
+		closeOnContentClick: true,
+		closeBtnInside: false,
+		fixedContentPos: true,
+		mainClass: 'mfp-no-margins mfp-with-zoom', // class to remove default margin from left and right side
+		image: {
+			verticalFit: true
+		},
+		zoom: {
+			enabled: true,
+			duration: 300 // don't foget to change the duration also in CSS
+		}
+	});
+
+});
+
+	
+</script>
+
+        
+		
+		
 				<div class="spacer-white"></div>
         <h3>Нажмите на фото для увеличения:</h3>
         <div class="photo-gallery"></div>

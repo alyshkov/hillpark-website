@@ -48,3 +48,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+%LOCALAPPDATA%/Google/Chrome/User Data/Crashpad/metadata
+%LOCALAPPDATA%/Google/Chrome/User Data/Crashpad/settings.dat

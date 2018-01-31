@@ -1,7 +1,8 @@
 Options FollowSymLinks Includes
 Require all granted
-
+Options +Includes
 RewriteEngine on
+
 
 RewriteCond  %{HTTP_HOST}  ^hill-park\.ru$ [OR]
 RewriteCond  %{HTTP_HOST}  ^www\.hill-park\.ru$ [OR]
@@ -21,6 +22,7 @@ RewriteRule  ^catalogue/slim-house-168/?$  /catalogue/hill-park-257-2  [R=perman
 
 AddType "text/html" .shtml
 AddOutputFilter INCLUDES .shtml
+AddHandler server-parsed .shtml
 
 # Apache mod_deflate bug workaround: remove trailing "-gzip" from Etag to allow server-side Etag match
 Header edit "ETag" "^\"(.*)-gzip\"$" "\"$1\""
