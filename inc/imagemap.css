@@ -1,14 +1,4 @@
-.parent {
-  position: relative;
-  top: 0;
-  left: 0;
-  
-}
-.plan {
-  position: relative;
-  top: 0;
-  left: 0;
-}
+
 .image14 {
   position: absolute;
   left: 489px;
@@ -30,6 +20,19 @@
   top: 150px;
 }
 
+
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+  
+}
+.plan {
+  position: relative;
+  top: 0;
+  left: 0;
+}
 
 
 
