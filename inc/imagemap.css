@@ -8,14 +8,12 @@
   position: relative;
   top: 0;
   left: 0;
-
 }
 .image14 {
   position: absolute;
   left: 489px;
   top: 140px;
 }
-
 .image13 {
   position: absolute;
   left: 451px;
@@ -26,7 +24,11 @@
   left: 280px;
   top: 159px;
 }
-
+.image06 {
+  position: absolute;
+  left: 210px;
+  top: 150px;
+}
 
 
 
