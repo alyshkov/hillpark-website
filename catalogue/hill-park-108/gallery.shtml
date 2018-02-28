@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--#include virtual="/inc/head.html"-->
+<title>HILL PARK 108</title>
+</head>
+<body>
+	<!--#include virtual="/inc/menu.html"-->
+	<div class="page-banner"><img src="_banner.jpg" /></div>
+
+	<div class="page-content house">
+
+			<div class="spacer"></div>
+		
+		<h7><center>ФОТОГАЛЕРЕЯ	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН 1 ЭТАЖА</a>	</center></h7>
+		<div class="spacer"></div>
+        
+		
+			<div class='parent'>
+			
+			<div id='gallery' >
+
+	        </div>
+	        
+			</div>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+	$('.image-popup-vertical-fit').magnificPopup({
+		type: 'image',
+		closeOnContentClick: true,
+		mainClass: 'mfp-img-mobile',
+		image: {
+			verticalFit: true
+		}
+		
+	});
+
+	$('.image-popup-fit-width').magnificPopup({
+		type: 'image',
+		closeOnContentClick: true,
+		image: {
+			verticalFit: false
+		}
+	});
+
+	$('.image-popup-no-margins').magnificPopup({
+		type: 'image',
+		closeOnContentClick: true,
+		closeBtnInside: true,
+		fixedContentPos: true,
+		mainClass: 'mfp-no-margins mfp-with-zoom', // class to remove default margin from left and right side
+		image: {
+			verticalFit: true
+		},
+		zoom: {
+			enabled: true,
+			duration: 300 // don't foget to change the duration also in CSS
+		}
+	});
+
+});
+
+	
+</script>
+
+        
+		
+		
+			
+        <h3>Нажмите на фото для увеличения:</h3>
+        <div class="photo-gallery"></div>
+        <!--#include file="photos.html"-->
+	    	<!--#include virtual="/inc/footer.shtml"-->
+		</div>
+</body>
+</html>

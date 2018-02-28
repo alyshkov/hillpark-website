@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--#include virtual="/inc/head.html"-->
+<title>HILL PARK 108</title>
+</head>
+<body>
+	<!--#include virtual="/inc/menu.html"-->
+	<div class="page-banner"><img src="_banner.jpg" /></div>
+
+	<div class="page-content house">
+
+		
+		<div class="spacer"></div>
+		
+ 
+
+		<img id="plan"  src="photos/plan_inside_03.jpg"/>
+		<div class="map_rights">
+		<h7><a href="./map_outside.shtml">ПЛАН УЧАСТКА</a><br>
+		ПЛАН 1 ЭТАЖА<br>
+		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7><br>
+		</div>		
+
+		<div class="plans">
+            <table style="top: -88px; left:650px;">
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">384,8</td></tr>
+                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">263,4</td></tr>
+                <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">6,6</td></tr>
+                <tr class="warm room"><td class="number">2</td><td class="name">Гостиная</td><td class="surface">67,0</td></tr>
+                <tr class="warm room"><td class="number">3</td><td class="name">Кухня</td><td class="surface">18,7</td></tr>
+                <tr class="warm storage"><td class="number">4</td><td class="name">Хозяйственная кладовая</td><td class="surface">4,6</td></tr>
+                <tr class="warm storage"><td class="number">5</td><td class="name">Гардеробная</td><td class="surface">8,6</td></tr>
+                <tr class="warm bedroom"><td class="number">6</td><td class="name">Главная спальня</td><td class="surface">19,7</td></tr>
+                <tr class="warm utility"><td class="number">7</td><td class="name">Санузел главной спальни</td><td class="surface">5,8</td></tr>
+                <tr class="warm utility"><td class="number">8</td><td class="name">Санузел общий</td><td class="surface">1,9</td></tr>
+                <tr class="warm bedroom"><td class="number">9</td><td class="name">Спальня 2</td><td class="surface">19,8</td></tr>
+                <tr class="warm bedroom"><td class="number">10</td><td class="name">Спальня 3</td><td class="surface">22,1</td></tr>
+                <tr class="warm bedroom"><td class="number">11</td><td class="name">Спальня 4</td><td class="surface">18,1</td></tr>
+                <tr class="warm storage"><td class="number">12</td><td class="name">Гардеробная</td><td class="surface">3,8</td></tr>
+                <tr class="warm utility"><td class="number">13</td><td class="name">Санузел гостевой</td><td class="surface">10,7</td></tr>
+                <tr class="warm utility"><td class="number">14</td><td class="name">Сауна</td><td class="surface">3,5</td></tr>
+                <tr class="warm utility"><td class="number">15</td><td class="name">Котельная</td><td class="surface">4,5</td></tr>
+                <tr class="warm utility"><td class="number">17</td><td class="name">Гараж</td><td class="surface">48,0</td></tr>
+                <tr class="cold title"><td colspan="2">Неотапливаемая площадь</td><td class="surface">121,4</td></tr>
+                <tr class="cold terrace"><td class="number">16</td><td class="name">Терраса с бассейном</td><td class="surface">116,0</td></tr>
+                <tr class="cold utility"><td class="number">18</td><td class="name">Хозблок</td><td class="surface">5,4</td></tr>
+            </table>
+		</div>		
+
+		<div class='parent'>
+			<img class="map" style=" padding-top: 10px " src="plan_inside.jpg"/>
+		    <img id="plan_inside_13" style="position: absolute; left: 290px;top: 54px;" src="/i/camera.png"/>
+		    <img id="plan_inside_14" style="position: absolute; left: 330px;top: 54px;"src="/i/camera.png"/>
+		    <img id="plan_inside_06" style="position: absolute; left: 96px;top: 30px;"src="/i/camera.png"/>
+		    <img id="plan_inside_03" style="position: absolute; left: 411px;top: 193px;"src="/i/camera_off.png"/>
+
+	        
+		</div>
+		
+
+<script type="text/javascript">
+$('#plan_inside_14').on({'click': function(){$('#plan').attr('src','photos/plan_inside_14.jpg');$('#plan_inside_14').attr('src','/i/camera_off.png');$('#plan_inside_13').attr('src','/i/camera.png');$('#plan_inside_06').attr('src','/i/camera.png');$('#plan_inside_03').attr('src','/i/camera.png');}});
+$('#plan_inside_13').on({'click': function(){$('#plan').attr('src','photos/plan_inside_13.jpg');$('#plan_inside_13').attr('src','/i/camera_off.png');$('#plan_inside_14').attr('src','/i/camera.png');$('#plan_inside_06').attr('src','/i/camera.png');$('#plan_inside_03').attr('src','/i/camera.png');}});
+$('#plan_inside_06').on({'click': function(){$('#plan').attr('src','photos/plan_inside_06.jpg');$('#plan_inside_06').attr('src','/i/camera_off.png');$('#plan_inside_13').attr('src','/i/camera.png');$('#plan_inside_14').attr('src','/i/camera.png');$('#plan_inside_03').attr('src','/i/camera.png');}});
+$('#plan_inside_03').on({'click': function(){$('#plan').attr('src','photos/plan_inside_03.jpg');$('#plan_inside_03').attr('src','/i/camera_off.png');$('#plan_inside_13').attr('src','/i/camera.png');$('#plan_inside_06').attr('src','/i/camera.png');$('#plan_inside_14').attr('src','/i/camera.png');}});
+	
+
+</script>
+
+        
+		
+		
+
+	    	<!--#include virtual="/inc/footer.shtml"-->
+		</div>
+</body>
+</html>
