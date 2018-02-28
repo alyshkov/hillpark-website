@@ -26,9 +26,14 @@
 		<p>Дом площадью 384 кв. м. (внутренние отапливаемые помещения - 263 кв. м., террасы и хозяйственные помещения - 121 кв. м.) с парком на крыше площадью 446 кв. м.</p>
         <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №108.</p>
 		
-		
-		<h7><center><a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН 1 ЭТАЖА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ФОТОГАЛЕРЕЯ</a>	</center></h7>
-		
+			
+		<div class="spacer"></div>
+		<h7><center><a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ФОТОГАЛЕРЕЯ</a>	</center></h7>
+			
+		<div class="spacer"></div>
+		<img src="index_outside.jpg">
+		<img src="index_inside.jpg">
+		<img src="index_gallery.jpg">
         
 
 
