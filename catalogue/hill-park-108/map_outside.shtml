@@ -9,7 +9,10 @@
 	<div class="page-banner"><img src="_banner.jpg" /></div>
 
 	<div class="page-content house">
-
+			
+		<div class="spacer"></div>
+		
+<center><a href="./"><h7>HILL PARK 108</h1></a></center>
 		
 		<div class="spacer"></div>
 		
@@ -51,9 +54,9 @@
 		<div class='parent'>
 			<img class="map" style=" padding-top: 10px " src="plan_outside.jpg"/>
 		    <!--<img id="plan_inside_13" style="position: absolute; left: 290px;top: 54px;" src="/i/camera.png"/>-->
-		    <img id="plan_inside_14" style="position: absolute; left: 306px;top: 12px;"src="/i/camera_off.png"/>
+		    <img id="plan_inside_14" style="position: absolute; left: 306px;top: 12px;"src="/i/camera.png"/>
 		    <img id="plan_inside_12" style="position: absolute; left: 455px;top: 27px;"src="/i/camera.png"/>
-		    <img id="plan_inside_03" style="position: absolute; left: 414px;top: 228px;"src="/i/camera.png"/>
+		    <img id="plan_inside_03" style="position: absolute; left: 414px;top: 228px;"src="/i/camera_off.png"/>
 
 	        
 		</div>
