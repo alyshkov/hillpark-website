@@ -63,15 +63,15 @@
 
 <img id="DSC_4325" style="position: absolute; left: 187px;top: 239px;"src="/i/camera.png"/>
 
-<img id="RMA_0531" style="position: absolute; left: 557px;top: 109px;"src="/i/camera.png"/>
+<img id="RMA_0531" style="position: absolute; left: 530px;top: 109px;"src="/i/camera.png"/>
 
-<img id="RMA_0627" style="position: absolute; left: 522px;top: 223px;"src="/i/camera.png"/>
+<img id="RMA_0627" style="position: absolute; left: 530px;top: 223px;"src="/i/camera.png"/>
 
-<img id="RMA_0548" style="position: absolute; left: 534px;top: 323px;"src="/i/camera.png"/>
+<img id="RMA_0548" style="position: absolute; left: 530px;top: 305px;"src="/i/camera.png"/>
 
-<img id="RMA_0560" style="position: absolute; left: 470px;top: 323px;"src="/i/camera.png"/>
+<img id="RMA_0560" style="position: absolute; left: 470px;top: 305px;"src="/i/camera.png"/>
 
-<img id="RMA_0615" style="position: absolute; left: 383px;top: 323px;"src="/i/camera.png"/>
+<img id="RMA_0615" style="position: absolute; left: 383px;top: 305px;"src="/i/camera.png"/>
 
 <img id="RMA_0585" style="position: absolute; left: 1px;top: 124px;"src="/i/camera.png"/>
 
@@ -83,19 +83,19 @@
 		
 
 <script type="text/javascript">
-$('#RMA_0573').on({'click': function(){$('#plan').attr('src','photos/RMA_0573.jpg');}});
-$('#RMA_0572').on({'click': function(){$('#plan').attr('src','photos/RMA_0572.jpg');}});
-$('#RMA_0598').on({'click': function(){$('#plan').attr('src','photos/RMA_0598.jpg');}});
-$('#DSC_4331').on({'click': function(){$('#plan').attr('src','photos/DSC_4331.jpg');}});
-$('#DSC_4319').on({'click': function(){$('#plan').attr('src','photos/DSC_4319.jpg');}});
-$('#DSC_4325').on({'click': function(){$('#plan').attr('src','photos/DSC_4325.jpg');}});
-$('#RMA_0531').on({'click': function(){$('#plan').attr('src','photos/RMA_0531.jpg');}});
-$('#RMA_0627').on({'click': function(){$('#plan').attr('src','photos/RMA_0627.jpg');}});
-$('#RMA_0548').on({'click': function(){$('#plan').attr('src','photos/RMA_0548.jpg');}});
-$('#RMA_0560').on({'click': function(){$('#plan').attr('src','photos/RMA_0560.jpg');}});
-$('#RMA_0615').on({'click': function(){$('#plan').attr('src','photos/RMA_0615.jpg');}});
-$('#RMA_0585').on({'click': function(){$('#plan').attr('src','photos/RMA_0585.jpg');}});
-$('#RMA_0602').on({'click': function(){$('#plan').attr('src','photos/RMA_0602.jpg');}});
+$('#RMA_0573').on({'click': function(){$('#plan').attr('src','photos/RMA_0573.jpg');$('#RMA_0573').attr('src','/i/camera_off.png');}});
+$('#RMA_0572').on({'click': function(){$('#plan').attr('src','photos/RMA_0572.jpg');$('#RMA_0572').attr('src','/i/camera_off.png');}});
+$('#RMA_0598').on({'click': function(){$('#plan').attr('src','photos/RMA_0598.jpg');$('#RMA_0598').attr('src','/i/camera_off.png');}});
+$('#DSC_4331').on({'click': function(){$('#plan').attr('src','photos/DSC_4331.jpg');$('#DSC_4331').attr('src','/i/camera_off.png');}});
+$('#DSC_4319').on({'click': function(){$('#plan').attr('src','photos/DSC_4319.jpg');$('#DSC_4319').attr('src','/i/camera_off.png');}});
+$('#DSC_4325').on({'click': function(){$('#plan').attr('src','photos/DSC_4325.jpg');$('#DSC_4325').attr('src','/i/camera_off.png');}});
+$('#RMA_0531').on({'click': function(){$('#plan').attr('src','photos/RMA_0531.jpg');$('#RMA_0531').attr('src','/i/camera_off.png');}});
+$('#RMA_0627').on({'click': function(){$('#plan').attr('src','photos/RMA_0627.jpg');$('#RMA_0627').attr('src','/i/camera_off.png');}});
+$('#RMA_0548').on({'click': function(){$('#plan').attr('src','photos/RMA_0548.jpg');$('#RMA_0548').attr('src','/i/camera_off.png');}});
+$('#RMA_0560').on({'click': function(){$('#plan').attr('src','photos/RMA_0560.jpg');$('#RMA_0560').attr('src','/i/camera_off.png');}});
+$('#RMA_0615').on({'click': function(){$('#plan').attr('src','photos/RMA_0615.jpg');$('#RMA_0615').attr('src','/i/camera_off.png');}});
+$('#RMA_0585').on({'click': function(){$('#plan').attr('src','photos/RMA_0585.jpg');$('#RMA_0585').attr('src','/i/camera_off.png');}});
+$('#RMA_0602').on({'click': function(){$('#plan').attr('src','photos/RMA_0602.jpg');$('#RMA_0602').attr('src','/i/camera_off.png');}});
 
 	
 
