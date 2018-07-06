@@ -18,11 +18,11 @@
 		
  
 
-		<img id="plan"  src="photos/DSC_3933.jpg"/ width=558 height=324>
+		<img id="plan"  src="photos/DSC_4427.jpg"/ width=558 height=324>
 		<div class="map_rights">
 		<h7>ПЛАН УЧАСТКА<br>
 		<a href="./map_inside.shtml">ПЛАН 1 ЭТАЖА</a><br>
-		<a href="./map_inside_2.shtml">ПЛАН 2 ЭТАЖА</a><br>
+		<!--<a href="./map_inside_2.shtml">ПЛАН 2 ЭТАЖА</a><br>-->
 		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7>
 		</div>		
 
@@ -55,7 +55,17 @@
 		<div class='parent'>
 			<img class="map" style=" padding-top: 10px " src="plan_outside.jpg"/>
 			
-<img id="DSC_3933" style="position: absolute; left: 445px;top: 92px;"src="/i/camera.png"/>
+<img id="DSC_4427" style="position: absolute; left: 525px;top: 300px;"src="/i/camera_off.png"/>
+
+<img id="RMA_0941" style="position: absolute; left: 478px;top: 300px;"src="/i/camera.png"/>
+
+<img id="DSC_4448" style="position: absolute; left: 372px;top: 300px;"src="/i/camera.png"/>
+
+<img id="DSC_4468_69_70_fused" style="position: absolute; left: 109px;top: 300px;"src="/i/camera.png"/>
+
+<img id="DSC_4466" style="position: absolute; left: 4px;top: 300px;"src="/i/camera.png"/>
+
+<img id="DSC_4131" style="position: absolute; left: 15px;top: 275px;"src="/i/camera.png"/>
 
 
 		   
@@ -65,7 +75,12 @@
 		
 
 <script type="text/javascript">
-$('#DSC_3933').on({'click': function(){$('#plan').attr('src','photos/DSC_3933.jpg');$('#DSC_3933').attr('src','/i/camera_off.png');}});
+$('#DSC_4427').on({'click': function(){$('#plan').attr('src','photos/DSC_4427.jpg');$('#DSC_4427').attr('src','/i/camera_off.png');}});
+$('#RMA_0941').on({'click': function(){$('#plan').attr('src','photos/RMA_0941.jpg');$('#RMA_0941').attr('src','/i/camera_off.png');}});
+$('#DSC_4448').on({'click': function(){$('#plan').attr('src','photos/DSC_4448.jpg');$('#DSC_4448').attr('src','/i/camera_off.png');}});
+$('#DSC_4468_69_70_fused').on({'click': function(){$('#plan').attr('src','photos/DSC_4468_69_70_fused.jpg');$('#DSC_4468_69_70_fused').attr('src','/i/camera_off.png');}});
+$('#DSC_4466').on({'click': function(){$('#plan').attr('src','photos/DSC_4466.jpg');$('#DSC_4466').attr('src','/i/camera_off.png');}});
+$('#DSC_4131').on({'click': function(){$('#plan').attr('src','photos/DSC_4131.jpg');$('#DSC_4131').attr('src','/i/camera_off.png');}});
 
 
 	

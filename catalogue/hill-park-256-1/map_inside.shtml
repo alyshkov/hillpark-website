@@ -17,11 +17,11 @@
 		<div class="spacer"></div>
  
 
-		<img id="plan"  src="photos/DSC_3933.jpg" width=558 height=320>
+		<img id="plan"  src="photos/DSC_3954.jpg" width=558 height=320>
 		<div class="map_rights">
 		<h7><a href="./map_outside.shtml">ПЛАН УЧАСТКА</a><br>
 		ПЛАН 1 ЭТАЖА<br>
-		<a href="./map_inside_2.shtml">ПЛАН 2 ЭТАЖА</a><br>
+		<!--<a href="./map_inside_2.shtml">ПЛАН 2 ЭТАЖА</a><br>-->
 		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7><br>
 		</div>		
 
@@ -55,13 +55,57 @@
 
 
 
-<img id="DSC_4244" style="position: absolute; left: 267px;top: 76px;"src="/i/camera_off.png"/>
+<img id="DSC_3954" style="position: absolute; left: 84px;top: 74px;"src="/i/camera_off.png"/>
+<img id="DSC_3951" style="position: absolute; left: 80px;top: 97px;"src="/i/camera.png"/>
+<img id="DSC_3927" style="position: absolute; left: 161px;top: 39px;"src="/i/camera.png"/>
+<img id="DSC_3924" style="position: absolute; left: 188px;top: 69px;"src="/i/camera.png"/>
+<img id="DSC_3957" style="position: absolute; left: 229px;top: 64px;"src="/i/camera.png"/>
+<img id="DSC_3960" style="position: absolute; left: 230px;top: 38px;"src="/i/camera.png"/>
+<img id="DSC_4113" style="position: absolute; left: 198px;top: 197px;"src="/i/camera.png"/>
+<img id="DSC_4065" style="position: absolute; left: 198px;top: 239px;"src="/i/camera.png"/>
+<img id="DSC_4095" style="position: absolute; left: 223px;top: 221px;"src="/i/camera.png"/>
+<img id="DSC_4068" style="position: absolute; left: 248px;top: 210px;"src="/i/camera.png"/>
+<img id="DSC_4110" style="position: absolute; left: 178px;top: 282px;"src="/i/camera.png"/>
+<img id="DSC_4101" style="position: absolute; left: 197px;top: 287px;"src="/i/camera.png"/>
+<img id="DSC_4104" style="position: absolute; left: 228px;top: 290px;"src="/i/camera.png"/>
+<img id="DSC_4107" style="position: absolute; left: 241px;top: 287px;"src="/i/camera.png"/>
+<img id="DSC_4074" style="position: absolute; left: 383px;top: 270px;"src="/i/camera.png"/>
+<img id="DSC_4128" style="position: absolute; left: 373px;top: 209px;"src="/i/camera.png"/>
+<img id="DSC_4089" style="position: absolute; left: 397px;top: 207px;"src="/i/camera.png"/>
+<img id="DSC_4116" style="position: absolute; left: 399px;top: 185px;"src="/i/camera.png"/>
+<img id="DSC_3942" style="position: absolute; left: 412px;top: 147px;"src="/i/camera.png"/>
+<img id="DSC_3933" style="position: absolute; left: 408px;top: 69px;"src="/i/camera.png"/>
+<img id="DSC_4119" style="position: absolute; left: 374px;top: 71px;"src="/i/camera.png"/>
+<img id="DSC_3966" style="position: absolute; left: 395px;top: 58px;"src="/i/camera.png"/>
+
 
 		</div>
 		
 
 <script type="text/javascript">
-$('#RMA_0573').on({'click': function(){$('#plan').attr('src','photos/RMA_0573.jpg');}});
+$('#DSC_3954').on({'click': function(){$('#plan').attr('src','photos/DSC_3954.jpg');$('#DSC_3954').attr('src','/i/camera_off.png');}});
+$('#DSC_3951').on({'click': function(){$('#plan').attr('src','photos/DSC_3951.jpg');$('#DSC_3951').attr('src','/i/camera_off.png');}});
+$('#DSC_3927').on({'click': function(){$('#plan').attr('src','photos/DSC_3927.jpg');$('#DSC_3927').attr('src','/i/camera_off.png');}});
+$('#DSC_3924').on({'click': function(){$('#plan').attr('src','photos/DSC_3924.jpg');$('#DSC_3924').attr('src','/i/camera_off.png');}});
+$('#DSC_3957').on({'click': function(){$('#plan').attr('src','photos/DSC_3957.jpg');$('#DSC_3957').attr('src','/i/camera_off.png');}});
+$('#DSC_3960').on({'click': function(){$('#plan').attr('src','photos/DSC_3960.jpg');$('#DSC_3960').attr('src','/i/camera_off.png');}});
+$('#DSC_4113').on({'click': function(){$('#plan').attr('src','photos/DSC_4113.jpg');$('#DSC_4113').attr('src','/i/camera_off.png');}});
+$('#DSC_4065').on({'click': function(){$('#plan').attr('src','photos/DSC_4065.jpg');$('#DSC_4065').attr('src','/i/camera_off.png');}});
+$('#DSC_4095').on({'click': function(){$('#plan').attr('src','photos/DSC_4095.jpg');$('#DSC_4095').attr('src','/i/camera_off.png');}});
+$('#DSC_4068').on({'click': function(){$('#plan').attr('src','photos/DSC_4068.jpg');$('#DSC_4068').attr('src','/i/camera_off.png');}});
+$('#DSC_4110').on({'click': function(){$('#plan').attr('src','photos/DSC_4110.jpg');$('#DSC_4110').attr('src','/i/camera_off.png');}});
+$('#DSC_4101').on({'click': function(){$('#plan').attr('src','photos/DSC_4101.jpg');$('#DSC_4101').attr('src','/i/camera_off.png');}});
+$('#DSC_4104').on({'click': function(){$('#plan').attr('src','photos/DSC_4104.jpg');$('#DSC_4104').attr('src','/i/camera_off.png');}});
+$('#DSC_4107').on({'click': function(){$('#plan').attr('src','photos/DSC_4107.jpg');$('#DSC_4107').attr('src','/i/camera_off.png');}});
+$('#DSC_4074').on({'click': function(){$('#plan').attr('src','photos/DSC_4074.jpg');$('#DSC_4074').attr('src','/i/camera_off.png');}});
+$('#DSC_4128').on({'click': function(){$('#plan').attr('src','photos/DSC_4128.jpg');$('#DSC_4128').attr('src','/i/camera_off.png');}});
+$('#DSC_4089').on({'click': function(){$('#plan').attr('src','photos/DSC_4089.jpg');$('#DSC_4089').attr('src','/i/camera_off.png');}});
+$('#DSC_4116').on({'click': function(){$('#plan').attr('src','photos/DSC_4116.jpg');$('#DSC_4116').attr('src','/i/camera_off.png');}});
+$('#DSC_3942').on({'click': function(){$('#plan').attr('src','photos/DSC_3942.jpg');$('#DSC_3942').attr('src','/i/camera_off.png');}});
+$('#DSC_3933').on({'click': function(){$('#plan').attr('src','photos/DSC_3933.jpg');$('#DSC_3933').attr('src','/i/camera_off.png');}});
+$('#DSC_4119').on({'click': function(){$('#plan').attr('src','photos/DSC_4119.jpg');$('#DSC_4119').attr('src','/i/camera_off.png');}});
+$('#DSC_3966').on({'click': function(){$('#plan').attr('src','photos/DSC_3966.jpg');$('#DSC_3966').attr('src','/i/camera_off.png');}});
+
 	
 
 	

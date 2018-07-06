@@ -28,12 +28,12 @@
 		
 			
 		<div class="spacer"></div>
-		<h7><center><a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ФОТОГАЛЕРЕЯ</a>	</center></h7>
+		<h7><center><a href="map_outside.shtml#map">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml#map">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="gallery.shtml#map">ФОТОГАЛЕРЕЯ</a>	</center></h7>
 			
 		<div class="spacer"></div>
-		<a href="map_outside.shtml"><img src="index_outside.jpg"></a>
-		<a href="map_inside.shtml"><img src="index_inside.jpg"></a>
-		<a href="map_inside.shtml"><img src="index_gallery.jpg"></a>
+		<a href="map_outside.shtml#map"><img src="index_outside.jpg"></a>
+		<a href="map_inside.shtml#map"><img src="index_inside.jpg"></a>
+		<a href="gallery.shtml#map"><img src="index_gallery.jpg"></a>
         
 
 

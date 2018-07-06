@@ -17,12 +17,12 @@
 		<div class="spacer"></div>
 		
  
-
+<a id="map"></a>
 		<img id="plan"  src="photos/RMA_0573.jpg"/ width=558 height=324>
 		<div class="map_rights">
 		<h7>ПЛАН УЧАСТКА<br>
-		<a href="./map_inside.shtml">ПЛАН 1 ЭТАЖА</a><br>
-		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7>
+		<a href="./map_inside.shtml#map">ПЛАН 1 ЭТАЖА</a><br>
+		<a href="./gallery.shtml#map">ФОТОГАЛЕРЕЯ</a></h7>
 		</div>		
 
 		<div class="plans">
@@ -51,13 +51,13 @@
 		<div class='parent'>
 			<img class="map" style=" padding-top: 10px " src="plan_outside.jpg"/>
 			
-<img id="RMA_0573" style="position: absolute; left: 445px;top: 92px;"src="/i/camera.png"/>
+<img id="RMA_0573" style="position: absolute; left: 445px;top: 92px;"src="/i/camera_off.png"/>
 
 <img id="RMA_0572" style="position: absolute; left: 238px;top: 107px;"src="/i/camera.png"/>
 
 <img id="RMA_0598" style="position: absolute; left: 182px;top: 65px;"src="/i/camera.png"/>
 
-<img id="DSC_4331" style="position: absolute; left: 202px;top: 74px;"src="/i/camera.png"/>
+<img id="DSC_4331" style="position: absolute; left: 209px;top: 74px;"src="/i/camera.png"/>
 
 <img id="DSC_4319" style="position: absolute; left: 172px;top: 205px;"src="/i/camera.png"/>
 
@@ -83,19 +83,19 @@
 		
 
 <script type="text/javascript">
-$('#RMA_0573').on({'click': function(){$('#plan').attr('src','photos/RMA_0573.jpg');$('#RMA_0573').attr('src','/i/camera_off.png');}});
-$('#RMA_0572').on({'click': function(){$('#plan').attr('src','photos/RMA_0572.jpg');$('#RMA_0572').attr('src','/i/camera_off.png');}});
-$('#RMA_0598').on({'click': function(){$('#plan').attr('src','photos/RMA_0598.jpg');$('#RMA_0598').attr('src','/i/camera_off.png');}});
-$('#DSC_4331').on({'click': function(){$('#plan').attr('src','photos/DSC_4331.jpg');$('#DSC_4331').attr('src','/i/camera_off.png');}});
-$('#DSC_4319').on({'click': function(){$('#plan').attr('src','photos/DSC_4319.jpg');$('#DSC_4319').attr('src','/i/camera_off.png');}});
-$('#DSC_4325').on({'click': function(){$('#plan').attr('src','photos/DSC_4325.jpg');$('#DSC_4325').attr('src','/i/camera_off.png');}});
-$('#RMA_0531').on({'click': function(){$('#plan').attr('src','photos/RMA_0531.jpg');$('#RMA_0531').attr('src','/i/camera_off.png');}});
-$('#RMA_0627').on({'click': function(){$('#plan').attr('src','photos/RMA_0627.jpg');$('#RMA_0627').attr('src','/i/camera_off.png');}});
-$('#RMA_0548').on({'click': function(){$('#plan').attr('src','photos/RMA_0548.jpg');$('#RMA_0548').attr('src','/i/camera_off.png');}});
-$('#RMA_0560').on({'click': function(){$('#plan').attr('src','photos/RMA_0560.jpg');$('#RMA_0560').attr('src','/i/camera_off.png');}});
-$('#RMA_0615').on({'click': function(){$('#plan').attr('src','photos/RMA_0615.jpg');$('#RMA_0615').attr('src','/i/camera_off.png');}});
-$('#RMA_0585').on({'click': function(){$('#plan').attr('src','photos/RMA_0585.jpg');$('#RMA_0585').attr('src','/i/camera_off.png');}});
-$('#RMA_0602').on({'click': function(){$('#plan').attr('src','photos/RMA_0602.jpg');$('#RMA_0602').attr('src','/i/camera_off.png');}});
+$('#RMA_0573').on({'click': function(){$('#plan').attr('src','photos/RMA_0573.jpg');$('#RMA_0573').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0572').on({'click': function(){$('#plan').attr('src','photos/RMA_0572.jpg');$('#RMA_0572').attr('src','/i/camera_off.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0598').on({'click': function(){$('#plan').attr('src','photos/RMA_0598.jpg');$('#RMA_0598').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#DSC_4331').on({'click': function(){$('#plan').attr('src','photos/DSC_4331.jpg');$('#DSC_4331').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#DSC_4319').on({'click': function(){$('#plan').attr('src','photos/DSC_4319.jpg');$('#DSC_4319').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#DSC_4325').on({'click': function(){$('#plan').attr('src','photos/DSC_4325.jpg');$('#DSC_4325').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0531').on({'click': function(){$('#plan').attr('src','photos/RMA_0531.jpg');$('#RMA_0531').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0627').on({'click': function(){$('#plan').attr('src','photos/RMA_0627.jpg');$('#RMA_0627').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0548').on({'click': function(){$('#plan').attr('src','photos/RMA_0548.jpg');$('#RMA_0548').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0560').on({'click': function(){$('#plan').attr('src','photos/RMA_0560.jpg');$('#RMA_0560').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0615').on({'click': function(){$('#plan').attr('src','photos/RMA_0615.jpg');$('#RMA_0615').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0585').on({'click': function(){$('#plan').attr('src','photos/RMA_0585.jpg');$('#RMA_0585').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');$('#RMA_0602').attr('src','/i/camera.png');}});
+$('#RMA_0602').on({'click': function(){$('#plan').attr('src','photos/RMA_0602.jpg');$('#RMA_0602').attr('src','/i/camera_off.png');$('#RMA_0572').attr('src','/i/camera.png');$('#RMA_0598').attr('src','/i/camera.png');$('#DSC_4331').attr('src','/i/camera.png');$('#DSC_4319').attr('src','/i/camera.png');$('#DSC_4325').attr('src','/i/camera.png');$('#RMA_0531').attr('src','/i/camera.png');$('#RMA_0627').attr('src','/i/camera.png');$('#RMA_0548').attr('src','/i/camera.png');$('#RMA_0560').attr('src','/i/camera.png');$('#RMA_0615').attr('src','/i/camera.png');$('#RMA_0585').attr('src','/i/camera.png');$('#RMA_0573').attr('src','/i/camera.png');}});
 
 	
 

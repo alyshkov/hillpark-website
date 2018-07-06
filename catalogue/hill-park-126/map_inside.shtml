@@ -16,12 +16,12 @@
 		
 		<div class="spacer"></div>
  
-
+<a id="map"></a>
 		<img id="plan"  src="photos/DSC_4244.jpg" width=558 height=320>
 		<div class="map_rights">
-		<h7><a href="./map_outside.shtml">ПЛАН УЧАСТКА</a><br>
+		<h7><a href="./map_outside.shtml#map">ПЛАН УЧАСТКА</a><br>
 		ПЛАН 1 ЭТАЖА<br>
-		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7><br>
+		<a href="./gallery.shtml#map">ФОТОГАЛЕРЕЯ</a></h7><br>
 		</div>		
 
 		<div class="plans">
@@ -58,7 +58,7 @@
 
 <img id="DSC_4238" style="position: absolute; left: 336px;top: 78px;"src="/i/camera.png"/>
 
-<img id="DSC_4274" style="position: absolute; left: 307px;top: 121px;"src="/i/camera.png"/>
+<img id="DSC_4274" style="position: absolute; left: 317px;top: 111px;"src="/i/camera.png"/>
 
 <img id="RMA_0646" style="position: absolute; left: 297px;top: 132px;"src="/i/camera.png"/>
 
@@ -68,7 +68,7 @@
 
 <img id="DSC_4199" style="position: absolute; left: 169px;top: 208px;"src="/i/camera.png"/>
 
-<img id="DSC_4193" style="position: absolute; left: 233px;top: 204px;"src="/i/camera.png"/>
+<img id="DSC_4193" style="position: absolute; left: 213px;top: 200px;"src="/i/camera.png"/>
 
 <img id="DSC_4184" style="position: absolute; left: 234px;top: 228px;"src="/i/camera.png"/>
 
