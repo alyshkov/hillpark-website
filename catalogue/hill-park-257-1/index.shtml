@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<!--#include virtual="/inc/head.html"-->
-<title>HILL PARK 126</title>
+<title>HILL PARK 257/1</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.html"-->
@@ -12,28 +12,30 @@
 		<div class="k-price-label">
             <div class="price-range">
                 Дом с полной отделкой<br>+ УЧАСТОК
-	            <div><span class="price">26,9</span><span class="currency"> МЛН. РУБ.</span></div>
+	            <div><span class="price">38,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
-		<h1>HILL PARK 126</h1>
-		<div class="option">
-            участок 15 соток<br />
-			1 этаж<br />
-            <span class="padded">+ парк на крыше<br /></span>
-            дом: <span class="emphasize">408 м<sup>2</sup></span><br />
-            парк на крыше: <span class="emphasize">404 м<sup>2</sup></span><br />
+		<h1>HILL PARK 257 / 1</h1>
+		<div class="option with-5-lines">
+            участок 11,2 сотки<br />
+			3 этажа<br />
+            дом: <span class="emphasize">755 м<sup>2</sup></span>, ВКЛЮЧАЯ:<br />
+            <span class="padded">террасы: <span class="emphasize">136 м<sup>2</sup></span></span><br />
+            <span class="padded">гараж: <span class="emphasize">104 м<sup>2</sup></span></span><br />
 		</div>
-		<p>Дом площадью 408 кв. м. (внутренние отапливаемые помещения - 237 кв. м., террасы и хозяйственные помещения - 171 кв. м.) с парком на крыше площадью 404 кв. м.</p>
-        <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №108.</p>
+		<p>Трехэтажный дом со вторым светом площадью 755 кв.м., включая открытую террасу площадью 13 кв.м., крытую террасу на третьем этаже площадью 123 кв.м. и гараж на несколько машин площадью 104 кв.м.<br />
+			Две из трех спален на втором этаже имеют дополнительные окна внутрь дома на гостиную и тропический сад площадью 54 кв.м.
+			На третьем этажа расположены еще две спальни и большая уличная крытая терраса с зоной барбекю, спортивной зоной и зоной отдыха.<br />
+        <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №257/1.</p>
 		
 			
 		<div class="spacer"></div>
-		<h7><center><a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ФОТОГАЛЕРЕЯ</a>	</center></h7>
+		<h7><center><a href="map_outside.shtml#map">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml#map">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="gallery.shtml#map">ФОТОГАЛЕРЕЯ</a>	</center></h7>
 			
 		<div class="spacer"></div>
-		<a href="map_outside.shtml"><img src="index_outside.jpg"></a>
-		<a href="map_inside.shtml"><img src="index_inside.jpg"></a>
-		<a href="map_inside.shtml"><img src="index_gallery.jpg"></a>
+		<a href="map_outside.shtml#map"><img src="index_outside.jpg"></a>
+		<a href="map_inside.shtml#map"><img src="index_inside.jpg"></a>
+		<a href="gallery.shtml#map"><img src="index_gallery.jpg"></a>
         
 
 

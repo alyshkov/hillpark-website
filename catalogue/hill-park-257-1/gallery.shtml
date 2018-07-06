@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<!--#include virtual="/inc/head.html"-->
-<title>HILL PARK 126</title>
+<title>HILL PARK 257/1</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.html"-->
@@ -12,13 +12,13 @@
 
 			<div class="spacer"></div>
 			
-			<center><a href="./"><h7>HILL PARK 126</h1></a></center>
+			<center><a href="./"><h7>HILL PARK 257/1</h1></a></center>
 		
 		<div class="spacer"></div>
 		
-		<h7><center>ФОТОГАЛЕРЕЯ	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН ДОМА</a>	</center></h7>
+		<h7><center>ФОТОГАЛЕРЕЯ	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="map_outside.shtml#map">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml#map">ПЛАН ДОМА</a>	</center></h7>
 		<div class="spacer"></div>
-        
+        <a id="map"></a>
 		
 			<div class='parent'>
 			

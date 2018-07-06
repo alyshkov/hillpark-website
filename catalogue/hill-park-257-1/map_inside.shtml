@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<!--#include virtual="/inc/head.html"-->
-<title>HILL PARK 126</title>
+<title>HILL PARK 257/1</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.html"-->
@@ -12,111 +12,102 @@
 
 		
 		<div class="spacer"></div>
-		<center><h7><a href="./">HILL PARK 126</a></h7></center>
+		<center><h7><a href="./">HILL PARK 257/1</a></h7></center>
 		
 		<div class="spacer"></div>
  
-
-		<img id="plan"  src="photos/DSC_4244.jpg" width=558 height=320>
+<a id="map"></a>
+		<img id="plan"  src="photos/RMA_0990.jpg" width=558 height=320>
 		<div class="map_rights">
-		<h7><a href="./map_outside.shtml">ПЛАН УЧАСТКА</a><br>
+		<h7><a href="./map_outside.shtml#map">ПЛАН УЧАСТКА</a><br>
 		ПЛАН 1 ЭТАЖА<br>
-		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7><br>
+		<a href="./map_inside_2.shtml#map">ПЛАН 2 ЭТАЖА</a><br>
+		<a href="./map_inside_3.shtml#map">ПЛАН 3 ЭТАЖА</a><br>
+		<a href="./gallery.shtml#map">ФОТОГАЛЕРЕЯ</a></h7><br>
 		</div>		
 
 		<div class="plans">
             <table style="top: -88px; left:650px;">
- <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">408,4</td></tr>
-                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">237,4</td></tr>
-                <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">13,6</td></tr>
-                <tr class="warm room"><td class="number">2</td><td class="name">Гостиная-кухня</td><td class="surface">77,6</td></tr>
-                <tr class="warm room"><td class="number">3</td><td class="name">Кабинет / гостевая</td><td class="surface">20,4</td></tr>
-                <tr class="warm bedroom"><td class="number">4</td><td class="name">Спальня 1</td><td class="surface">22,3</td></tr>
-                <tr class="warm bedroom"><td class="number">5</td><td class="name">Спальня 2</td><td class="surface">19,1</td></tr>
-                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел общий</td><td class="surface">4,5</td></tr>
-                <tr class="warm utility"><td class="number">7</td><td class="name">Сауна</td><td class="surface">2,9</td></tr>
-                <tr class="warm utility"><td class="number">8</td><td class="name">Котельная / санузел</td><td class="surface">5,1</td></tr>
-                <tr class="warm bedroom"><td class="number">9</td><td class="name">Главная спальня</td><td class="surface">20,4</td></tr>
-                <tr class="warm utility"><td class="number">10</td><td class="name">Санузел главной спальни</td><td class="surface">7,3</td></tr>
-                <tr class="warm storage"><td class="number">11</td><td class="name">Гардеробная</td><td class="surface">3,5</td></tr>
-				<tr class="warm utility"><td class="number">14</td><td class="name">Гараж</td><td class="surface">40,7</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемая площадь</td><td class="surface">171,0</td></tr>
-				<tr class="cold utility"><td class="number">11</td><td class="name">Хозблок</td><td class="surface">10,6</td></tr>
-				<tr class="cold terrace"><td class="number">12</td><td class="name">Терраса с бассейном</td><td class="surface">157,0</td></tr>
-                <tr class="cold terrace"><td class="number">13</td><td class="name">Крыльцо</td><td class="surface">3,4</td></tr>
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">754,6</td></tr>
+                <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">359,3</td></tr>
+                <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">8,6</td></tr>
+                <tr class="warm room"><td class="number">2</td><td class="name">Гостиная и кухня</td><td class="surface">157,7</td></tr>
+                <tr class="warm room"><td class="number">3</td><td class="name">Тропический сад</td><td class="surface">54,4</td></tr>
+                <tr class="warm utility"><td class="number">4</td><td class="name">Туалет гостевой</td><td class="surface">2,1</td></tr>
+				<tr class="warm utility"><td class="number">5</td><td class="name">Душевая</td><td class="surface">6,7</td></tr>
+                <tr class="warm utility"><td class="number">6</td><td class="name">Сауна</td><td class="surface">4,7</td></tr>
+                <tr class="warm utility"><td class="number">7</td><td class="name">Котельная и парачечная</td><td class="surface">8,1</td></tr>
+				<tr class="cold terrace"><td class="number">8</td><td class="name">Терраса открытая</td><td class="surface">13,0</td></tr>
+				<tr class="warm utility"><td class="number">9</td><td class="name">Гараж</td><td class="surface">104,0</td></tr>
+
             </table>
 		</div>		
 
 		<div class='parent'>
-			<img class="map" style=" padding-top: 10px " src="plan_inside.jpg"/>
+			<img class="map" style=" padding-top: 10px " src="plan_inside_1.jpg"/>
 
-
-
-<img id="DSC_4244" style="position: absolute; left: 267px;top: 76px;"src="/i/camera_off.png"/>
-
-<img id="DSC_4241" style="position: absolute; left: 302px;top: 74px;"src="/i/camera.png"/>
-
-<img id="DSC_4238" style="position: absolute; left: 336px;top: 78px;"src="/i/camera.png"/>
-
-<img id="DSC_4274" style="position: absolute; left: 307px;top: 121px;"src="/i/camera.png"/>
-
-<img id="RMA_0646" style="position: absolute; left: 297px;top: 132px;"src="/i/camera.png"/>
-
-<img id="RMA_0644" style="position: absolute; left: 261px;top: 129px;"src="/i/camera.png"/>
-
-<img id="DSC_4268" style="position: absolute; left: 176px;top: 82px;"src="/i/camera.png"/>
-
-<img id="DSC_4199" style="position: absolute; left: 169px;top: 208px;"src="/i/camera.png"/>
-
-<img id="DSC_4193" style="position: absolute; left: 233px;top: 204px;"src="/i/camera.png"/>
-
-<img id="DSC_4184" style="position: absolute; left: 234px;top: 228px;"src="/i/camera.png"/>
-
-<img id="DSC_4190" style="position: absolute; left: 202px;top: 223px;"src="/i/camera.png"/>
-
-<img id="DSC_4253" style="position: absolute; left: 260px;top: 203px;"src="/i/camera.png"/>
-
-<img id="RMA_0675" style="position: absolute; left: 268px;top: 235px;"src="/i/camera.png"/>
-
-<img id="RMA_0683" style="position: absolute; left: 302px;top: 233px;"src="/i/camera.png"/>
-
-<img id="RMA_0685" style="position: absolute; left: 327px;top: 217px;"src="/i/camera.png"/>
-
-<img id="RMA_0648" style="position: absolute; left: 427px;top: 100px;"src="/i/camera.png"/>
-
-<img id="RMA_0650" style="position: absolute; left: 431px;top: 138px;"src="/i/camera.png"/>
-
-<img id="RMA_0663" style="position: absolute; left: 424px;top: 183px;"src="/i/camera.png"/>
-
-<img id="RMA_0662" style="position: absolute; left: 421px;top: 210px;"src="/i/camera.png"/>
-	        
+<img id="RMA_0990" style="position: absolute; left: 125px;top: 118px;"src="/i/camera_off.png"/>
+<img id="RMA_0989" style="position: absolute; left: 144px;top: 95px;"src="/i/camera.png"/>
+<img id="RMA_1004" style="position: absolute; left: 143px;top: 72px;"src="/i/camera.png"/>
+<img id="RMA_0984" style="position: absolute; left: 167px;top: 97px;"src="/i/camera.png"/>
+<img id="RMA_0982" style="position: absolute; left: 172px;top: 124px;"src="/i/camera.png"/>
+<img id="RMA_1000" style="position: absolute; left: 246px;top: 62px;"src="/i/camera.png"/>
+<img id="RMA_0994" style="position: absolute; left: 268px;top: 81px;"src="/i/camera.png"/>
+<img id="RMA_0999" style="position: absolute; left: 317px;top: 60px;"src="/i/camera.png"/>
+<img id="RMA_1035" style="position: absolute; left: 293px;top: 110px;"src="/i/camera.png"/>
+<img id="RMA_1037" style="position: absolute; left: 269px;top: 100px;"src="/i/camera.png"/>
+<img id="RMA_1031" style="position: absolute; left: 236px;top: 107px;"src="/i/camera.png"/>
+<img id="RMA_1010" style="position: absolute; left: 405px;top: 110px;"src="/i/camera.png"/>
+<img id="RMA_1011" style="position: absolute; left: 406px;top: 172px;"src="/i/camera.png"/>
+<img id="RMA_1019" style="position: absolute; left: 264px;top: 168px;"src="/i/camera.png"/>
+<img id="RMA_1025" style="position: absolute; left: 243px;top: 159px;"src="/i/camera.png"/>
+<img id="RMA_0974" style="position: absolute; left: 215px;top: 169px;"src="/i/camera.png"/>
+<img id="RMA_0975" style="position: absolute; left: 202px;top: 181px;"src="/i/camera.png"/>
+<img id="RMA_0972" style="position: absolute; left: 232px;top: 196px;"src="/i/camera.png"/>
+<img id="RMA_0976" style="position: absolute; left: 203px;top: 220px;"src="/i/camera.png"/>
+<img id="RMA_1022" style="position: absolute; left: 202px;top: 246px;"src="/i/camera.png"/>
+<img id="RMA_0968" style="position: absolute; left: 188px;top: 275px;"src="/i/camera.png"/>
+<img id="RMA_1020" style="position: absolute; left: 234px;top: 244px;"src="/i/camera.png"/>
+<img id="RMA_0967" style="position: absolute; left: 265px;top: 248px;"src="/i/camera.png"/>
+<img id="RMA_0962" style="position: absolute; left: 265px;top: 272px;"src="/i/camera.png"/>
+<img id="RMA_0969" style="position: absolute; left: 283px;top: 283px;"src="/i/camera.png"/>
+<img id="RMA_1017" style="position: absolute; left: 313px;top: 242px;"src="/i/camera.png"/>
+<img id="RMA_1015" style="position: absolute; left: 351px;top: 239px;"src="/i/camera.png"/>
 		</div>
 		
-
 <script type="text/javascript">
+$('#RMA_0990').on({'click': function(){$('#plan').attr('src','photos/RMA_0990.jpg');$('#RMA_0990').attr('src','/i/camera_off.png');}});
+$('#RMA_0989').on({'click': function(){$('#plan').attr('src','photos/RMA_0989.jpg');$('#RMA_0989').attr('src','/i/camera_off.png');}});
+$('#RMA_1004').on({'click': function(){$('#plan').attr('src','photos/RMA_1004.jpg');$('#RMA_1004').attr('src','/i/camera_off.png');}});
+$('#RMA_0984').on({'click': function(){$('#plan').attr('src','photos/RMA_0984.jpg');$('#RMA_0984').attr('src','/i/camera_off.png');}});
+$('#RMA_0982').on({'click': function(){$('#plan').attr('src','photos/RMA_0982.jpg');$('#RMA_0982').attr('src','/i/camera_off.png');}});
+$('#RMA_1000').on({'click': function(){$('#plan').attr('src','photos/RMA_1000.jpg');$('#RMA_1000').attr('src','/i/camera_off.png');}});
+$('#RMA_0994').on({'click': function(){$('#plan').attr('src','photos/RMA_0994.jpg');$('#RMA_0994').attr('src','/i/camera_off.png');}});
+$('#RMA_0999').on({'click': function(){$('#plan').attr('src','photos/RMA_0999.jpg');$('#RMA_0999').attr('src','/i/camera_off.png');}});
+$('#RMA_1035').on({'click': function(){$('#plan').attr('src','photos/RMA_1035.jpg');$('#RMA_1035').attr('src','/i/camera_off.png');}});
+$('#RMA_1037').on({'click': function(){$('#plan').attr('src','photos/RMA_1037.jpg');$('#RMA_1037').attr('src','/i/camera_off.png');}});
+$('#RMA_1031').on({'click': function(){$('#plan').attr('src','photos/RMA_1031.jpg');$('#RMA_1031').attr('src','/i/camera_off.png');}});
+$('#RMA_1010').on({'click': function(){$('#plan').attr('src','photos/RMA_1010.jpg');$('#RMA_1010').attr('src','/i/camera_off.png');}});
+$('#RMA_1011').on({'click': function(){$('#plan').attr('src','photos/RMA_1011.jpg');$('#RMA_1011').attr('src','/i/camera_off.png');}});
+$('#RMA_1019').on({'click': function(){$('#plan').attr('src','photos/RMA_1019.jpg');$('#RMA_1019').attr('src','/i/camera_off.png');}});
+$('#RMA_1025').on({'click': function(){$('#plan').attr('src','photos/RMA_1025.jpg');$('#RMA_1025').attr('src','/i/camera_off.png');}});
+$('#RMA_0974').on({'click': function(){$('#plan').attr('src','photos/RMA_0974.jpg');$('#RMA_0974').attr('src','/i/camera_off.png');}});
+$('#RMA_0975').on({'click': function(){$('#plan').attr('src','photos/RMA_0975.jpg');$('#RMA_0975').attr('src','/i/camera_off.png');}});
+$('#RMA_0972').on({'click': function(){$('#plan').attr('src','photos/RMA_0972.jpg');$('#RMA_0972').attr('src','/i/camera_off.png');}});
+$('#RMA_0976').on({'click': function(){$('#plan').attr('src','photos/RMA_0976.jpg');$('#RMA_0976').attr('src','/i/camera_off.png');}});
+$('#RMA_1022').on({'click': function(){$('#plan').attr('src','photos/RMA_1022.jpg');$('#RMA_1022').attr('src','/i/camera_off.png');}});
+$('#RMA_0968').on({'click': function(){$('#plan').attr('src','photos/RMA_0968.jpg');$('#RMA_0968').attr('src','/i/camera_off.png');}});
+$('#RMA_1020').on({'click': function(){$('#plan').attr('src','photos/RMA_1020.jpg');$('#RMA_1020').attr('src','/i/camera_off.png');}});
+$('#RMA_0967').on({'click': function(){$('#plan').attr('src','photos/RMA_0967.jpg');$('#RMA_0967').attr('src','/i/camera_off.png');}});
+$('#RMA_0962').on({'click': function(){$('#plan').attr('src','photos/RMA_0962.jpg');$('#RMA_0962').attr('src','/i/camera_off.png');}});
+$('#RMA_0969').on({'click': function(){$('#plan').attr('src','photos/RMA_0969.jpg');$('#RMA_0969').attr('src','/i/camera_off.png');}});
+$('#RMA_1017').on({'click': function(){$('#plan').attr('src','photos/RMA_1017.jpg');$('#RMA_1017').attr('src','/i/camera_off.png');}});
+$('#RMA_1015').on({'click': function(){$('#plan').attr('src','photos/RMA_1015.jpg');$('#RMA_1015').attr('src','/i/camera_off.png');}});
+
+
 
 	
-	$('#DSC_4244').on({'click': function(){$('#plan').attr('src','photos/DSC_4244.jpg');$('#DSC_4244').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4241').on({'click': function(){$('#plan').attr('src','photos/DSC_4241.jpg');$('#DSC_4241').attr('src','/i/camera_off.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4238').on({'click': function(){$('#plan').attr('src','photos/DSC_4238.jpg');$('#DSC_4238').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4274').on({'click': function(){$('#plan').attr('src','photos/DSC_4274.jpg');$('#DSC_4274').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0646').on({'click': function(){$('#plan').attr('src','photos/RMA_0646.jpg');$('#RMA_0646').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0644').on({'click': function(){$('#plan').attr('src','photos/RMA_0644.jpg');$('#RMA_0644').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4268').on({'click': function(){$('#plan').attr('src','photos/DSC_4268.jpg');$('#DSC_4268').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4199').on({'click': function(){$('#plan').attr('src','photos/DSC_4199.jpg');$('#DSC_4199').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4193').on({'click': function(){$('#plan').attr('src','photos/DSC_4193.jpg');$('#DSC_4193').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4184').on({'click': function(){$('#plan').attr('src','photos/DSC_4184.jpg');$('#DSC_4184').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4190').on({'click': function(){$('#plan').attr('src','photos/DSC_4190.jpg');$('#DSC_4190').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#DSC_4253').on({'click': function(){$('#plan').attr('src','photos/DSC_4253.jpg');$('#DSC_4253').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0675').on({'click': function(){$('#plan').attr('src','photos/RMA_0675.jpg');$('#RMA_0675').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0683').on({'click': function(){$('#plan').attr('src','photos/RMA_0683.jpg');$('#RMA_0683').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0685').on({'click': function(){$('#plan').attr('src','photos/RMA_0685.jpg');$('#RMA_0685').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0648').on({'click': function(){$('#plan').attr('src','photos/RMA_0648.jpg');$('#RMA_0648').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0650').on({'click': function(){$('#plan').attr('src','photos/RMA_0650.jpg');$('#RMA_0650').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0663').on({'click': function(){$('#plan').attr('src','photos/RMA_0663.jpg');$('#RMA_0663').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');$('#RMA_0662').attr('src','/i/camera.png');}});
-	$('#RMA_0662').on({'click': function(){$('#plan').attr('src','photos/RMA_0662.jpg');$('#RMA_0662').attr('src','/i/camera_off.png');$('#DSC_4241').attr('src','/i/camera.png');$('#DSC_4238').attr('src','/i/camera.png');$('#DSC_4274').attr('src','/i/camera.png');$('#RMA_0646').attr('src','/i/camera.png');$('#RMA_0644').attr('src','/i/camera.png');$('#DSC_4268').attr('src','/i/camera.png');$('#DSC_4199').attr('src','/i/camera.png');$('#DSC_4193').attr('src','/i/camera.png');$('#DSC_4184').attr('src','/i/camera.png');$('#DSC_4190').attr('src','/i/camera.png');$('#DSC_4253').attr('src','/i/camera.png');$('#RMA_0675').attr('src','/i/camera.png');$('#RMA_0683').attr('src','/i/camera.png');$('#RMA_0685').attr('src','/i/camera.png');$('#RMA_0648').attr('src','/i/camera.png');$('#RMA_0650').attr('src','/i/camera.png');$('#RMA_0663').attr('src','/i/camera.png');$('#DSC_4244').attr('src','/i/camera.png');}});
 
-	
 	
 	
 	

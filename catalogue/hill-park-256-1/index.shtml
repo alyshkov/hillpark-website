@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<!--#include virtual="/inc/head.html"-->
-<title>HILL PARK 126</title>
+<title>HILL PARK 256/1</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.html"-->
@@ -23,16 +23,16 @@
 		</div>
 		<p>Двухэтажный дом со вторым светом и внутренней площадью 382 кв. м.<br />
             4 спальни расположены на втором этаже, 2 из которых имеют дополнительные окна внутрь дома на гостиную и тропический сад площадью 35 кв. м.</p>
-        <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №108.</p>
+        <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №256/1.</p>
 		
 			
 		<div class="spacer"></div>
-		<h7><center><a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ФОТОГАЛЕРЕЯ</a>	</center></h7>
+		<h7><center><a href="map_outside.shtml#map">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml#map">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="gallery.shtml#map">ФОТОГАЛЕРЕЯ</a>	</center></h7>
 			
 		<div class="spacer"></div>
-		<a href="map_outside.shtml"><img src="index_outside.jpg"></a>
-		<a href="map_inside.shtml"><img src="index_inside.jpg"></a>
-		<a href="map_inside.shtml"><img src="index_gallery.jpg"></a>
+		<a href="map_outside.shtml#map"><img src="index_outside.jpg"></a>
+		<a href="map_inside.shtml#map"><img src="index_inside.jpg"></a>
+		<a href="gallery.shtml#map"><img src="index_gallery.jpg"></a>
         
 
 

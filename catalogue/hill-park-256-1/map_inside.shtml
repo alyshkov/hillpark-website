@@ -16,13 +16,13 @@
 		
 		<div class="spacer"></div>
  
-
+<a id="map"></a>
 		<img id="plan"  src="photos/DSC_3954.jpg" width=558 height=320>
 		<div class="map_rights">
-		<h7><a href="./map_outside.shtml">ПЛАН УЧАСТКА</a><br>
+		<h7><a href="./map_outside.shtml#map">ПЛАН УЧАСТКА</a><br>
 		ПЛАН 1 ЭТАЖА<br>
 		<!--<a href="./map_inside_2.shtml">ПЛАН 2 ЭТАЖА</a><br>-->
-		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7><br>
+		<a href="./gallery.shtml#map">ФОТОГАЛЕРЕЯ</a></h7><br>
 		</div>		
 
 		<div class="plans">

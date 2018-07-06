@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--#include virtual="/inc/head.html"-->
+<title>HILL PARK 257/1</title>
+</head>
+<body>
+	<!--#include virtual="/inc/menu.html"-->
+	<div class="page-banner"><img src="_banner.jpg" /></div>
+
+	<div class="page-content house">
+
+		
+		<div class="spacer"></div>
+		<center><h7><a href="./">HILL PARK 257/1</a></h7></center>
+		
+		<div class="spacer"></div>
+ 
+<a id="map"></a>
+		<img id="plan"  src="photos/RMA_0990.jpg" width=558 height=320>
+		<div class="map_rights">
+		<h7><a href="./map_outside.shtml#map">ПЛАН УЧАСТКА</a><br>
+		<a href="./map_inside.shtml#map">ПЛАН 1 ЭТАЖА</a><br>
+		
+		<a href="./map_inside_2.shtml#map">ПЛАН 2 ЭТАЖА</a><br>
+		ПЛАН 3 ЭТАЖА<br>
+		<a href="./gallery.shtml#map">ФОТОГАЛЕРЕЯ</a></h7><br>
+		</div>		
+
+		<div class="plans">
+            <table style="top: -88px; left:650px;">
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">754,6</td></tr>
+
+                <tr class="warm title"><td colspan="2">ТРЕТИЙ ЭТАЖ</td><td class="surface">231,2</td></tr>
+                <tr class="warm room"><td class="number">1</td><td class="name">Проходная гостиная</td><td class="surface">14,9</td></tr>
+				<tr class="warm bedroom"><td class="number">2</td><td class="name">Детские апартаменты 1</td><td class="surface">28,4</td></tr>
+                <tr class="warm utility"><td class="number">3</td><td class="name">Санузел</td><td class="surface">8,5</td></tr>
+				<tr class="warm bedroom"><td class="number">4</td><td class="name">Детские апартаменты 2</td><td class="surface">32,0</td></tr>
+				<tr class="warm utility"><td class="number">5</td><td class="name">Санузел</td><td class="surface">7,6</td></tr>
+				<tr class="warm storage"><td class="number">6</td><td class="name">Гардеробная</td><td class="surface">3,2</td></tr>
+				<tr class="warm room"><td class="number">7</td><td class="name">Холл</td><td class="surface">7,6</td></tr>
+
+
+            </table>
+		</div>		
+
+		<div class='parent'>
+			<img class="map" style=" padding-top: 10px " src="plan_inside_1.jpg"/>
+
+<img id="RMA_0990" style="position: absolute; left: 125px;top: 118px;"src="/i/camera_off.png"/>
+
+		</div>
+		
+<script type="text/javascript">
+$('#RMA_0990').on({'click': function(){$('#plan').attr('src','photos/RMA_0990.jpg');$('#RMA_0990').attr('src','/i/camera_off.png');}});
+
+
+
+
+	
+
+	
+	
+	
+
+</script>
+
+        
+		
+		
+
+	    	<!--#include virtual="/inc/footer.shtml"-->
+		</div>
+</body>
+</html>

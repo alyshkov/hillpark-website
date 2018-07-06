@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<!--#include virtual="/inc/head.html"-->
-<title>HILL PARK 126</title>
+<title>HILL PARK 257/1</title>
 </head>
 <body>
 	<!--#include virtual="/inc/menu.html"-->
@@ -12,90 +12,68 @@
 			
 		<div class="spacer"></div>
 		
-<center><a href="./"><h7>HILL PARK 126</h1></a></center>
+<center><a href="./"><h7>HILL PARK 257/1</h1></a></center>
 		
 		<div class="spacer"></div>
 		
  
-
-		<img id="plan"  src="photos/RMA_0573.jpg"/ width=558 height=324>
+<a id="map"></a>
+		<img id="plan"  src="photos/RMA_1039-2.jpg"/ width=558 height=324>
 		<div class="map_rights">
 		<h7>ПЛАН УЧАСТКА<br>
-		<a href="./map_inside.shtml">ПЛАН 1 ЭТАЖА</a><br>
-		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7>
+		<a href="./map_inside.shtml#map">ПЛАН 1 ЭТАЖА</a><br>
+				<a href="./map_inside_2.shtml#map">ПЛАН 2 ЭТАЖА</a><br>
+		<a href="./map_inside_3.shtml#map">ПЛАН 3 ЭТАЖА</a><br>
+		<!--<a href="./map_inside_2.shtml">ПЛАН 2 ЭТАЖА</a><br>-->
+		<a href="./gallery.shtml#map">ФОТОГАЛЕРЕЯ</a></h7>
 		</div>		
 
 		<div class="plans">
             <table style="top: -88px; left:650px;">
-<tr class="total"><td colspan="2">Общая площадь</td><td class="surface">408,4</td></tr>
-                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">237,4</td></tr>
-                <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">13,6</td></tr>
-                <tr class="warm room"><td class="number">2</td><td class="name">Гостиная-кухня</td><td class="surface">77,6</td></tr>
-                <tr class="warm room"><td class="number">3</td><td class="name">Кабинет / гостевая</td><td class="surface">20,4</td></tr>
-                <tr class="warm bedroom"><td class="number">4</td><td class="name">Спальня 1</td><td class="surface">22,3</td></tr>
-                <tr class="warm bedroom"><td class="number">5</td><td class="name">Спальня 2</td><td class="surface">19,1</td></tr>
-                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел общий</td><td class="surface">4,5</td></tr>
-                <tr class="warm utility"><td class="number">7</td><td class="name">Сауна</td><td class="surface">2,9</td></tr>
-                <tr class="warm utility"><td class="number">8</td><td class="name">Котельная / санузел</td><td class="surface">5,1</td></tr>
-                <tr class="warm bedroom"><td class="number">9</td><td class="name">Главная спальня</td><td class="surface">20,4</td></tr>
-                <tr class="warm utility"><td class="number">10</td><td class="name">Санузел главной спальни</td><td class="surface">7,3</td></tr>
-                <tr class="warm storage"><td class="number">11</td><td class="name">Гардеробная</td><td class="surface">3,5</td></tr>
-				<tr class="warm utility"><td class="number">14</td><td class="name">Гараж</td><td class="surface">40,7</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемая площадь</td><td class="surface">171,0</td></tr>
-				<tr class="cold utility"><td class="number">11</td><td class="name">Хозблок</td><td class="surface">10,6</td></tr>
-				<tr class="cold terrace"><td class="number">12</td><td class="name">Терраса с бассейном</td><td class="surface">157,0</td></tr>
-                <tr class="cold terrace"><td class="number">13</td><td class="name">Крыльцо</td><td class="surface">3,4</td></tr>
+
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">754,6</td></tr>
+                <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">359,3</td></tr>
+
+                <tr class="warm title"><td colspan="2">ВТОРОЙ ЭТАЖ</td><td class="surface">164,1</td></tr>
+
+                <tr class="warm title"><td colspan="2">ТРЕТИЙ ЭТАЖ</td><td class="surface">231,2</td></tr>
+
+				<tr class="cold terrace"><td class="number">8</td><td class="name">Терраса крытая</td><td class="surface">123,0</td></tr>
+				<tr class="warm storage"><td class="number">9</td><td class="name">Гардеробная</td><td class="surface">6,0</td></tr>
             </table>
 		</div>		
 
 		<div class='parent'>
 			<img class="map" style=" padding-top: 10px " src="plan_outside.jpg"/>
 			
-<img id="RMA_0573" style="position: absolute; left: 445px;top: 92px;"src="/i/camera.png"/>
-
-<img id="RMA_0572" style="position: absolute; left: 238px;top: 107px;"src="/i/camera.png"/>
-
-<img id="RMA_0598" style="position: absolute; left: 182px;top: 65px;"src="/i/camera.png"/>
-
-<img id="DSC_4331" style="position: absolute; left: 202px;top: 74px;"src="/i/camera.png"/>
-
-<img id="DSC_4319" style="position: absolute; left: 172px;top: 205px;"src="/i/camera.png"/>
-
-<img id="DSC_4325" style="position: absolute; left: 187px;top: 239px;"src="/i/camera.png"/>
-
-<img id="RMA_0531" style="position: absolute; left: 557px;top: 109px;"src="/i/camera.png"/>
-
-<img id="RMA_0627" style="position: absolute; left: 522px;top: 223px;"src="/i/camera.png"/>
-
-<img id="RMA_0548" style="position: absolute; left: 534px;top: 323px;"src="/i/camera.png"/>
-
-<img id="RMA_0560" style="position: absolute; left: 470px;top: 323px;"src="/i/camera.png"/>
-
-<img id="RMA_0615" style="position: absolute; left: 383px;top: 323px;"src="/i/camera.png"/>
-
-<img id="RMA_0585" style="position: absolute; left: 1px;top: 124px;"src="/i/camera.png"/>
-
-<img id="RMA_0602" style="position: absolute; left: 95px;top: 66px;"src="/i/camera.png"/>
-		   
-		   
-	        
+<img id="RMA_1039-2" style="position: absolute; left: 106px;top: 10px;"src="/i/camera_off.png"/>
+<img id="RMA_0936" style="position: absolute; left: 3px;top: 275px;"src="/i/camera.png"/>
+<img id="RMA_0913-2" style="position: absolute; left: 14px;top: 310px;"src="/i/camera.png"/>
+<img id="RMA_0914-2" style="position: absolute; left: 54px;top: 310px;"src="/i/camera.png"/>
+<img id="RMA_0915" style="position: absolute; left: 100px;top: 310px;"src="/i/camera.png"/>
+<img id="RMA_0950" style="position: absolute; left: 245px;top: 310px;"src="/i/camera.png"/>
+<img id="RMA_0953" style="position: absolute; left: 377px;top: 310px;"src="/i/camera.png"/>
+<img id="RMA_0923" style="position: absolute; left: 431px;top: 310px;"src="/i/camera.png"/>
+<img id="RMA_0959" style="position: absolute; left: 525px;top: 290px;"src="/i/camera.png"/>
+<img id="RMA_0743" style="position: absolute; left: 525px;top: 320px;"src="/i/camera.png"/>
+<img id="RMA_0926" style="position: absolute; left: 525px;top: 247px;"src="/i/camera.png"/>
+	       
 		</div>
 		
-
 <script type="text/javascript">
-$('#RMA_0573').on({'click': function(){$('#plan').attr('src','photos/RMA_0573.jpg');}});
-$('#RMA_0572').on({'click': function(){$('#plan').attr('src','photos/RMA_0572.jpg');}});
-$('#RMA_0598').on({'click': function(){$('#plan').attr('src','photos/RMA_0598.jpg');}});
-$('#DSC_4331').on({'click': function(){$('#plan').attr('src','photos/DSC_4331.jpg');}});
-$('#DSC_4319').on({'click': function(){$('#plan').attr('src','photos/DSC_4319.jpg');}});
-$('#DSC_4325').on({'click': function(){$('#plan').attr('src','photos/DSC_4325.jpg');}});
-$('#RMA_0531').on({'click': function(){$('#plan').attr('src','photos/RMA_0531.jpg');}});
-$('#RMA_0627').on({'click': function(){$('#plan').attr('src','photos/RMA_0627.jpg');}});
-$('#RMA_0548').on({'click': function(){$('#plan').attr('src','photos/RMA_0548.jpg');}});
-$('#RMA_0560').on({'click': function(){$('#plan').attr('src','photos/RMA_0560.jpg');}});
-$('#RMA_0615').on({'click': function(){$('#plan').attr('src','photos/RMA_0615.jpg');}});
-$('#RMA_0585').on({'click': function(){$('#plan').attr('src','photos/RMA_0585.jpg');}});
-$('#RMA_0602').on({'click': function(){$('#plan').attr('src','photos/RMA_0602.jpg');}});
+$('#RMA_1039-2').on({'click': function(){$('#plan').attr('src','photos/RMA_1039-2.jpg');$('#RMA_1039-2').attr('src','/i/camera_off.png');}});
+$('#RMA_0936').on({'click': function(){$('#plan').attr('src','photos/RMA_0936.jpg');$('#RMA_0936').attr('src','/i/camera_off.png');}});
+$('#RMA_0913-2').on({'click': function(){$('#plan').attr('src','photos/RMA_0913-2.jpg');$('#RMA_0913-2').attr('src','/i/camera_off.png');}});
+$('#RMA_0914-2').on({'click': function(){$('#plan').attr('src','photos/RMA_0914-2.jpg');$('#RMA_0914-2').attr('src','/i/camera_off.png');}});
+$('#RMA_0915').on({'click': function(){$('#plan').attr('src','photos/RMA_0915.jpg');$('#RMA_0915').attr('src','/i/camera_off.png');}});
+$('#RMA_0950').on({'click': function(){$('#plan').attr('src','photos/RMA_0950.jpg');$('#RMA_0950').attr('src','/i/camera_off.png');}});
+$('#RMA_0953').on({'click': function(){$('#plan').attr('src','photos/RMA_0953.jpg');$('#RMA_0953').attr('src','/i/camera_off.png');}});
+$('#RMA_0923').on({'click': function(){$('#plan').attr('src','photos/RMA_0923.jpg');$('#RMA_0923').attr('src','/i/camera_off.png');}});
+$('#RMA_0959').on({'click': function(){$('#plan').attr('src','photos/RMA_0959.jpg');$('#RMA_0959').attr('src','/i/camera_off.png');}});
+$('#RMA_0743').on({'click': function(){$('#plan').attr('src','photos/RMA_0743.jpg');$('#RMA_0743').attr('src','/i/camera_off.png');}});
+$('#RMA_0926').on({'click': function(){$('#plan').attr('src','photos/RMA_0926.jpg');$('#RMA_0926').attr('src','/i/camera_off.png');}});
+
+
 
 	
 
