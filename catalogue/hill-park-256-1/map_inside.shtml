@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--#include virtual="/inc/head.html"-->
+<title>HILL PARK 126</title>
+</head>
+<body>
+	<!--#include virtual="/inc/menu.html"-->
+	<div class="page-banner"><img src="_banner.jpg" /></div>
+
+	<div class="page-content house">
+
+		
+		<div class="spacer"></div>
+		<center><h7><a href="./">HILL PARK 256/1</a></h7></center>
+		
+		<div class="spacer"></div>
+ 
+
+		<img id="plan"  src="photos/DSC_3933.jpg" width=558 height=320>
+		<div class="map_rights">
+		<h7><a href="./map_outside.shtml">ПЛАН УЧАСТКА</a><br>
+		ПЛАН 1 ЭТАЖА<br>
+		<a href="./map_inside_2.shtml">ПЛАН 2 ЭТАЖА</a><br>
+		<a href="./gallery.shtml">ФОТОГАЛЕРЕЯ</a></h7><br>
+		</div>		
+
+		<div class="plans">
+            <table style="top: -88px; left:650px;">
+                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">382,3</td></tr>
+                <tr class="warm title"><td colspan="2">ПЕРВЫЙ ЭТАЖ</td><td class="surface">214,9</td></tr>
+                <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">17,6</td></tr>
+                <tr class="warm utility"><td class="number">2</td><td class="name">Котельная и парачечная</td><td class="surface">6,1</td></tr>
+                <tr class="warm utility"><td class="number">3</td><td class="name">Санузел общий</td><td class="surface">4,5</td></tr>
+                <tr class="warm utility"><td class="number">4</td><td class="name">Сауна</td><td class="surface">5,3</td></tr>
+                <tr class="warm storage"><td class="number">5</td><td class="name">Хозяйственная кладовая</td><td class="surface">3,9</td></tr>
+                <tr class="warm room"><td class="number">6</td><td class="name">Гостиная</td><td class="surface">120,0</td></tr>
+                <tr class="warm room"><td class="number">7</td><td class="name">Кабинет</td><td class="surface">22,5</td></tr>
+                <tr class="warm utility"><td class="number">8</td><td class="name">Летний сад с бассейном</td><td class="surface">35,0</td></tr>
+                <tr class="warm title"><td colspan="2">ВТОРОЙ ЭТАЖ</td><td class="surface">167,4</td></tr>
+                <tr class="warm room"><td class="number">1</td><td class="name">Холл</td><td class="surface">26,0</td></tr>
+                <tr class="warm bedroom"><td class="number">2</td><td class="name">Спальня 1</td><td class="surface">32,0</td></tr>
+                <tr class="warm utility"><td class="number">3</td><td class="name">Санузел спальни 1</td><td class="surface">7,2</td></tr>
+                <tr class="warm bedroom"><td class="number">4</td><td class="name">Спальня 2</td><td class="surface">23,0</td></tr>
+                <tr class="warm utility"><td class="number">5</td><td class="name">Санузел спальни 2</td><td class="surface">8,5</td></tr>
+                <tr class="warm bedroom"><td class="number">6</td><td class="name">Спальня 3</td><td class="surface">32,0</td></tr>
+                <tr class="warm utility"><td class="number">7</td><td class="name">Санузел спальни 3</td><td class="surface">7,2</td></tr>
+                <tr class="warm bedroom"><td class="number">8</td><td class="name">Спальня 4</td><td class="surface">23,0</td></tr>
+                <tr class="warm utility"><td class="number">9</td><td class="name">Санузел спальни 4</td><td class="surface">8,5</td></tr>
+            </table>
+		</div>		
+
+		<div class='parent'>
+			<img class="map" style=" padding-top: 10px " src="plan_inside_1.jpg"/>
+
+
+
+<img id="DSC_4244" style="position: absolute; left: 267px;top: 76px;"src="/i/camera_off.png"/>
+
+		</div>
+		
+
+<script type="text/javascript">
+$('#RMA_0573').on({'click': function(){$('#plan').attr('src','photos/RMA_0573.jpg');}});
+	
+
+	
+	
+	
+
+</script>
+
+        
+		
+		
+
+	    	<!--#include virtual="/inc/footer.shtml"-->
+		</div>
+</body>
+</html>
