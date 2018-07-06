@@ -12,7 +12,7 @@
 		<div class="k-price-label">
             <div class="price-range">
                 Дом с полной отделкой<br>+ УЧАСТОК
-	            <div><span class="price">23,9</span><span class="currency"> МЛН. РУБ.</span></div>
+	            <div><span class="price">26,9</span><span class="currency"> МЛН. РУБ.</span></div>
             </div>
 		</div>
 		<h1>HILL PARK 126</h1>
@@ -24,37 +24,28 @@
             парк на крыше: <span class="emphasize">404 м<sup>2</sup></span><br />
 		</div>
 		<p>Дом площадью 408 кв. м. (внутренние отапливаемые помещения - 237 кв. м., террасы и хозяйственные помещения - 171 кв. м.) с парком на крыше площадью 404 кв. м.</p>
-        <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №126.</p>
+        <p><strong>Расположение:</strong> Всеволожский район ЛО, массив «Белоостров», ДНП «Памир», участок №108.</p>
+		
+			
 		<div class="spacer"></div>
-        <div class="plans left">
-            <table style="top: 200px">
-                <tr class="total"><td colspan="2">Общая площадь</td><td class="surface">408,4</td></tr>
-                <tr class="warm title"><td colspan="2">Отапливаемая площадь</td><td class="surface">237,4</td></tr>
-                <tr class="warm room"><td class="number">1</td><td class="name">Прихожая</td><td class="surface">13,6</td></tr>
-                <tr class="warm room"><td class="number">2</td><td class="name">Гостиная-кухня</td><td class="surface">77,6</td></tr>
-                <tr class="warm room"><td class="number">3</td><td class="name">Кабинет / гостевая</td><td class="surface">20,4</td></tr>
-                <tr class="warm bedroom"><td class="number">4</td><td class="name">Спальня 1</td><td class="surface">22,3</td></tr>
-                <tr class="warm bedroom"><td class="number">5</td><td class="name">Спальня 2</td><td class="surface">19,1</td></tr>
-                <tr class="warm utility"><td class="number">6</td><td class="name">Санузел общий</td><td class="surface">4,5</td></tr>
-                <tr class="warm utility"><td class="number">7</td><td class="name">Сауна</td><td class="surface">2,9</td></tr>
-                <tr class="warm utility"><td class="number">8</td><td class="name">Котельная / санузел</td><td class="surface">5,1</td></tr>
-                <tr class="warm bedroom"><td class="number">9</td><td class="name">Главная спальня</td><td class="surface">20,4</td></tr>
-                <tr class="warm utility"><td class="number">10</td><td class="name">Санузел главной спальни</td><td class="surface">7,3</td></tr>
-                <tr class="warm storage"><td class="number">11</td><td class="name">Гардеробная</td><td class="surface">3,5</td></tr>
-				<tr class="warm utility"><td class="number">14</td><td class="name">Гараж</td><td class="surface">40,7</td></tr>
-                <tr class="cold title"><td colspan="2">Неотапливаемая площадь</td><td class="surface">171,0</td></tr>
-				<tr class="cold utility"><td class="number">11</td><td class="name">Хозблок</td><td class="surface">10,6</td></tr>
-				<tr class="cold terrace"><td class="number">12</td><td class="name">Терраса с бассейном</td><td class="surface">157,0</td></tr>
-                <tr class="cold terrace"><td class="number">13</td><td class="name">Крыльцо</td><td class="surface">3,4</td></tr>
-            </table>
-	        <img style="width:870px" src="plan.jpg"/>
-        </div>
-		<div class="spacer-white"></div>
-		<div class="spacer-white"></div>
-        <h3>Нажмите на фото для увеличения:</h3>
-        <div class="photo-gallery"></div>
+		<h7><center><a href="map_outside.shtml">ПЛАН УЧАСТКА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ПЛАН ДОМА</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<a href="map_inside.shtml">ФОТОГАЛЕРЕЯ</a>	</center></h7>
+			
+		<div class="spacer"></div>
+		<a href="map_outside.shtml"><img src="index_outside.jpg"></a>
+		<a href="map_inside.shtml"><img src="index_inside.jpg"></a>
+		<a href="map_inside.shtml"><img src="index_gallery.jpg"></a>
+        
+
+
+
+
+
+        
+		
+
+
         <!--#include file="photos.html"-->
-		    <!--#include virtual="/inc/footer.shtml"-->
-	</div>
+	    	<!--#include virtual="/inc/footer.shtml"-->
+		</div>
 </body>
 </html>

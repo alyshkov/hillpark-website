@@ -17,7 +17,7 @@
 		<div class="spacer"></div>
  
 
-		<img id="plan"  src="photos/plan_inside_03.jpg"/>
+		<img id="plan"  src="photos/plan_inside_03.jpg"  width=558 height=320/>
 		<div class="map_rights">
 		<h7><a href="./map_outside.shtml">ПЛАН УЧАСТКА</a><br>
 		ПЛАН 1 ЭТАЖА<br>
@@ -56,16 +56,18 @@
 		    <img id="plan_inside_14" style="position: absolute; left: 330px;top: 54px;"src="/i/camera.png"/>
 		    <img id="plan_inside_06" style="position: absolute; left: 96px;top: 30px;"src="/i/camera.png"/>
 		    <img id="plan_inside_03" style="position: absolute; left: 411px;top: 193px;"src="/i/camera_off.png"/>
-
-	        
+         
 		</div>
 		
 
 <script type="text/javascript">
 $('#plan_inside_14').on({'click': function(){$('#plan').attr('src','photos/plan_inside_14.jpg');$('#plan_inside_14').attr('src','/i/camera_off.png');$('#plan_inside_13').attr('src','/i/camera.png');$('#plan_inside_06').attr('src','/i/camera.png');$('#plan_inside_03').attr('src','/i/camera.png');}});
+
 $('#plan_inside_13').on({'click': function(){$('#plan').attr('src','photos/plan_inside_13.jpg');$('#plan_inside_13').attr('src','/i/camera_off.png');$('#plan_inside_14').attr('src','/i/camera.png');$('#plan_inside_06').attr('src','/i/camera.png');$('#plan_inside_03').attr('src','/i/camera.png');}});
+
 $('#plan_inside_06').on({'click': function(){$('#plan').attr('src','photos/plan_inside_06.jpg');$('#plan_inside_06').attr('src','/i/camera_off.png');$('#plan_inside_13').attr('src','/i/camera.png');$('#plan_inside_14').attr('src','/i/camera.png');$('#plan_inside_03').attr('src','/i/camera.png');}});
 $('#plan_inside_03').on({'click': function(){$('#plan').attr('src','photos/plan_inside_03.jpg');$('#plan_inside_03').attr('src','/i/camera_off.png');$('#plan_inside_13').attr('src','/i/camera.png');$('#plan_inside_06').attr('src','/i/camera.png');$('#plan_inside_14').attr('src','/i/camera.png');}});
+
 	
 
 </script>
